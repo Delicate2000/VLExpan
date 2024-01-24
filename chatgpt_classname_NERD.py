@@ -7,30 +7,7 @@ import time
 from askGPT import ASK_GPT
 # 利用chatgpt的结果 调参
 
-# openai.api_key = "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"
-# openai.api_key = "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"
-# openai.api_key = "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 "
-
-keys = '''xptmakpbjn86@outlook.com----rrgxrtkxem15----sess-hNflAw6XmX8mPONk1sYv4wtqopnzj5ZQBXPbwf0h
-exbynsnbpx93@outlook.com----grnhpbagpj99----sess-jFH2RjHV2p4BDubMPrIhdNPbwrwpQnu0o6uEWF9S
-fxycraghwb18@outlook.com----aagsstejaw14----sess-CXjTRU6PI59IK2flPNmkukit4P8a6aDO6IuuxAL9
-efxakwamha98@outlook.com----bdsemrybar35----sess-GhALCXJ13us8Exu3rIlHwn2n5HHeNATCI4vfov8J
-rkymmcwhey24@outlook.com----mfmfdcpehp49----sess-OhRvKyaCM6VYVu2VVKrqOVX4fvqzcKz0gFApKhkX
-maanppajnj94@outlook.com----pawhdmsant61----sess-JJQi1gUD1bZJdEGG86fooLNDAU59OI1zEntzGJlj
-mmdffgaehs58@outlook.com----awfjkxmxst27----sess-m6qicHikuffORW5DhZEdTMPkwLJm6tPi9drNwKn7
-ffsgjbkehm96@outlook.com----fygxybebht13----sess-MBXETIeKGiWXq2wJDVCNgjKOWM1qi735mK4oaxJk
-cdhmbncwfh58@outlook.com----bppcdncbsc65----sess-pQjpcLGj2Z3RBeMyA3yZirOjwSlUwynLCI8aAoX7
-srbxamhwky63@outlook.com----mtesfmghsm29----sess-icIPSIEvWFj07fwxsjtThD6zEnpU9Xr4caMiC8f8
-eeehcsswmd23@outlook.com----xyrcxjnspy99----sess-w2JjKPgXIRoFiYcnZejJ1n8eLv1tRgzJWWfPspBS
-tpeywdwbsn33@outlook.com----rmygcbrpjj25----sess-8Kjdo7iST1qdJkYE2fOEgKZCsgeAdBQvjTTzzA3g
-pxxmmswtxm91@outlook.com----ehrbpjtets26----sess-3OrSMIx8m1EuFulOjWuNbkEc0FJOXVIcCiTyPykS
-wcwnaywact54@outlook.com----pktkhdfdbc26----sess-wxNAvcuPN1rxX5oWJc0PMTZg8kzN8Ei5TcGHCnzB
-xwrsjceesx92@outlook.com----pdpaywsjbw65----sess-0A68KYBaaVJxqmgPdVhKVdGu9ddpSbBoJ1kwENvi
-bssdhwjngm54@outlook.com----jprnybejap78----sess-szQ9sciR8DOSWitAKO0NRgLiej0kyu6tIQ4PER6D
-ccmjemrmhy34@outlook.com----pcytctcppf96----sess-xsG47fCNO00UJWZT8Lh87kCHWCxtNiPMrPuPw78v
-sysxkycrpf19@outlook.com----yxpraahssa74----sess-i81ZORagl32N4pkg5BDteFQcIQFGYPKAcyERkMAd
-hmgchdpdwc53@outlook.com----xfdewhawnp85----sess-gxvMAYVlPzqaBIQQKy0PkBL9lEhcZWtn8kQuNFVJ
-bjjkxpgtja73@outlook.com----hsjeshpdkb57----sess-JK0ZD9L0jDxdH3ZRffYsDF6viET189J1lgvGuL5s'''
+keys = '''...''' # put your key here
 ask_GPT = ASK_GPT(keys)
 
 

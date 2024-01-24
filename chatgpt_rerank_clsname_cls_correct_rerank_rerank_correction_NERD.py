@@ -10,7 +10,7 @@ keys = '''...''' # put your key here
 ask_GPT = ASK_GPT(keys)
 
 dataset = 'NERD'
-win_size = 12
+win_size = 10
 data_dir = os.path.join("data", dataset)
 q_files = os.listdir(os.path.join(data_dir, "query"))
 model_name = "text-kl_beit3_42_(beit3)_lr=2e-05_epoch=1_batchsize=32_num_sen_per_entity=128"

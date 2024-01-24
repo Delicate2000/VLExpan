@@ -213,3 +213,39 @@ for cls in class_names:
 
 with open(f"./negative_cases_{dataset}_{resfile}.json","w") as f:
     json.dump(negative_cases,f)
+
+
+def get_predict(cls, index):  # 改这边
+    q_index = index
+    change_indexs = []
+    changed_rank = []
+    origin_rank = list(m_eid2index[cls][q_index].keys()).copy()
+    
+    for case in become_first[f"{cls}_{index}"]:
+        changed_rank.append(case[0])
+        origin_rank.remove(case[0])
+        
+    for case in become_second[f"{cls}_{index}"] :
+        changed_rank.append(case[0])
+        try: # 可能是text新加的
+            origin_rank.remove(case[0]) 
+        except:
+            pass
+
+    changed_rank += origin_rank
+    return changed_rank
+
+candidate_list = dict()
+
+for cls in class_names:
+    for i in range(len(m_eid2index[cls])):
+        cands = list(m_eid2index.keys()).copy()
+        cands = get_predict(cls, index)
+        candidate_list[f"{cls}_{i}"] = cands
+
+
+with open(f"./candidate_list_{dataset}_{win_size}_{resfile}.json","w") as f:
+    json.dump(candidate_list,f)
+
+with open(f"./m_eid2index_{dataset}_{resfile}.json","w") as f:
+    json.dump(m_eid2index,f)
