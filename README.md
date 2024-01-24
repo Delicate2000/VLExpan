@@ -31,6 +31,7 @@ Run the following instruction to tokenize the corpus, which returns 'entity2sent
 
 ## Pretraining and Expanding
 First download the pretrained BEIT-3 parameters.
+
 Then run the following script to pretrain the BEIT-3 and obtain three kinds of expansion results.
 ```
 >>> bash beit3_pretrain_NERD.sh
@@ -44,16 +45,18 @@ Run the following instruction to select the positve (become_first.json) and nega
 ```
 
 ## Class name induction
-First put your ChatGPT API into the following '.py' file
-Then run the following instruction to induce the class name 
+First put your ChatGPT API into the following '.py' file.
+
+Then run the following instruction to induce the class name.
 ```
 >>> python -u chatgpt_classname_NERD.py # initial class name
 >>> python -u chatgpt_classname_correction_NERD # Reflection
 ```
 
 ## Entity deduction
-First put your ChatGPT API into the following '.py' file
-Then run  the following instruction to obtain the final expansion
+First put your ChatGPT API into the following '.py' file.
+
+Then run  the following instruction to obtain the final expansion.
 ```
 >>> python -u chatgpt_rerank_clsname_cls_correct_rerank_rerank_correction_NERD.py 
 ```
