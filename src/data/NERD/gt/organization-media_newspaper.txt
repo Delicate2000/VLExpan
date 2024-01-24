@@ -1,0 +1,200 @@
+3615	Satellite News Channel	1
+2295	Phoenix New Times	1
+123	CNBC Europe	1
+2304	Cinemax	1
+5453	U.S. News & amp ; World Report	1
+19103	Flix	1
+17901	BBC Radio	1
+139	CBC News	1
+8098	CBS Sports Network	1
+8776	Rock 's Backpages	1
+11319	VisionTV	1
+15483	Eco Boys and Girls	1
+4433	NESN	1
+20228	WJW	1
+1835	Citytv	1
+7403	CBS News	1
+12059	Spectacor 's	1
+5729	Consumer Reports	1
+18257	Fox TV	1
+12955	MSNBC	1
+4217	RTL 4	1
+9259	Press TV	1
+2171	Complex	1
+175	WNBC	1
+10215	BBC Radio 4	1
+20314	NDTV	1
+19033	Channel Seven	1
+13591	BBC Two	1
+15244	BBC One	1
+12604	Movie Channel	1
+4231	Reuters	1
+1257	The CW	1
+15986	SportsChannel Philadelphia	1
+3338	ESPNEWS	1
+11624	FRUMEL	1
+14107	Manchester Guardian	1
+6690	Economist Intelligence Unit	1
+4620	TV1	1
+20713	Golf Channel	1
+19188	VHF	1
+8207	RIP	1
+11097	BBC2	1
+19859	SBS	1
+5149	Le Monde	1
+5575	Spike TV	1
+14803	NYC TV	1
+11694	NBC News	1
+4459	KNTV	1
+19342	Sky News	1
+8837	PRISM	1
+13388	Restaurant Guide	1
+3513	Association of Argentine Television and Radio Journalists	1
+18667	CBC Indigenous	1
+6173	The Spot	1
+537	Foxtel Movies	1
+14737	Air Canada 's in-flight entertainment	1
+5644	General News Service of `` Bernama ''	1
+16751	My65	1
+10276	Rome Correspondent	1
+15165	Diapason magazine	1
+13796	Al Jazeera English	1
+8388	SABC )	1
+3897	Blog Talk Radio	1
+14180	Top Up TV	1
+17581	United Press International Newsfilm	1
+2418	Black Entertainment Television network	1
+5115	Trident Television	1
+10431	COURT TV	1
+816	Hankook Ilbo	1
+14373	MTV France	1
+13314	Warner Bros. Entertainment Inc	1
+3475	MyTV New England	1
+12868	Remixed	1
+2244	Caz !	1
+1583	Journal of Applied Physics and Applied Physics Letters	1
+3681	So Foot	1
+7761	the fifth television network	1
+7332	HSV-7	1
+17761	Viacom channel MTV New Zealand	1
+5110	3SR Shepparton	1
+9729	TVB City at the Tseung Kwan O Industrial Estate	1
+6962	Viva Television	1
+2602	New Albany Ledger Tribune	1
+9120	NJTV	1
+3740	Yomiuri Shimbun	1
+12140	TV-10 Jolo	1
+9642	Radio–Télévision Centrafrique	1
+1863	9-8 Television	1
+5216	Zell	1
+4225	Creative Screenwriting	1
+20105	NDTV Imagine Showbiz	1
+15879	national broadcaster Doordarshan	1
+17227	Citylite 91.5	1
+9566	Viasat platform	1
+3256	Venevisión	1
+2954	Media Sales	1
+9296	Asian Food Channel	1
+19306	SIRIUS Planet Jazz	1
+12790	Knipscheer Press	1
+20452	ITV Studios	1
+13976	Reader 's Digest	1
+9749	RTP channel	1
+9992	Jobson Publishing	1
+11379	BBC Entertainment Department	1
+5045	UniMas	1
+2957	NTA Film Network	1
+3419	Mexican television	1
+13463	United Press	1
+822	Cool Site of the Day	1
+15355	TV4 Plus	1
+335	zee Marathi	1
+4023	the Union Brazilian pro Interlingua	1
+7655	Westwood One radio	1
+116	New Straits Times	1
+10067	More 4	1
+10502	La Academia USA	1
+4314	Crawdaddy !	1
+269	The God Channel and Inspirational Network	1
+15973	Ynet	1
+18212	Fox Saturday Baseball	1
+13437	Worldspace	1
+17492	ABC Television	1
+16134	ThinkFilm	1
+14545	Mercury News	1
+1167	Tickle Me Pink	1
+16503	Paper Machete	1
+2182	Dury	1
+9231	The New York Times - International Business	1
+5808	Canadian music video channel MuchMusic	1
+8566	Wolfe Video	1
+4839	DIRECTV	1
+16453	Limonka	1
+323	NBC Sports Regional Networks	1
+20154	Turner Asia Pacific Ventures	1
+8618	`` The Sporting News ''	1
+16909	Yardbarker	1
+12763	CBS Television	1
+12401	NC2 Media	1
+6426	Manchester Stream	1
+17914	BBC Three	1
+1869	Radio y Televisión Martí	1
+17010	SMNI TV 43 Davao	1
+8645	AM 1220 The Legends WWSF	1
+16885	Michigan Quarterly Review	1
+10321	100.3FM	1
+2283	Thilo Sarrazin	1
+19431	Twill	1
+7507	Sportscene	1
+11156	El Espectador	1
+14178	Glamour México	1
+12601	KHMX	1
+8928	Sveriges Television	1
+19065	Qubo channel	1
+11646	CBS Evening News and iVillage	1
+17099	Sky Digital channel 17	1
+5276	Fox News Channel Online	1
+10998	TVT Sountrax	1
+1649	Charter Cable channel 292	1
+5856	Saudi 2	1
+4892	Radio Sangley	1
+3221	Ghost Story Society	1
+15558	Zindagi	1
+13511	RTÉ television	1
+1110	CTV Atlantic	1
+15604	Today 's Local News	1
+2789	TripAdvisor	1
+14622	Xfinity Digital channel 624	1
+11451	Information TV 2	1
+10384	Gemini TV	1
+15031	Fantasy Press	1
+7215	Kundu 2 TV	1
+3776	U.S. SCI FI channel	1
+4776	Apple News	1
+6909	Christian Television Network	1
+9354	Disney animated programming	1
+18275	The Huffington Post France	1
+842	Luceafărul	1
+17489	SportsNet LA	1
+7390	27500 3/4	1
+15731	Manchester Courier	1
+8946	Delaware County Daily Times	1
+647	cpt	1
+16741	India Today Aspire	1
+18154	Sony Entertainment Television channel	1
+15229	NBC Sports Network	1
+7382	Riverside Press-Enterprise	1
+19313	WBMX-FM	1
+3588	Screen Daily	1
+6296	More4 +1	1
+10049	ABC 2 News	1
+7121	Boston ABC	1
+7772	Dunbar Productions	1
+18077	The Hindustan Times	1
+2726	mtvU	1
+18551	ATN South Asian Cooking Channel 1	1
+7296	Sister2Sister	1
+8898	Empire Sports Network	1
+19519	Antenna TV	1
+1105	Edmunds	1
+18047	ZTV	1

@@ -1,0 +1,200 @@
+9105	The Seattle Public Library	1
+12907	National Library of China	1
+3073	Avril Robarts Library	1
+3569	The Wellcome Research Library	1
+3969	Astor Library	1
+20381	Edmonton Public Library	1
+7189	Low Library	1
+7548	Radcliffe Science Library	1
+12176	Fine Arts Library	1
+11196	Bodleian library	1
+1905	Houghton Library	1
+19821	Boston Public Library	1
+17328	State Library of NSW	1
+14516	William Andrews Clark Memorial Library	1
+14634	Knight Library	1
+9203	National and University Library	1
+12289	Edinburgh University Library	1
+16809	Guildhall Library	1
+18674	Fisher Fine Arts Library	1
+7594	New Orleans Public Library	1
+330	The New York Public Library	1
+1998	New York Public Library Main Branch	1
+18115	Brooklyn Public Library	1
+20267	Robarts Library	1
+19161	Hillman Library of the University of Pittsburgh	1
+17699	British Library of Political and Economic Science	1
+8011	Library of Alexandria	1
+9821	NYPL	1
+20499	Hillman Library	1
+10019	Seattle Public Library	1
+7116	New York City Public Library	1
+18521	Low Memorial Library	1
+2180	New York Public Library	1
+3784	Lenox Library	1
+16077	Trinity College Library	1
+15196	State Library of New South Wales	1
+15010	Newark Public Library	1
+14807	Beinecke Library	1
+6082	Bodleian Library	1
+16302	Widener Library	1
+4199	Denver Public Library	1
+6643	Queens Library	1
+14456	State Library of South Australia	1
+14143	Bancroft Library	1
+2519	Cleveland Public Library	1
+10829	Burndy Library	1
+10920	Bibliotheca Alexandrina	1
+2883	State Library of Victoria	1
+11645	Sterling Memorial Library	1
+10115	Glasgow University Library	1
+3762	British Library National Sound Archive	1
+5870	Darwen Library	1
+1528	South Houston Branch of Harris County Public Library	1
+6334	West Farms branch	1
+19269	Director of the Seattle Public Library	1
+9218	San Diego 's central library	1
+8158	Saxon State	1
+16872	Deen Bandhu Library	1
+13718	Glasgow 's Mitchell Library	1
+20387	the New York State Archives	1
+9604	Delray Branch	1
+4078	Smith Neighborhood Library	1
+14410	Weston Library	1
+1443	Jones Library	1
+9713	Smith College Archives	1
+13991	National Watch and Clock Library	1
+1845	Department of Special Collections/Mugar Memorial Library	1
+20509	Hunter Library	1
+2939	Richelieu site	1
+14097	Concord Free Public Library	1
+18188	The New Orleans Public Library	1
+5291	The Wellcome Reference Library	1
+7005	Townsend Library of National Records	1
+18488	German National Library of Medicine	1
+12585	African American Library	1
+1004	Samuel L. Diack Memorial Library	1
+7555	National Library of Catalonia	1
+7703	the Houghton Library	1
+18430	Nix Branch Library	1
+15782	Bracken Library	1
+5083	John Rylands University Library of Manchester	1
+5637	Community Vocational Center Library	1
+19565	Geisel Library at the University of California	1
+4948	Harold Washington Library Center	1
+6167	Passyunk Branch	1
+17850	Green Library at Stanford University	1
+13647	HBLL Library	1
+8463	Harvard 's Houghton Library	1
+17356	Stanford University Libraries	1
+17849	the Main Library	1
+7235	University Library in Göttingen	1
+10136	Tozzer Library	1
+1600	Charles E. Young Research Librar	1
+4959	Tompkins County Public Library	1
+6554	Digital Library of Lao Manuscripts	1
+9672	Scott Library	1
+19643	university library of Amsterdam	1
+3445	Abbot Kinney Memorial Branch of the Los Angeles Public Library	1
+5876	the University of New South Wales Library	1
+10202	Bibliothèque Nationale of France	1
+11559	the Glasgow University Library	1
+19970	Elmwood Park Branch Library	1
+17506	Aberdeen University Library	1
+2567	New Bodleian Library	1
+11220	Washington Heights Library	1
+1290	Mae Bruce Library	1
+19961	an Diego Public Library	1
+4953	Northside Branch	1
+4220	York Woods branch ,	1
+16255	Thomas Plume 's Library	1
+15000	The North End branch of the Newark Public Library	1
+4950	Hennepin County Libraries	1
+8984	Ridgedale Library	1
+15491	Rosa F. Keller Library and Community Center of the New Orleans Public Library	1
+13238	the Sterling Memorial Library	1
+5776	Göttingen State and University Library	1
+19311	Cecil H. Green Library	1
+6455	Amherst College Library	1
+11588	NAES College library	1
+9645	Powell Library Building	1
+18554	Autry National Center	1
+9915	Cultural District Library Consortium	1
+4925	Bibliothèque Nationale	1
+10624	Schulich Library of Science and Engineering	1
+20417	Carnegie Public Library	1
+17156	Glasgow Women 's Library	1
+17765	Campbell Branch	1
+590	Dwight D. Eisenhower Presidential Library	1
+885	Oklahoma State University Library	1
+16403	Harris County Public Library Evelyn Meador Branch	1
+243	Vancouver Public Library Central Branch	1
+5694	Staatsbibliothek	1
+6968	Aberdeen Library	1
+463	Rare Book & amp ; Manuscript Library	1
+9556	University of Iowa Libraries	1
+977	Hodder & amp ; Stoughton	1
+2035	Vancouver Free Reading Room and Library	1
+11333	Wednesfield library	1
+4749	Sheikh Tusi Digital Library	1
+11392	IM Marsh libraries	1
+5111	Silver Spring Library	1
+15219	Buckhead Branch	1
+10254	University of California San Diego Library	1
+17657	the main library	1
+13866	JFK Library	1
+12751	Ferdinandea Civic Library	1
+7838	the Women ’ s Library	1
+4799	Greenboro Library	1
+7537	JRULM	1
+8239	Houghton Library of Harvard University	1
+449	Leavenworth Public Library	1
+5517	New York Public Library Main Branch in Bryant Park	1
+8406	library of Cornell University	1
+5263	University of Queensland Library	1
+13507	Newcomb	1
+9446	Lloyd Taber-Marina del Rey Library	1
+19050	Gratia Countryman Branch Library	1
+10174	Parliamentary Library	1
+110	University Library Dresden	1
+11328	Houghton Library at Harvard University	1
+14861	the Walter P. Reuther Library of Labor and Urban Affairs	1
+11481	the Special Collections & amp ; University Archives	1
+13654	Sourasky Central Library	1
+16107	Delaware County District Library	1
+1321	California State Library	1
+14402	District of Columbia Public Library System	1
+17006	Boston Public Library ’ s collection	1
+8668	Billy Rose Theater Archive	1
+12393	German National Library in Frankfurt am Main	1
+9702	East New Orleans Branch	1
+14867	National Library of France	1
+4126	Campbell Branch Library	1
+6999	Lochwood Library	1
+18455	Wellcome Library and Dana Centre	1
+9936	House of Lords Library	1
+14162	University Librarian	1
+13415	the National Library in Wellington	1
+1023	Purdue University Libraries	1
+12235	Central and Regional Library Berlin	1
+2846	East San Diego branch library	1
+9905	The Lenox Library	1
+13961	St Thomas of Acon	1
+16091	NYU Libraries	1
+8803	University of Oklahoma Libraries	1
+4401	Lafayette College 's Skillman Library	1
+7919	Jane/Sheppard branch	1
+7322	Stockholm University library	1
+19653	Martin Luther King Memorial Library	1
+2706	Bodleian Social Science Library	1
+10516	the Judaica Division of Harvard University Library	1
+2228	William L. Clements Library	1
+1923	Georgetown University Law Center library	1
+14407	Folger Shakespeare Library	1
+12962	South Brisbane Library	1
+654	Fales Library Downtown Collection	1
+11050	Cita Dennis Hubbell Branch in Algiers Point	1
+9052	Jimmy Carter Library and Museum	1
+11953	ree Public Library	1
+12893	library of the Museum of Practical Geology	1
+16411	Liverpool John Moores University Avril Robarts Library/Learning Resource Centre	1

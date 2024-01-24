@@ -1,0 +1,200 @@
+8982	Bangkok	1
+6231	Venezuelan	1
+9844	South India	1
+9090	NY	1
+484	Karachi	1
+3867	Geneva	1
+10657	Bologna	1
+12224	Somalia	1
+5922	Johannesburg	1
+16010	Honduras	1
+16166	Chilean	1
+10160	Nigeria	1
+4991	Palestine	1
+18849	Morocco	1
+0	Württemberg	1
+12046	Philippines	1
+8173	North Korea	1
+8358	Mexico City	1
+10338	Vietnam	1
+16003	British Columbia	1
+9935	Syrian	1
+9274	Oslo	1
+8781	Latvia	1
+14153	Iraq	1
+11436	Cairo	1
+12016	Catalonia	1
+4502	Seoul	1
+18380	Korea	1
+9784	TX	1
+1911	Damascus	1
+4434	Baghdad	1
+1294	Ecuador	1
+3025	African	1
+12865	Uganda	1
+20196	U.S	1
+19016	Tibet	1
+5858	Gaza	1
+10775	Yemen	1
+11380	Budapest	1
+12598	Peruvian	1
+2826	Colombia	1
+19452	Brussels	1
+2976	Washington , D.C	1
+19015	Algeria	1
+11408	Estonia	1
+5502	Haiti	1
+6262	Jamaica	1
+10298	Kazakhstan	1
+1101	Tel Aviv	1
+19252	Madrid	1
+12152	Co. Louth	1
+6844	Permian Basin	1
+15275	Bedford Borough	1
+12405	Travelcard Zone 1	1
+4266	Battenberg	1
+218	Carrollton Riverbend	1
+9339	Tatsuno	1
+16125	Tell Latmin	1
+12421	Haram al-Sharif	1
+539	Randleman	1
+4249	Forlì	1
+3824	Kapaʻau	1
+5600	Warren Counties	1
+15349	Massilia	1
+4100	Thurrock	1
+12430	Veenendaallijn	1
+3435	Wiedner Hauptstrasse	1
+15438	Acropolis at Athens	1
+18397	St. Francisville	1
+1306	St Annes-on-Sea	1
+18915	Ramayapatnam	1
+17484	Pembina	1
+16823	Borås	1
+9103	Chilean Antarctica	1
+15435	Butterley	1
+4363	Boddam	1
+15013	Metropolitan of Caesarea	1
+19903	Esdraelon Plain	1
+4862	Phitsanulok Province	1
+2535	Chelsea Barracks	1
+8860	New Bedford	1
+1723	Świnoujście	1
+20014	Sierra Leonne	1
+3441	Cerisy	1
+20323	Digby County	1
+11992	Qatīf	1
+20064	Prince George County	1
+206	North Vancouver	1
+20412	Tokaj	1
+16593	Tunb	1
+3530	Kokoda	1
+11453	U.S. State of Nevada	1
+16691	Dakota County	1
+9506	Barossa	1
+3686	Island Zone	1
+7513	Moudros	1
+3612	Canadian province of Quebec	1
+3158	Delaware Township	1
+13357	Province of Campobasso	1
+19288	Codora	1
+14241	Waialua	1
+897	Kuta	1
+5640	Jayankondam	1
+1914	Kingdom of Saudi Arabia	1
+8477	Mitaka	1
+5793	Latins	1
+4143	Downtown Dubai	1
+9342	Mandŏk	1
+15854	Al Houtah	1
+1546	Ikeja	1
+10253	Padi Junction	1
+3290	Clifton Hampden	1
+10163	Nyborg	1
+18550	Central Provinces & amp ; Berar	1
+19353	Zamunda	1
+6613	Zanjan	1
+17785	Beckley	1
+9474	Pymmes Brook	1
+20625	Gashouse District	1
+11615	Croyland	1
+405	Tacámbaro	1
+16966	Cabo Verde	1
+2565	Iaşi Archdiocese	1
+19699	Golden Grove Road Piarco	1
+14993	San Andrés Cuexcontitlan	1
+3691	Tokyo Japan	1
+5538	Kohanabad Rural District	1
+3720	Tyneside	1
+11362	Region of Sicily	1
+17414	Fimbulventr	1
+12098	Todmorden	1
+10585	Balaklava	1
+13444	Scharn	1
+16924	Red Comyn	1
+10400	Canton of Bern	1
+9100	Ormoc	1
+9537	Thondaimandalam	1
+13306	Hinkley Point site	1
+18009	Kihei	1
+11104	Naogaon	1
+16191	Emmonak	1
+4077	Molfetta	1
+18110	Pelham	1
+1077	Amstelveen	1
+17777	Narsinghpur	1
+19423	Okhtyrka	1
+17645	Mudeford	1
+18416	Westland Lysanders	1
+13602	Žirmūnai	1
+5582	Grundy	1
+2456	Anton Lizardo	1
+443	Laurenzgasse	1
+12382	Tacuba	1
+469	Burghausen	1
+4807	Koramangala	1
+19298	the Wigan Rural Sanitary District	1
+1086	Antibes	1
+3835	Aisne in France	1
+19538	Komoča	1
+8038	Barangay Balabag	1
+12882	Tikkurila	1
+3324	Libertas	1
+10664	Schwarzwald-Baar	1
+13115	Stratus	1
+1967	PEJUANG	1
+18555	Daqing	1
+8646	Tebela	1
+415	Querétaro City	1
+18134	Glasnevin	1
+7564	Fruita	1
+10418	Broadwell	1
+14522	Titusville	1
+859	Bà Rịa–Vũng Tàu Province	1
+15016	Las Vega Las Vegas	1
+6547	Dranoutre	1
+17882	Bugembe	1
+6733	English Canada	1
+18113	Taxila	1
+2950	Grey Highlands	1
+4968	Cape Helles	1
+1301	Ansbach	1
+11852	Collie	1
+3317	Kosovska Mitrovica	1
+16835	Scotstoun	1
+10260	Broken Hill	1
+15408	West End of Birmingham	1
+17286	Ballachallan	1
+18902	Malate Manila	1
+10635	Zhenning	1
+16174	Primm	1
+2767	Sala di Censori	1
+20113	Anshun	1
+1811	Battery Point	1
+9196	Ute Indian	1
+18374	Rauland	1
+4346	Reichsheer of the Weimar Republic	1
+3287	Westland Whirlwinds	1
+15179	Ottonians	1
+15425	City of Pittsburgh	1
+14888	Parkville	1

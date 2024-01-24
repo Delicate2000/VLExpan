@@ -1,0 +1,200 @@
+9458	ZiS-2	1
+18620	AKS-74U	1
+19402	Soviet RPK	1
+8723	T-34 tank	1
+12685	KG 54	1
+17396	Marder	1
+12188	MANPADS	1
+15077	Jagdpanzer 38	1
+12808	Remington 700	1
+4767	M79	1
+3757	P.1127	1
+20690	Koch MP5 submachine gun	1
+17338	M11/39	1
+2818	FN P90	1
+20669	M10	1
+4383	Razon	1
+4140	assault rifle	1
+5831	T-35	1
+15539	M16	1
+19597	MAC-10	1
+18198	KV tank	1
+2226	Walther PP	1
+74	MG 34	1
+4329	OKC-3S	1
+3021	Type 63	1
+6120	AT4	1
+7530	AEK-971	1
+3821	Greek fire	1
+1153	.357 SIG	1
+14885	M-50	1
+16547	Glock 19	1
+6878	Tiger I	1
+15074	T-54	1
+17928	AK-63	1
+19334	AK47	1
+817	MP5K-PDW	1
+1295	Ak 5	1
+18365	PDWs	1
+11770	M60	1
+5861	SU-85	1
+17560	DShK	1
+19953	5.7×28mm cartridge	1
+6863	USS Indianapolis	1
+1502	AK-47	1
+7730	M1911	1
+15702	H & amp ; K MP7	1
+5711	M203	1
+18471	Heckler & amp	1
+2333	IS-2	1
+5321	ISU-152	1
+15008	twin Vickers machine guns	1
+4554	A20	1
+13561	A1E1 Independent	1
+18791	Type 82 'Shikitsu ' Command Vehicle	1
+6928	4-inch coastal defence guns	1
+19357	Nimitz ' chain of command	1
+8311	corvus	1
+10936	.45 ACP	1
+18381	MK11 Talos	1
+4268	SIG Sauer SSG 3000 sniper rifle	1
+7796	OH-58 Kiowa	1
+1404	SU-122 assault guns	1
+11324	Ruger Super Redhawk revolver	1
+18480	SA-3 Goa surface-to-air missiles	1
+14087	RPG-7s	1
+4726	40mm Mk 19 grenade launcher	1
+7958	atomic demolition munition	1
+8786	Tigercat	1
+280	SM-65 Atlas missiles	1
+8099	Type 82	1
+20021	M151 Protector	1
+7378	T-34 's armour	1
+5516	M1 Abrams main battle tank	1
+12985	Soviet 20mm ShVAK cannons	1
+20351	Oerlikon anti-aircraft guns	1
+20357	C-802 anti-ship missile	1
+4253	HE ammunition	1
+5196	RPK light machine gun	1
+20299	F6F Hellcats	1
+4737	10,881 FN MAG general-purpose machine guns	1
+20183	Chauchat machine guns	1
+5890	UGM-84 Sub Harpoon	1
+5882	high-explosive ammunition	1
+10151	44C	1
+15018	FH-70	1
+18691	anti-tank guided missiles	1
+16415	Walther P38 pistols	1
+576	M48A3 Pattons	1
+12014	BSCC 105 F3 target practice round	1
+17540	Bredas-SAFATs	1
+4037	155 mm Howitzer Motor Carriage T64	1
+5371	12-gauge Remington 870 shotgun	1
+12253	P320	1
+10944	152-mm gun model 1910/34	1
+8224	Nike Zeus A and B	1
+7245	AIM-54 Phoenix missile	1
+13070	T-38RT	1
+2828	2-pounder `` pom-pom ''	1
+490	guns	1
+1438	British versions of the Bofors 40mm gun	1
+13923	122-mm gun M1931	1
+15887	M72 LAW and Apilas	1
+16635	L3/35 tankettes	1
+14471	IRIS-T missile	1
+200	turmgewehr 44	1
+632	ATGMs	1
+16651	MG 17 machine guns	1
+17470	ZU-23-2MR Wróbel II	1
+13768	Nebelwerfer 35	1
+2703	Sussex Cola	1
+2072	M44 self-propelled howitzer	1
+1579	Russian Makarov PM	1
+12981	Nudelman N-45	1
+17522	Browning M1919	1
+1094	PK general-purpose machine guns	1
+6290	Glock 17 , 34 , and 35	1
+92	7.62mm NATO	1
+4824	.30 Remington	1
+888	Panzer III	1
+16452	Lee-Metford rifle	1
+6036	Sherman Vs	1
+19484	machine-gun	1
+13458	KV-1 Model 1940	1
+16954	KV-85 heavy tank	1
+1353	47/32 self-propelled gun	1
+17867	152 mm gun M1935 ( Br-2 )	1
+17698	Type 99-2	1
+13061	Dragunov rifles	1
+16005	M60 GPMG	1
+7250	Sopwith-Kauper synchronizer	1
+2667	VZ.33 rifle	1
+2590	US S & amp ; W QSPR	1
+12642	CZ 75	1
+9081	SNEB rockets	1
+6867	Mk 19	1
+17789	Hughes Missile Systems	1
+931	Russian 7.62×39mm cartridge	1
+14763	bomb	1
+2396	7.92 mm MG 34 machine gun	1
+17576	Bradley Stinger Fighting Vehicle	1
+8764	152.4 mm ML-20 model 1937 gun-howitzer	1
+12645	JSOW	1
+13242	American M-2	1
+8414	130 mm M-46	1
+7677	Colt AR-15	1
+9197	Koch HK416 rifles	1
+752	Staghound armoured cars	1
+9201	ZB vz	1
+2788	30 Army smokeless cartridge	1
+14648	AIM-54	1
+10091	M777 towed 155mm howitzer	1
+13427	FN Minimi MG	1
+18108	DShK machine guns	1
+19232	32 ACP	1
+17417	AR-50A1	1
+4811	Rheinmetall MG3 GPMGs	1
+1641	152-mm howitzer model 1934	1
+10292	AH-1S Cobra attack helicopters	1
+2750	Glock 17 9mm semi-automatic pistol	1
+18016	KV-1 Model 1939 heavy tank	1
+19994	M777 Lightweight Howitzer	1
+1598	KV-1S	1
+18834	Wz.1938	1
+7630	8.8 cm KwK 43 L/71 anti-tank cannon	1
+19002	Bofors 40 mm gun	1
+1043	Type 1 47 mm main turret gun	1
+8079	anti-aircraft artillery	1
+9164	Super Redhawk	1
+13734	Ak 5C	1
+11908	Desert Eagle pistol	1
+12385	SIG SG 540 rifle	1
+12072	AKMP	1
+14764	Type 97 ShinHoTo Chi-Ha	1
+10373	Semovente 47/32 tank destroyers	1
+20147	7.62×41	1
+3175	Armoured Car , Marmon-Herrington Mk II	1
+9299	DShK heavy machine gun	1
+14290	Mine Clearance Line Charge	1
+12756	Mk 54 All-Up-Round Lightweight Torpedoes	1
+18483	Fairbairn-Sykes Fighting Knife	1
+14042	CNH	1
+13699	Colt 1911	1
+11171	Fort Cronkhite	1
+16781	Oleoresin Capsicum ( OC ) Spray	1
+3604	Saiga MK-107	1
+19779	W Model 10 Revolvers	1
+11601	M48H Main Battle Tank	1
+4633	Bofors 40 mm rapid-fire guns	1
+5426	.50 Action Express	1
+8157	Type 56 assault rifle	1
+13514	HH-60 Pave Hawk helicopter	1
+12864	Russian R-77	1
+7497	40 mm Bofors gun M1	1
+12135	Battery Bluff	1
+14232	T-18M	1
+11162	M5 light tank	1
+7945	PPSh-41 submachine-guns	1
+18723	282 survive	1
+13461	PKM general purpose machine gun	1
+12993	Raytheon Missile Systems	1

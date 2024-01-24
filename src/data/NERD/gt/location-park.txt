@@ -1,0 +1,200 @@
+5664	Douglas Point Conservation Park	1
+4850	Canyonlands National Park	1
+4841	water parks	1
+5627	Yellowstone National Park	1
+1049	Great Sand Dunes National Park	1
+12419	Golden Gate Park	1
+17779	Paramount Parks	1
+20641	theme parks	1
+2330	Warner Bros. Movie World	1
+16956	Belle Isle Park	1
+13081	Wind Cave National Park	1
+789	Independence National Historical Park	1
+8839	Wet ' n Wild Emerald Pointe	1
+83	Victoria Park	1
+3305	Saguaro National Park	1
+12319	Creekside parks	1
+10555	Guilford Courthouse National Military Park	1
+10228	Hyde Park	1
+359	Johnson Creek Park	1
+7364	Hawaii Volcanoes National Park	1
+7188	Idora Park	1
+11041	Buddha Park	1
+3861	Dolores Park	1
+7134	Universal 's Islands of Adventure	1
+13797	Zion National Park	1
+11661	Bradley Palmer State Park	1
+6381	MCU Park	1
+18936	Hong Kong Disneyland	1
+13274	North Cascades National Park	1
+12442	Crystal Springs Rhododendron Garden	1
+16894	Leach Botanical Garden	1
+11730	Kentucky Kingdom	1
+13226	Shenandoah National Park	1
+15195	Six Flags Kentucky Kingdom	1
+16217	Hilton Garden	1
+20186	Chattahoochee River National Recreation Area	1
+16891	Freestyle Music Park	1
+18541	Volcano Bay	1
+8385	Isle Royale National Park	1
+3205	Europa-Park	1
+13786	President 's Park	1
+11192	Everglades National Park	1
+17869	Universal Orlando	1
+12920	Mammoth Cave National Park	1
+3568	Luna Park	1
+20445	Grand Canyon National Park	1
+18709	Boston Common	1
+9174	Dante 's Inferno	1
+4936	Great Smoky Mountains National Park	1
+17322	Harrow Park	1
+18429	Kirindy Mitea National Park	1
+14659	royal deer-hunting park	1
+20062	Láodòng Rénmín Wénhuà Gōng	1
+1187	Pawnee	1
+20126	Audubon Park	1
+1423	Spirit City	1
+19193	Akatlar Artists	1
+13547	Mount Buffalo National Park	1
+6213	Disney Quest	1
+5425	The Grand Exposition	1
+18403	Memorial Gardens	1
+15140	Forest Preserve District	1
+13527	Universal Studios South Korea theme park	1
+9567	Pieniny National Park	1
+14697	London Olympic Park	1
+14377	Sesame Street Land	1
+1210	Dalymount Park	1
+8687	Margam Country Park	1
+2043	Chiricahua National Monument	1
+14125	Devils Fork State Park	1
+18907	River Raisin National Battlefield Park	1
+2376	Barcelona Synchrotron Park	1
+12997	Custer State Park	1
+11865	North Park	1
+5824	Legoland Malaysia	1
+13811	Recreation Department	1
+6088	Peace Park	1
+14360	Theodore Roosevelt National Park	1
+3564	Mundy Park	1
+9002	Custer Park	1
+9449	Dovrefjell mountains	1
+17260	Chicano Park	1
+16277	Tomorrowland	1
+18346	Far West Coast Marine Park	1
+17013	Gettysburg National Military Park	1
+18277	Carowinds amusement park	1
+8637	Krka National Park	1
+13601	Universal Studios Theme Park	1
+20474	Athletic Park	1
+7237	Kashkadan park	1
+17234	Trossachs National Park	1
+6600	Legacy Park	1
+15250	Miners RV Park	1
+5734	Bill Baggs Cape Florida State Park	1
+2549	Jericho Beach Park	1
+11877	Golders Hill Park	1
+13989	Kondli-Gharoli	1
+10148	Bulstrode Park	1
+14169	Utladalen Landscape Protection Area	1
+4088	St. Jakob-Park	1
+5003	Portola and Castle Rock State Parks	1
+2864	Owl Mountains Landscape Park	1
+18776	Vodafone Park	1
+2860	Kings Canyon National Parks	1
+8468	Rancho Sierra Vista	1
+14292	Lake Anna State Park	1
+12454	Osceola National Forest	1
+12057	the Cairngorms National Park	1
+226	Kruger Park	1
+6352	Great Australian Bight Marine Park	1
+7595	Rockingham Park	1
+13472	Liverpool Gardens	1
+16069	Tampa Busch Gardens	1
+10982	Highline Lake State Park	1
+7017	Bering Land Bridge National Preserve	1
+145	Cappielow Park	1
+15163	Opryland USA theme park	1
+7543	Peter Strauss Ranch Park	1
+6146	High Rock Park	1
+14319	Euless Park	1
+17221	Bale Mountains National Park	1
+951	Cowey Sale Park	1
+12349	Windsor Great Park	1
+6223	Nationwide Arena and Huntington Park	1
+12411	Italian Gran Sasso e Monti della Laga National Park	1
+11795	Waterloo Park	1
+1824	Rock Island State Park	1
+19934	Pinckneyville Park	1
+583	TPC Harding Park	1
+4520	Mount Carmel National Park	1
+13395	Belmont Park	1
+8656	Shawfield Park	1
+15320	Atlanta Botanical Garden	1
+7292	Story Land theme park	1
+6632	Bowness Park	1
+8895	Buffalo National River Wilderness Area	1
+3375	Marine World Africa USA	1
+15740	Rock Creek Park unit	1
+16374	Canbury Gardens	1
+13542	Sutton Hoo	1
+5985	Katmai National Park & amp ; Preserve	1
+1371	West Potomac Park	1
+9187	Island of Ireland Peace Park	1
+1581	Laguna Niguel Regional Park	1
+14136	Myakka River State Park	1
+16354	Routt National Forest	1
+17095	Planet Snoopy	1
+2444	Back Bay Fens urban park	1
+13789	Gran Sasso e Monti della Laga National Park	1
+17907	Novum Research Park	1
+7071	Guatemala 's Sierra del Lacandón national park	1
+2040	Sutjeska National Park	1
+8217	Skagit Valley Provincial Park	1
+12134	Jackson Park	1
+4340	Wallace State Park	1
+19893	Senai Industrial Park	1
+10674	New York City 's Central Park	1
+6579	Cadwalader Park	1
+14346	Schoen Lake Provincial Park	1
+4376	East Harbor State Park	1
+18177	Valley of Fire State Park	1
+277	Opryland USA amusement park	1
+3398	Riverfront Park	1
+3696	Hamburg Wadden Sea National Park	1
+11525	Jotunheimen National Park	1
+18479	Waterfront Park	1
+14592	Umbagog Lake State Park	1
+6405	Ala Moana Beach Park	1
+16376	State Park	1
+6870	Nelson Lakes National Park	1
+19823	Europa-Park 'theme park '	1
+17898	Battlefield Park	1
+16047	Pinnacle Mountain State Park	1
+1442	Mumbai & amp ; Ahmedabad	1
+15924	New York 's Madison Square Garden	1
+13256	Green Park Business Park	1
+6006	Rishiri-Rebun-Sarobetsu National Park	1
+8728	Dollywood 's Splash Country	1
+7532	Lake Gairdner National Park	1
+20610	Schöntal Park	1
+8204	Disney 's River Country Water Park	1
+19222	Kalaeloa Heritage Park	1
+7891	TEP	1
+15253	Epic Universe	1
+1858	Rieserferner-Ahrn Nature Park	1
+8522	Enchanted Forest Park	1
+9990	Gypsy Hill Park	1
+15363	Shanghai Disneyland Park	1
+4542	Nevado del Huila National Natural Parks	1
+15449	Folsom Lake State Recreation Area	1
+3377	Thorncliffe Park	1
+17590	Hippie Hollow Park	1
+6808	Candlestick Park	1
+9768	Uluru-Kata Tjuta National Park	1
+10062	Saffron Walden Rural District	1
+893	Detroit Zoological Garden	1
+11075	Lake Sammamish State Park	1
+17561	Hankley Common	1
+3084	Dunkin ' Donuts Park	1
+13830	Promised Land State Park	1

@@ -1,0 +1,200 @@
+9780	Felix Trinidad	1
+16570	Ashcroft	1
+3840	Dennis Green	1
+12076	Pádraig Harrington	1
+19013	Morten Gamst Pedersen	1
+3830	Brendli	1
+4650	Krejza	1
+18721	Geoff Ogilvy	1
+13757	Farina	1
+6820	Eberflus	1
+1358	Castleford	1
+13091	Valentin Ocasio	1
+5104	Paul Goydos	1
+3468	Bobby Hull	1
+5789	Jason Bohn	1
+12658	Bill Cowher	1
+3828	Guy Lafleur	1
+7996	Julius Erving	1
+4243	Cameron Beckman	1
+7430	Glennon	1
+1261	Mark Henry	1
+6819	Brian Billick	1
+11414	Lucas Glover	1
+20261	Tasker	1
+7185	Mario Lemieux	1
+12361	Francisco Martinez	1
+3575	Stuart Appleby	1
+15556	Aaron Baddeley	1
+18276	Bart Bryant	1
+17720	Chad Campbell	1
+6468	Michael Jordan	1
+9797	Jose Luis De Jesus	1
+10972	Halard	1
+4187	Jean Faut	1
+3817	Tim Clark	1
+8166	Phil Mickelson	1
+8367	Kalinić	1
+15075	Joe Durant	1
+3039	Paul Casey	1
+9357	Niclas Fasth	1
+16617	Baghdatis	1
+2277	Federer	1
+19290	Nadal	1
+10804	Trent Barrett	1
+7622	Luis De Jesus	1
+13731	Lindsay Davenport	1
+15894	Ernie Els	1
+7924	Mysterio	1
+12287	Stephen Ames	1
+6326	Stewart Cink	1
+6725	Willie McGee single	1
+10252	Pierre Brunet	1
+13351	Earl Thomas	1
+13263	Leônidas da Silva	1
+2847	Leigh Griffiths	1
+7211	Timothy Cherigat	1
+19824	Allan Johansen	1
+11389	Bosox	1
+5708	Jeff Judkins	1
+2404	Kaspars Stupelis	1
+6309	Don Kent	1
+729	Kenyan Amos Kipruto	1
+17467	Casey Atwood	1
+5910	Irvine Meadow	1
+11169	Dan Ellis	1
+3274	Jack Morris	1
+13891	John Hartson	1
+19384	Danilo Russo	1
+13590	Artegor Nexus	1
+3014	Al Viola	1
+18090	Tetsuo Nakanishi	1
+5106	Glenn Michibata	1
+13479	Gemma Fletcher	1
+10443	Jim Carey	1
+18995	Gerald Sensabaugh	1
+9489	Vitalie Gruşac	1
+14743	Darrell Bevell	1
+9561	Norm Larker	1
+19375	Claudio Mezzadri	1
+2264	Michael Cooper	1
+2245	Manabu Orido	1
+8555	Stanislas Wawrinka	1
+19305	Megumi Kudo	1
+3747	Jana Vollmer	1
+11193	Arthur Carr	1
+15612	Dingaan Thobela	1
+4180	Necro Butcher	1
+13065	Javier Sánchez Vicario	1
+18656	Pat Curran	1
+3037	Danny Bohn	1
+16820	Imhof	1
+18602	Sigit Budiarto	1
+13800	Justin Lucas	1
+4112	Karsten Stolz	1
+4647	Erasmo Carlos	1
+102	Calvin Johnson	1
+10970	Raymonde Veber	1
+12603	West Coast Trojans	1
+10890	Brian O'Driscoll	1
+9045	Lokomotiv Yaroslavl	1
+12449	Miķelis Lībietis	1
+10291	Pletcher	1
+12744	Cyril Farrell	1
+6069	Daryle Smith	1
+10447	Jacques Laffite	1
+11590	Andy Gregory	1
+10130	Jake Matlala	1
+5844	Billy Walker	1
+1530	David Nalbandian	1
+5762	American John Woodruff	1
+10901	Rubén Sierra	1
+17448	Roman Kresta	1
+2604	Pavel Vízner	1
+12284	Slovakian Dominik Hrbaty	1
+5741	Chiappucci	1
+3362	Luciana Corsato	1
+14035	Clyde Littlefield	1
+12125	Jozef Lieckens	1
+6702	Rochester Honkers	1
+3280	Duriel Harris	1
+3874	PJ Crossan brace	1
+6390	Trey Griffey	1
+3194	Jang Won-Sam	1
+19134	Rommel Adducul	1
+1802	Malcom Floyd	1
+7224	Tsvetana Pironkova	1
+19796	Alexander Gorshkov	1
+14722	René Wagner	1
+14920	Bettina Fulco	1
+1356	Takeshi Ono	1
+4954	Petra Cetkovská	1
+4718	Jim Hunter	1
+15530	Buddy Hirsch	1
+10575	Michael Borg	1
+2855	Marc Lamothe	1
+7884	Tani Ruckle	1
+7221	Anthony Emerson	1
+6068	Les Holland	1
+18850	Robert Day	1
+14890	Alan Ball	1
+12262	Steven Greene	1
+6317	Chappy Pine	1
+13658	Max Taddei	1
+7533	Earle Combs	1
+12789	Arnaud Clément	1
+7053	Cyril Turner	1
+3410	Fabiano Aoki	1
+19905	Chewy	1
+649	Ron Coomer	1
+17313	Alexia Dechaume-Balleret	1
+5036	Albert Bogen	1
+10739	Joop Zoetemelk	1
+15221	Billie Gillespie	1
+11874	Roland Carlsson	1
+2446	Wei-Yin Chen	1
+304	Yoshiaki Yatsu	1
+8614	Michael Bleekemolen	1
+3008	Robert Kendrick	1
+4629	Pauline Wangui	1
+7690	Pavel Kubina	1
+10755	Caroline Cheptanui Kilel	1
+17905	Tyra Calderwood	1
+11233	Jurandir	1
+14078	Budućnost Banatski Dvor	1
+10401	Andy Dibble	1
+20015	Rui Machado	1
+1642	Norm Robinson	1
+1382	Star Appeal	1
+16764	Stephen Botfield	1
+20346	Nitendra Singh Rawat	1
+15068	Jaclyn McCartin	1
+9444	Sara Whalen Hess	1
+13127	Ally Stacher	1
+18082	Joost Posthuma	1
+1244	Mayumi Kinniku	1
+8031	Jason Hanson	1
+18561	Brendon Bracewell	1
+15629	Adrián Jusino	1
+4750	Wim Visser	1
+19819	Arthur C. Woodward	1
+7483	Marvin Lewis	1
+14301	Mădălina Gojnea	1
+7621	David Green	1
+9191	Andrés Alejandro Palomeque González	1
+2578	Jehad Al Hussain	1
+5134	Matt Neal	1
+11449	Thor Hushovd	1
+20622	Bill Freehan	1
+17530	Tamsin Barnett	1
+10018	DuBose	1
+2394	Brodie Kostecki	1
+18654	Valentino Mazzola	1
+5252	Chad Krys	1
+3427	Gary Etherington	1
+16318	Kaoru Hoshino	1
+16495	Merthyr Tydfil	1
+5390	Dinamo Aravan	1
+12423	Winky Wright	1
+20182	Rayo Vallecano	1
+696	Eliah Tjazerua	1

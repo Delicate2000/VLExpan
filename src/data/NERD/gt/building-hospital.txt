@@ -1,0 +1,200 @@
+8777	Ottawa General Hospital	1
+5963	Maternity and Children 's Hospital	1
+19175	Addenbrookes Hospital	1
+16735	Apollo Speciality Hospital	1
+17033	Salford Royal Hospital	1
+7616	Children 's Hospital of Illinois	1
+14213	HUMC	1
+9149	Children 's Hospital	1
+13067	Bumrungrad	1
+14366	Children 's Hospital of Philadelphia	1
+11950	St. Bartholomew 's Hospital	1
+12151	Mount Sinai Hospital	1
+657	Kaye Edmonton Clinic	1
+18395	Kasturba Hospital	1
+16155	Henry Ford Hospital	1
+17149	Stoke Mandeville Hospital	1
+7971	Shriners Hospital for Children	1
+8382	Royal Free Hospital	1
+1189	Grantham Hospital	1
+228	CMHH	1
+7452	Children 's Memorial Hermann Hospital	1
+7118	Stobhill Hospital	1
+1807	Valley Forge General Hospital	1
+7402	Northwick Park Hospital	1
+18370	Edmonton Clinic	1
+20435	Bellevue Hospital Center	1
+646	Whittington Hospital	1
+7779	Hadassah Hospital	1
+13111	New Cross Hospital	1
+4107	Montreal Children 's Hospital	1
+181	the Royal Prince Alfred Hospital	1
+6712	Tan Tock Seng Hospital	1
+10101	Queen Alexandra Hospital	1
+19089	CPU–Iloilo Mission Hospital	1
+3040	Great Ormond Street Hospital	1
+7145	Netley Hospital	1
+19058	Maudsley Hospital	1
+17236	Royal North Shore Hospital	1
+3527	RNOH	1
+15736	Middlesex Hospital	1
+2790	Swedish Covenant Hospital	1
+10719	Dr Steevens ' Hospital	1
+6642	Mass General Hospital for Children	1
+12418	Washington Hospital Center	1
+12101	Johns Hopkins Hospital	1
+4916	Cefn Coed Hospital	1
+17908	Jersey City Medical Center	1
+2042	Hospital de la Santa Creu	1
+14447	Santa Cruz Hospital	1
+9964	Holy Name Medical Center	1
+9432	Dorset County Hospital	1
+7176	Pekin Hospital	1
+17957	ronglais Hospital	1
+4196	James Cook University Hospital	1
+12809	the Shriners Hospital for Children	1
+325	Little Innocence Hospital	1
+3601	Backus Outpatient Care Center	1
+953	Davis Jewish General Hospital	1
+2945	St Luke 's Hospital	1
+6715	St Bernard 's Hospital	1
+14272	Virginia Hospital Center	1
+10991	Foresterhill Hospital	1
+12541	Carroll Hospital	1
+7969	Royal Brompton Hospitals	1
+18872	Mass General/North Shore Cancer Center	1
+1239	the Hadassah Hospital	1
+13119	St Thomas 's Cornwall Babies	1
+12324	Bawtry Hospital	1
+8484	University Hospital of Wales	1
+19606	Royal National Throat Nose and Ear Hospital	1
+7755	Charité hospital	1
+16157	Bronglais Hospital	1
+1750	Milwaukee hospital	1
+9528	the Digital Library of Georgia	1
+20173	Ontario Ministry of Health	1
+12513	Hong Kong Central Hospital	1
+723	Tufts Children 's Hospital	1
+5186	Antoine Béclère Hospital	1
+17039	St James ' Hospital	1
+19637	Minto Hospital	1
+1174	Allied Diseases and Sloan-Kettering Institute for Cancer Research	1
+7550	Margaret Hague Maternity Hospital	1
+17237	University of Oregon Medical Hospital	1
+15661	Saint Göran Hospital	1
+17062	Prince of Wales Children 's Hospital	1
+9675	Parkland Hospital	1
+14688	Willesborough Hospital	1
+1745	Leckhampton Hospice	1
+1656	St Thomas ' Hospitals	1
+13555	Waikato Hospital	1
+12370	UCSF	1
+6430	St John of God Bendigo Hospital	1
+13350	St. Vincent 's University Hospital	1
+19472	University Medical Center Hamburg-Eppendorf	1
+16325	St. James 's Hospital Institute of Molecular Medicine	1
+18982	North Lantau Community Health Centre	1
+4033	Epsom 's Long Grove Asylum	1
+7069	Madame Steevens ' Hospital	1
+2560	Knights Hospitallers	1
+11663	Mater Public Hospital	1
+4881	Spring Harbor Hospital	1
+12898	North Manchester Hospital Manchester Royal Infirmary	1
+16590	Facial Nerve Center	1
+6620	Wilzig Hospital	1
+160	UCLH	1
+8044	New York-Presbyterian Hospital	1
+15345	Glasgow Eye Infirmary	1
+11988	Deaconess Hospital	1
+13362	Oak Forest Hospital	1
+7954	the Howard Hughes Medical Institute	1
+15628	Sentara Bayside Hospital	1
+17049	Wellington General Hospital	1
+19418	Nil Ratan Sircar Medical College and Hospital	1
+10866	Memorial Hermann Healthcare System	1
+15406	Government Hospital	1
+4530	University Hospital of Wales in Heath	1
+14730	Parkhead Hospital	1
+10645	Health Sciences Centre	1
+20376	Launcesto	1
+12153	Lyndon Baines Johnson General Hospital	1
+13055	City of London Maternity Unit	1
+3501	faculty of medicine in Paris	1
+6556	Hotel Dieu Shaver Health and Rehabilitation Centre	1
+20420	Silliman University Medical Center	1
+4102	Cleveland Clinic Weston	1
+8123	Acton Hospital	1
+2380	St. Catharines General Hospital	1
+11586	William P. Clements Jr. University Hospital	1
+14972	Northwick Park Hospital Harrow	1
+20112	Nepean Rehabilitation Hospital	1
+4128	Plaistow Hospital	1
+17453	Gerald J. Friedman Diabetes Institute	1
+4221	Hôpital du Midi	1
+9810	Luke 's Medical Center	1
+4786	NBH	1
+16748	NHS Ayrshire & amp ; Arran	1
+18235	Sentara Williamsburg Regional Medical Center	1
+16865	Rady Children 's Hospital	1
+13535	Peninsula Private Hospital	1
+14519	Charity Hospital of New Orleans	1
+2207	Sevenoaks Hospital	1
+785	Jessie McPherson Private Hospital	1
+14339	Spring Grove Hospital Center	1
+15931	3rd Canadian Stationary Hospital	1
+2109	Military Family Clinic	1
+20636	CHA Everett Hospital	1
+19536	Lachine hospitals	1
+16287	Miami Children 's Hospital	1
+7696	RWJUH	1
+15933	Gold Coast University Hospital	1
+9559	Presbyterian-St. Luke 's Hospital	1
+11994	British Military Hospital	1
+10042	the Massachusetts Treatment Center	1
+4662	Charing Cross Hospital medical school	1
+4504	Children 's Miracle Network Hospitals	1
+11354	Memorial Hermann Hospital-Texas Medical Center	1
+18573	Emergency Resuscitation Center at the University of Chicago	1
+5604	Sinai Hospital	1
+2724	St. Elizabeths Hospital East Campus	1
+14376	Chatham hospital	1
+9006	Mass General Hospital	1
+13840	Salpêtrière Hospital	1
+5760	Northwestern Medicine Valley West Hospital	1
+182	Akron Children 's Hospital Health	1
+10642	Charles Town General Hospital	1
+19377	Royal National Hospital for Rheumatic Diseases	1
+18543	Panzi Hospital in the Democratic Republic of Congo	1
+13816	Hillside Rehabilitation Hospital	1
+11776	Progressive Care Center	1
+13486	Queen Elizabeth II Medical Centre	1
+9388	Padeh Geriatric Rehabilitation Center	1
+1325	St Mary 's Hospital for Women and Children	1
+5710	Houston Methodist Hospital	1
+7842	Hôtel Lutetia	1
+4067	Tarrant County Hospital District	1
+15228	Luton and Dunstable University Hospital	1
+7749	Lewisham Hospital	1
+4529	Santissima Trinità dei Pellegrini	1
+7735	PSE & amp ; G Children 's Specialized Hospital	1
+14886	Albert B. Chandler Hospital	1
+4334	Dimock Community Health Center	1
+14337	Michael E. DeBakey Veterans Affairs Medical Center	1
+19797	Baptist Hospital	1
+14526	Diyar Bakr	1
+3059	Groupe Hospitalier Pitié-Salpêtrière	1
+11921	Park Hospital Harrow	1
+14188	Northwest Hospital Center	1
+14258	Georgetown Hospital	1
+3705	MSR - The Israel Center for Medical Simulation	1
+3764	Saskatchewan Children 's Hospital	1
+18823	Bangkok Hospital Samui	1
+14848	MUHC	1
+3481	Notre Dame Hospital	1
+15674	Surrey Memorial Hospital	1
+10437	Benny 's Bullpen	1
+2069	Council of Christian Hospitals	1
+17551	LAC+USC Medical Center	1
+12858	Mill Hill Emergency Hospital	1
+12844	the Mount Sinai Hospital	1
+14106	Sunland Hospital	1

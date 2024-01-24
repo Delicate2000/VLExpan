@@ -1,0 +1,200 @@
+5237	Guildhall	1
+4876	University of Nottingham	1
+15168	University of California , Santa Barbara	1
+16416	HSDM	1
+7302	University of Southern California	1
+3041	University of Glasgow	1
+18809	University of Washington	1
+13873	Domaine Forget	1
+6781	SIIT	1
+5657	Dartmouth College	1
+20319	University of Missouri	1
+4843	University of Edinburgh	1
+833	Eton College	1
+13377	University College London	1
+14269	University of Massachusetts Amherst	1
+9680	University of Illinois	1
+6204	University of Minnesota Law School	1
+19093	University of Toronto	1
+20681	University of Pittsburgh	1
+19315	Harvard Law School	1
+1725	Florida State University	1
+12488	LSE	1
+9129	American Law Institute	1
+20172	New York University Law School	1
+10281	Imperial College	1
+19724	Columbia University	1
+3170	Indiana University	1
+12504	Brown University	1
+5720	Louisiana State University	1
+10278	University of Pennsylvania	1
+14120	UCLA School of Law	1
+739	McGill University	1
+6054	UC Davis School of Law	1
+8016	McMaster University	1
+14670	University of North Carolina	1
+814	Auburn University	1
+1507	University of Otago	1
+16592	University of Virginia	1
+13940	University of Sydney	1
+17585	University of Florida	1
+13978	Harvard Medical School	1
+8022	University of Chicago	1
+10518	Columbia College	1
+7880	Rice University	1
+16733	University of London	1
+8327	Brandeis University	1
+5701	Brigham Young University	1
+15698	Georgetown University	1
+20103	MIT	1
+16584	Amherst College	1
+13445	Moorpark College	1
+16747	All Hallows College Dublin	1
+15468	Douglas College	1
+15917	Truett	1
+15599	Warsaw School of Economics	1
+878	Nord University	1
+4669	Digital Age	1
+15213	Wall Street campus	1
+9584	University of Catania	1
+5971	Amsterdam School	1
+2407	California College of Arts and Crafts	1
+9932	Big Spring Bombardier School	1
+16802	Boston University School of Theology	1
+1987	University of Hong Kong	1
+5739	Hamble Community Sports College	1
+8529	Makerere University College of Health Sciences	1
+5135	Academy of Political Science	1
+15294	Telangana Academy of Sciences	1
+1575	Colstrip High School	1
+7798	Taipei University	1
+15173	the Institute for Operations Research and the Management Sciences	1
+20185	Université de Montréal-affiliated Centre hospitalier universitaire Sainte-Justine	1
+11149	Teacher 's Institute in Vilna	1
+9590	Vladivostok University	1
+348	Courtauld Institute	1
+20360	University of Bordeaux	1
+14028	Washington College of Law	1
+13207	Central Middle School	1
+2564	Babbit-Embarrass High School	1
+6744	the MIT Department of Economics and Statistics	1
+12682	Darlington Academy	1
+7299	The Royal Academy of Turku	1
+1011	Branford College	1
+2403	Oakland Unified School District	1
+19166	Medan Area University	1
+2503	Hygiene and Medical Biochemistry	1
+1742	Gregorian University and Urban	1
+13817	Pantheon-Sorbonne Paris I	1
+4849	Nova Southeastern University	1
+10960	University of Southern California School of Cinematic Arts	1
+19626	LSU Senior College	1
+16843	Ecole Nationale d'Administration	1
+6276	the University of Rome	1
+1126	Stanford Art Department	1
+12009	Natrona County School District # 1	1
+4194	Northern Iowa	1
+19862	Baruch College	1
+14247	Sienese school of painting	1
+17507	St. Anselm	1
+15202	University of Detroit Law School	1
+10212	Communication and School of Music	1
+13955	University of Virginia 's Department of Environmental Sciences	1
+15609	UCLouvain in Louvain-la-Neuve	1
+19560	Rotterdam World Music Academy	1
+12259	Los Angeles Community College District	1
+8843	Chief Dull Knife College Chief Dull Knife College in Lame Deer	1
+19619	Carnegie Geophysical Laboratory	1
+8454	Chrisland University	1
+16224	college of Brighton University	1
+19348	GIMPA	1
+14150	Madhhabs	1
+11187	Southern Association of Colleges and Schools	1
+8990	St. Petersburg University	1
+1097	Baylor School of Medicine	1
+1207	University of Wisconsin–Stout	1
+17546	Townsend Harris Hall Preparatory School	1
+18822	Simon Gratz High School	1
+6908	Raffles Junior College	1
+1866	Copenhagen University	1
+16569	Holton-Arms	1
+975	Catholic Cathedral College	1
+17931	East Aurora High School	1
+16429	Lead Hill High School	1
+18605	Aviation Science	1
+492	Ankara University Faculty of Law	1
+11031	Baulkham Hills High School	1
+12386	KLM Flight Academy	1
+9525	Chittagong Government Women 's College	1
+2302	Illinois colleges	1
+12144	Seton Hall	1
+5931	Abubakar Tafawa Balewa University	1
+20354	Harvard Kennedy School of Government	1
+6272	Jacob Kramer College of Art	1
+9775	George Brown 's School of Design	1
+4430	Diplomatic Academy of Vienna	1
+10499	Lamar University	1
+15467	SFA National Women 's Football Academy	1
+11266	Penleigh and Essendon Grammar School	1
+9366	International Academy of Quantum Molecular Science	1
+4838	The State University of New York at Buffalo	1
+1588	Sea Point Boys High School	1
+12964	Van Nuys High School	1
+871	Paramadina University	1
+13771	Pritchett School Institute	1
+9827	The New School university	1
+9110	Erasmus Hall High School	1
+19760	UPV/EHU Faculty of Law of San Sebastian	1
+521	Hobart College	1
+10942	India 's National Academy of Music , Dance & amp ; Drama	1
+2159	Fine Arts from New York University	1
+13930	Broadgates Hall	1
+9790	Sringeri Math	1
+12263	Hawai ‘ i Pacific University	1
+13652	Girton College , Cambridge	1
+17104	State Order of Lenin Central Institute of Physical Education	1
+10362	University of the Western Cape	1
+11888	Fundamental Baptist Bible Institute	1
+8690	Small Arms School	1
+1909	Gemological Institute of America	1
+4470	Christ Church School	1
+20686	Bath School of Art and Design	1
+1584	Gold Coast Christian College	1
+1775	Jai Prakash University	1
+11592	Alpha Omega Alpha	1
+14124	Eastern Mediterranean University ( EMU )	1
+15158	Colegio de San Juan de Letran Calamba	1
+19798	Engels military Aviation School	1
+18813	Ipswich Grammar School	1
+6403	Moscow State Institute of International Relations	1
+2854	Leo Baeck College	1
+11490	Marymount Manhattan College	1
+1224	U.S. Military Academy at West Point	1
+379	Conservatoire de Strasbourg	1
+6718	Perelman School of Medicine at the University of Pennsylvania	1
+10764	Murshidabad Zill Parisad	1
+20238	Istanbul Bilgi University	1
+16466	Stony Brook School of Medicine	1
+14394	University of Maryland , College Park	1
+19265	New York Studio School	1
+8633	New York Academy of Medicine	1
+7505	Chekiang Provincial No.1 Normal School	1
+3986	St. Joseph 's Secondary School	1
+17634	Savannah College of Art and Design	1
+12051	Healthcare Learning Centre	1
+10446	Northwestern University Pritzker School of Law	1
+8447	université de Paris	1
+491	University of Wollongong	1
+14680	Blackwattle Bay Campus	1
+1148	the University of Warsaw	1
+16270	Gakushuin University	1
+2833	Department of Chemical Engineering	1
+2391	Baker College Prep	1
+722	Moriah College	1
+12390	Wayne County Community College	1
+256	Anton Bruckner Private University	1
+9255	American College of Critical Care Medicine	1
+11875	Teachers Training College	1
+15311	University of Novi Sad	1
+4362	Center for Policy Studies	1
+14664	Belfast Royal Academy and the Ulster College of Physical Education	1

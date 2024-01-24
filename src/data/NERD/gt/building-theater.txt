@@ -1,0 +1,200 @@
+6601	San Francisco Opera	1
+6945	Geffen Playhouse	1
+19155	Hartford Stage	1
+5586	Duke of York ’ s	1
+665	Oper Bonn and Ludwigshaven State Opera House	1
+5127	Theatre Royal , Newcastle	1
+20614	Leeds Opera North	1
+17404	Imperial Bolshoi Kamenny Theatre	1
+6087	Delacorte Theater	1
+615	Criterion	1
+4509	Lunt-Fontanne Theatre	1
+6435	Churchill Theatre	1
+14894	Odeon Cinema	1
+12901	Iași Opera	1
+4806	The Theater Offensive	1
+934	Prince of Wales Theatre	1
+11303	Traverse Theatre	1
+1284	Long Wharf Theatre	1
+6670	Teatro Regio di Parma	1
+7067	Salem Auditorium	1
+16190	Gaiety Theatre	1
+16369	Apollo Victoria	1
+6827	Broadway Theatre	1
+13390	Open Air Theatre	1
+17208	Théâtre des Variétés	1
+19880	Opéra Comique	1
+16099	Ambassadors	1
+13279	Adelphi Theatre	1
+7973	New Conservatory Theatre Center	1
+14540	Teatro Massimo Bellini	1
+16008	Hampstead Theatre	1
+20035	Starlight Theatre	1
+15923	National Theatre	1
+13499	Arts Theatre	1
+18840	Virginia Theatre	1
+2877	New York Metropolitan Opera	1
+625	Sydney Opera House	1
+3211	Théâtre des Champs-Elysées	1
+11268	Queen Elizabeth Theatre	1
+240	Palace Theatre	1
+7612	Herbst Theatre	1
+17370	Paris Opera	1
+11581	Shubert Theatre	1
+6072	Adelphi	1
+17428	Teatro Regio di Torino	1
+991	Abbey Theatre	1
+13973	El Rey Theatre	1
+12352	Travel Agency Theatre	1
+12974	Chichester Festival Theatre	1
+10029	Royal National Theatre	1
+10301	Vienna Ringtheater	1
+12206	Walter 's Trafalgar Theatre	1
+9826	Variete theater	1
+80	Astor Place Theater	1
+15974	the Nakano Sun Plaza	1
+11172	Teatre Grec	1
+14119	Palais Royal Theater	1
+19662	Croydon 's Fairfield Halls	1
+12773	National Theatre Studio	1
+15637	Prithvi Theatre	1
+15544	Opéra Nouvel	1
+7642	Wilshire Theater	1
+3667	héâtre des Champs-Élysées	1
+15998	Folketeatret	1
+19034	National Taichung Theater	1
+4056	Bristol Old Vic Studio	1
+14372	Patrick Centre	1
+18793	Kraków theatre	1
+10219	Fox Theatre	1
+11140	Minneapolis ' Walker Art Center	1
+13743	Huntington Theater	1
+19477	Göteborgsoperan	1
+9829	Teatro degli Arcimboldi theatre	1
+17689	SGIO Theatre	1
+18509	Daly 's Fifth Avenue Theatre	1
+18939	Greek Amphitheater	1
+6385	Gaumont-Palace	1
+6536	Devonshire Park Theatre	1
+2513	Nová scéna	1
+5759	Alte Oper Frankfurt	1
+33	Straw Hat Players	1
+1793	Hofoper	1
+1918	Manchester Library Theatre	1
+16116	Pantages Theater	1
+890	Metro Toronto Convention Centre	1
+12450	De Munt/La Monnaie	1
+17395	Greek National Opera	1
+6093	the Concerti Popolari	1
+9436	Varsity and Cambridge Theatre	1
+8673	Dionysos Theater of the Acropolis	1
+11947	Poplar Creek Music Theater	1
+3482	Dundee Rep Theatre	1
+6383	Riksteatret	1
+17808	Barcelona ’ s Liceu	1
+4963	Oran Mor and the Traverse Theatre	1
+12794	San Francisco 's New Conservatory Theatre Center	1
+13788	Western Theaters	1
+16961	Court Theatre	1
+9613	New York 's theater	1
+4951	Opernhaus Hannover	1
+13492	New York 's Palace Theatre	1
+4536	Western Theater	1
+19892	DTE Energy Music Theatre	1
+15150	Teatro Real of Madrid	1
+11494	Salle Favart	1
+3619	New Theatres Calcutta	1
+19126	Cloud Cuckoo Land Theatre	1
+17508	Chicago Opera Theater	1
+8014	Roseland Theater	1
+8340	the Adriatic theater	1
+9742	National Youth Music Theatre	1
+5848	Newbury Festival	1
+19075	Elbphilharmonie	1
+20102	Munich Chamber Theater	1
+17670	Steve Allen Theater	1
+3553	New Brunswick Performing Arts Center	1
+4687	National Theater of Cuba	1
+17750	Headlong Theatre	1
+3684	Edderkoppen	1
+142	Snow Camp Outdoor Theater	1
+5629	Laney College Theater	1
+20621	Městská divadla pražská	1
+11102	AMC and Regal theaters	1
+1109	Birmingham 's Alex Theatre	1
+589	Andrew 's Amphitheatre	1
+9137	Portuguese Symphony Orchestra	1
+6384	Conservatoire de Luxembourg	1
+20612	Imperial theaters	1
+3812	Sao Paulo municipal theater	1
+16799	HighTide and National Youth Music Theatre	1
+11555	Ford ’ s Theater	1
+408	2100 Square Feet	1
+13457	Schauspiel Köln	1
+16783	ANTA Theatre	1
+18292	Esplanade Theatre	1
+11873	The Donmar	1
+18439	Theatre Inconnu	1
+16039	El Sawy Culture wheel	1
+1201	Moscow Young Spectator Theatre	1
+11014	Empire Theatre	1
+1440	New York City Center Theatre	1
+3147	Vineyard Theater	1
+699	Ljubljana National Drama Theatre	1
+7385	the Bristol Old Vic Theatre	1
+9842	Edinburgh Festival Theatre	1
+20297	Opern- und Schauspielhaus Frankfurt	1
+17058	San Francisco 's Curran Theatre	1
+10630	Gem Theatre	1
+13144	Long Wharf Theater	1
+1357	Australian Macquarie Radio Theatre	1
+20439	Monte Carlo Opera House	1
+3336	Northern Bank theatre	1
+2556	the National Theatre Studio	1
+2485	5th Avenue Theatre	1
+4507	George Abbott Theater	1
+17007	Playwrights Horizons Peter Jay Sharp Theater	1
+4844	Blank Theatre in Los Angeles	1
+8915	Centrepointe Theatre	1
+1547	Shanghai Opera House	1
+15549	Queen 's Hall	1
+3875	Atelje 212 theater	1
+12910	Sinhala cinema	1
+1879	Bath Theatre	1
+3185	Tricycle Theatre	1
+15308	`` Grove New American Theater ''	1
+13002	Det ny Teater	1
+15348	Tricycle Cinema	1
+18807	Plutonium Playhouse	1
+19802	Regio Teatro Dante	1
+9363	Darlinghurst Theatre Company	1
+10059	New Ambassadors Theatre	1
+14542	the Chichester Festival Theatre	1
+17859	Blackpool Grand Theatre	1
+14505	Kennedy Center Concert Hall	1
+5340	Istituto Morlacchi	1
+551	The Lowry theatre	1
+13311	Fartein Valen	1
+12477	Bavarian State Opera	1
+7601	Kirov/Mariinsky Ballet	1
+2781	South-East Asian theatre	1
+16500	Teatro Comunale	1
+3811	Chapman Music Hal	1
+7733	Peacock Theatre	1
+13746	Glasgow Citizen 's Theatre	1
+13231	Austin Lyric Opera	1
+2408	A.C.T .	1
+15932	the Studio Theatre	1
+12495	Crucible Studio	1
+9830	Victory Gardens Theater	1
+10199	Grand Théâtre de Luxembourg	1
+13154	Pram Factory Theatre	1
+6193	Booth Theatre	1
+6938	Zagreb and Croatian National Theatre	1
+8103	Opéra de Lausanne	1
+15334	Deutsche Oper am Rhein	1
+6342	d West Yorkshire Playhouse	1
+17862	America 's National World War I Museum	1
+6046	Neues Königliches Schauspielhaus	1
+8918	Eureka Theatre	1
+11662	The Ghostlight Theatre	1

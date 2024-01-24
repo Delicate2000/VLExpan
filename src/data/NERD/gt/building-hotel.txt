@@ -1,0 +1,200 @@
+6001	Carlton Hotel	1
+11007	The Ritz Hotel	1
+18799	The Beverly Hills Hotel	1
+17106	Gaylord Hotels	1
+15662	Victor Hotel	1
+5125	Emirates Palace Hotel	1
+16321	Beverly Hilton Hotel	1
+1051	Rio All Suite Hotel	1
+9250	Clevelander Hotel	1
+15084	Raffles Hotel	1
+14285	Loews Hollywood Hotel	1
+15094	Le Meurice	1
+6144	Hotel Metropole	1
+6795	Burj Al Arab hotel	1
+5686	Waldorf-Astoria	1
+8394	Watergate Hotel	1
+18888	Astoria Hotel	1
+12673	Pierre Hotel	1
+17360	Moana Hotel	1
+13330	Hotel Astor	1
+14422	Hotel Roosevelt	1
+13137	Blackstone Hotel	1
+20177	Tides Hotel	1
+10061	Pan Pacific Hotel	1
+17613	Dorchester Hotel	1
+2091	El Cortez	1
+19410	Grosvenor House Hotel	1
+20553	Walt Disney World Swan	1
+15978	Ritz Hotel	1
+20667	The Dorchester	1
+12395	Hotel Canberra	1
+16568	Palestine Hotel	1
+15605	Chelsea Hotel	1
+5154	Willard Hotel	1
+8510	Gleneagles Hotel	1
+19916	Savoy Hotel	1
+17852	Hotel de Paris	1
+6009	Beverly Hills Hotel	1
+12706	Hotel Pennsylvania	1
+122	Carlyle Hotel	1
+14352	Royal Hawaiian Hotel	1
+14501	Culver Hotel	1
+15673	Hotel Bel-Air	1
+312	Langham Hotel	1
+11120	MGM Grand Hotel	1
+3474	Beverly Wilshire Hotel	1
+18088	Hollywood Roosevelt Hotel	1
+7199	Loews Portofino Bay Hotel	1
+10197	Hard Rock Hotel	1
+6023	Luxor Hotel	1
+8379	Silver Slipper Hotel	1
+17653	Hotel Kämp	1
+10876	Statler Hotel	1
+6900	Courtyard by Marriott	1
+10867	Edsa Shangri-La Hotel	1
+6425	Brook Green Hotel	1
+13896	Chateau Marmont Hotel	1
+7598	Melia Cohiba Hotel	1
+6818	New York hotel	1
+8556	Best Western Premier Ark Hotel	1
+18145	Kingsmill resort	1
+18854	The Pierre Hotel	1
+11484	The Watergate Hotel	1
+326	Hotel Europejski Spółka Akcyjna	1
+8939	Canary Riverside Plaza Hotel	1
+6215	Café Pittoresque	1
+19323	Monte Carlo Resort and Casino	1
+57	Melasti Hotel	1
+14493	Motor Inn Motel	1
+11332	Bradley Sheraton Hotel	1
+9715	Renaissance Hollywood Hotel	1
+11596	Merrion Hotel	1
+2154	Hotel Jagdgut Wachtelhof	1
+20281	Peninsula Beverly Hills Hotel	1
+968	Princess Kaiulani Hotel	1
+90	the Waldorf Astoria Hotel	1
+2848	residence hotel	1
+18892	the Hotel Sacher	1
+20188	The Henry Hudson Hotel	1
+6117	Druids Glen Marriott Hotel and Country Club	1
+18493	the Savoy-Plaza Hotel	1
+3525	Hotel Europejski	1
+9279	the D	1
+12131	Circus Circus Las Vegas hotel	1
+1268	Downtown Grand	1
+16022	County Carlow Football Club	1
+924	Cavendish	1
+17196	Hôtel Dieu	1
+8178	Le Richemond	1
+18248	Torre Mapfre	1
+5395	the Royal Hawaiian Hotel	1
+10743	HESA	1
+17577	North Annex	1
+11869	Hilton Garden Inn Emirates Old Trafford	1
+12250	Cape Grace Hotel	1
+8980	Cloudland	1
+5432	Al-Rashid Hotel	1
+6005	Disney 's Art of Animation Resort	1
+10974	Hotel 17	1
+8160	Brunswick Hotel	1
+16195	Southern Sun	1
+13501	Parker House	1
+19674	Cardiff hotel	1
+10241	MGM Grand Reno	1
+12054	Hyatt Regency	1
+14388	Traverse City Great Wolf Lodge	1
+17264	Emerald and Pan Pacific hotel	1
+13857	Kiandra Chalet Hotel	1
+1699	Pickfair	1
+10009	the Midland Hotel	1
+4466	Western General Hospital	1
+2320	Resorts World Bimini 's hotel	1
+6211	Wingate By Wyndham	1
+6112	Halekulani Hotel	1
+18832	Taj Mahal Palace Hotel	1
+13732	Clarke 's Hotel Chelsea	1
+11214	Disney Resort Hotel	1
+19132	Habana Libre Hotel	1
+15015	Princess Hotels	1
+3209	Radisson Blu Sea Plaza Hotel	1
+4969	Pearl Continental Hotel	1
+13107	Berkeley Hotel	1
+6994	the Sonesta Hotel	1
+10985	Pineapple Hotel	1
+7027	Maître d'hôtel	1
+673	Hickam Hotel	1
+362	Hotel Café	1
+12615	Savoy Hotel Group	1
+815	Paris Las Vegas hotel and casin	1
+19430	Dover Motel	1
+5518	Resort skyscraper	1
+9828	Marble Arch Hotel	1
+11042	Ritz London Hotel	1
+16832	Salter 's Hotel	1
+17387	Surrey Hotel	1
+3616	Franz Josef Glacier Hotel	1
+17799	Planet Hollywood Hotel & amp ; Casino	1
+6427	Michel Roux 's restaurant The Waterside Inn	1
+12698	Ebbitt House	1
+7443	Chicago 's Sheraton Hotel & amp ; Towers	1
+5089	Ritz Hotel London	1
+10880	The Hudson	1
+4336	Hanoi Hilton	1
+16853	Dukes Seaside Inn	1
+7680	Golden Nugget Las Vegas hotel and casino	1
+11474	Las Vegas Hotel & amp ; Casino	1
+5227	Hotel Adlon of Berlin	1
+14082	Grand Historic Venue	1
+5102	SpringHill Suites	1
+4581	Grand Hyatt Singapore Hotel	1
+6590	Hotel Novotel New York Times Square	1
+19413	Hotel de la Croix	1
+2385	Travelodge Hotel	1
+1360	the Kiandra Chalet Hotel	1
+9413	the Hôtel Meurice de Calais	1
+12848	The Flamingo	1
+17276	Hilton Kuala Lumpur	1
+3106	Hotel Haus salzburg	1
+1702	The Taj Mahal Palace Hotel	1
+3594	The Waldorf=Astoria Hotel	1
+11339	The Mount Errigal Hotel	1
+17658	El Cortez Hotel and Casino	1
+616	Heartlake Grand Hotel	1
+18683	Hilton Washington DC National Mall	1
+2025	Grand Hyatt New York	1
+17883	Chateau Lake Louise	1
+16106	Hotel Sevilla-Biltmore	1
+19308	Hôtel Les Terrasses Poulard	1
+3532	London 's Claridge 's	1
+14303	Fairfield Inn	1
+19757	White Cross Hotel	1
+8936	Encore Boston Harbor	1
+14057	Paris Las Vegas hotel	1
+11079	Inner Temple , Thomas de Littleton 's inn	1
+13505	Independence Hotel	1
+18642	Christie Kerr Women 's Health Center	1
+5174	Parramatta District Hospital	1
+1269	Fairmont Peace Hotel Shanghai	1
+12646	Yangon ( Rangoon ) . & lt ; br & gt	1
+15459	Disneyland Pacific Hotel	1
+15382	Sheraton Moana Surfrider	1
+16919	Biscayne Hotel	1
+19199	Hotel Zone	1
+17652	Hotel Riviera	1
+10072	Hotel de Mexico	1
+19083	Horton House Hotel	1
+3656	Pearls of Umhlanga apartments	1
+5434	Langham Hotel Boston	1
+501	Crowne Plaza Hotel	1
+6944	The Inn at Little Washington	1
+9114	Thistle London Ryan	1
+14267	Mundaring Weir Hotel	1
+7095	Heathman Hotel	1
+13281	Walt Disney World Dolphin	1
+17976	4 Diamond Sheraton Hotel	1
+1936	Claridge 's hotel	1
+14196	Mondial Hotel	1
+6652	Peninsula Manila Hotel	1
+16229	Black Eagle Lodge 482	1
+2704	Tiara & amp ; El Lago condominiums	1

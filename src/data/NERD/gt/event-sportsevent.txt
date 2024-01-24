@@ -1,0 +1,200 @@
+70	1997 French Open	1
+5624	Summer Olympic Games	1
+16895	Summer Olympic	1
+263	Royal Rumble	1
+3730	Beijing Olympics	1
+581	Challenge Cup	1
+7204	SmackDown Money	1
+17048	Small Club World Cup	1
+9792	College World Series	1
+15342	Istanbul Marathon	1
+16218	UEFA European Under-19 Football Championship	1
+1391	Moscow Olympics	1
+7329	Belgian Grand Prix	1
+15587	Survivor Series	1
+11825	Super Bowl XVII	1
+5609	ERA	1
+8041	K-1 World Grand Prix	1
+11521	Super Bowl VII	1
+13627	Super Bowls	1
+1300	Ultimate Fighting Championship	1
+6963	Grand Final	1
+18243	Super Bowl XIX	1
+8268	Super Bowl XXIII	1
+1242	Grand Slam tournaments	1
+5813	Gerry Weber Open	1
+20485	World All-around	1
+13924	Superliga season	1
+6475	Limerick Senior Hurling Championship	1
+3027	2008 Summer Olympics	1
+12702	AFL Grand Final	1
+19077	European Athletics Championships	1
+8806	Los Angeles Marathon	1
+4395	National League Championship Series	1
+12740	Monaco Grand Prix	1
+19415	Rugby World Cup	1
+3766	Wimbledon Championships	1
+8696	Italian Grand Prix	1
+12447	New York City Marathon	1
+14639	NBA Finals	1
+1639	Olympians	1
+15909	European Cup	1
+365	LPGA Championship	1
+16120	BBC2 Floodlit Trophy Final	1
+11126	PGA Championship	1
+6133	Winter Olympic Games	1
+2250	World Championships	1
+584	All-Star Game	1
+20349	London Marathon	1
+276	Super Bowl XVI	1
+7381	World Series	1
+451	Petit Le Mans	1
+9948	MLB season	1
+4984	International Series of the 2005 ATP Tour	1
+11010	East–West Shrine Game	1
+18837	Leinster Senior Cup	1
+14418	the Commonwealth Games	1
+5601	UEFA Women 's Euro 2017	1
+7968	women 's Tour of California cycling stage race	1
+8492	1921 Perth Carnival	1
+18572	Group A Honda City 1.5 litre V-TEC	1
+18072	National Three Peaks Challenge	1
+7913	8 Man Tag Team Match	1
+5916	LFA-Orange First Division League	1
+15371	2007 Copa América	1
+6338	2017 UEFA European Under-19 Championship	1
+1409	Super 8 Tournament	1
+5883	Wyndham Championship	1
+13858	AIFA Kickoff Classic	1
+8310	25th Anniversary Show	1
+16200	SEC Championship Game	1
+550	Goodwill Games in New York City	1
+1046	2016 Wimbledon	1
+2580	Peaks Cyclocross Race	1
+8811	2007 ATP Tour	1
+2603	Avon Championships Circuit	1
+570	Ben Nevis Race	1
+3677	Circuit of Britain race for seaplanes	1
+8779	Tennis Masters Series of the 2003 ATP Tour	1
+7481	Winter Olympic Games in Lillehammer , Norway	1
+15076	Liverpool Echo Knockout	1
+9305	Sprint Cup Series	1
+14024	1977 Formula One season	1
+1182	Euro GT Series	1
+15180	Asian Cross Country Championships	1
+16712	2019 Australian Grand Prix	1
+10217	Major League Baseball season	1
+18768	French Grands Prix	1
+7046	Northern Ireland national under-19 football team matches	1
+10295	North American Endurance Cup	1
+19656	Betfred Championship	1
+9037	Summer Endurance Classic at Suzuka	1
+9510	Western Division of the National Conference	1
+6630	Irish National Championships	1
+15676	AIFA Championship Bowl III	1
+12535	2001 World Indoor Championships	1
+12696	ACC Atlantic Division	1
+12913	Samoan Heavyweight Boxing Championship	1
+16613	Rugby League World Cup 9s	1
+1437	Thunderdome Cage Match	1
+8746	CAF Super Cup	1
+13146	Ashdod Chess Festival	1
+18005	ABA Championships	1
+4866	Magic Night Stakes	1
+898	Lotte Orions	1
+18020	WrestleMania 33	1
+10669	National Invitation Tournament ( NIT )	1
+14744	Geneva Open	1
+15337	Sochi Games	1
+7259	2014 Tim Hortons Brier	1
+14667	VAFA competition	1
+9061	U.S. National Championships	1
+6212	UFC Fight Night 42	1
+14175	Tokyo Asian Games	1
+13625	J20 SuperElit	1
+6689	2015 UEFA European Under-17 Championship	1
+16283	2009 US Open Series	1
+16567	Singapore League Cup	1
+20714	Super Series of the 1981 Volvo Grand Prix circuit	1
+17833	Formula E Berlin ePrix	1
+17679	EMLL 52nd Anniversary Show	1
+7002	the 2015–16 NCAA Division I women 's basketball season	1
+6126	Women ’ s Cricket World Cup	1
+20448	2010 Wimbledon Championships	1
+15295	Annual Pan American Games	1
+18703	Golden State Hockey Rush	1
+5377	Tier IV of the 2005 WTA Tour	1
+5	Lion Red Cup	1
+17051	1995 World Championship	1
+10584	the Caulfield Cup	1
+20689	Railway Cup	1
+2547	the Teddington Reach Aquatic Sports	1
+3325	All-Ireland final	1
+19386	2011 King Cup of Champions	1
+13062	2000 Lamar Hunt U.S. Open Cup	1
+13676	LPGA Corning Classic	1
+12100	2020–21 NCAA Division I men 's basketball season	1
+16021	New Japan	1
+20274	Escape from Alcatraz Triathlon	1
+5038	NCAA Division I Basketball Tournament	1
+5067	VFL competition	1
+9054	2007 Team Championship Final	1
+10372	1985 VFL season	1
+5946	International Series of the 2001 ATP Tour	1
+18011	Victorian Football League Grand Finals	1
+6305	1983 French Open	1
+223	Rio Olympic games	1
+12869	São Paulo State Championship	1
+2710	German F3 Cup	1
+5513	Little Caesar 's Pizza Bowl	1
+19235	Australian Hockey League men 's Field Hockey tournament	1
+14934	Western Canada Cup	1
+16016	Italian National champion Road race	1
+6578	ICC Cricket World Cup Challenge League	1
+5049	Central Association Championship	1
+14330	WrestleMania Weekend King of Indies tournament	1
+8738	Thames barge races	1
+10120	British GT Championship	1
+11180	Women 's Super League 2	1
+14512	1998 Gold Cup	1
+1872	Royal Shrovetide Football	1
+676	Miami Marathon	1
+11763	All-Ireland Semi-final	1
+18961	Buddh International Circuit , India	1
+12085	2008 Stanley Cup Finals	1
+15280	Liga 1	1
+9765	Balkan Cup	1
+17528	Super Bowl VII and XVIII	1
+6058	FIBA Under-21 World Championship for Women	1
+6811	1948 Olympics	1
+18831	1961 International Cup for Formula One Manufacturers	1
+20231	1999 World Junior Championships	1
+14252	WrestleMania Axxess	1
+10343	1961 World Figure Skating Championships	1
+12951	World and European Championships	1
+1746	2002 Daytona 500	1
+3394	Euro 2016	1
+9121	NJCAA Division National Tournament	1
+15375	LPGA major championship	1
+19601	Trust House Cycle Classic	1
+14612	2012 Games in London	1
+6369	NCL America	1
+5561	Savannah Steam of American Indoor Football	1
+9744	La Route de France	1
+19234	NCAA Division II level	1
+8169	Silk Cut Challenge Cup	1
+11476	FIBA World Cup	1
+8661	Summer Paralympic Games	1
+20429	26th edition of the Asian Badminton Championships	1
+4751	Goodyear Trophy Race	1
+15965	Bundesliga Süd	1
+15799	US Open final	1
+10735	the 2004–05 Grand Prix Final	1
+8345	Bay Week	1
+15617	Germany marathons	1
+1298	Asian Beach Games	1
+3508	Prix du Moulin de Longchamp	1
+10216	2011 WTA Tour	1
+1767	2007 ICC World Twenty20	1
+9107	NCAA men 's collegiate volleyball	1
+4630	Police World Cup	1

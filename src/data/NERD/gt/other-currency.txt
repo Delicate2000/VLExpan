@@ -1,0 +1,200 @@
+11056	A $	1
+6045	Mexican peso	1
+8445	Spanish dollars	1
+5746	Dollar	1
+5286	U.S. dollar	1
+1444	CFA franc	1
+19966	US $	1
+17172	Gulden	1
+16301	Indonesian rupiah	1
+14118	Liberty Dollar	1
+1910	US dollars	1
+15817	franc	1
+12548	francs	1
+7025	Hong Kong dollar	1
+15157	United States dollar	1
+16649	Philippine peso	1
+16162	Federal Reserve Notes	1
+19215	dollars	1
+6416	Kreuzer	1
+20497	krona	1
+19124	pounds	1
+8479	Spanish dollar	1
+7323	Rupees	1
+703	euro	1
+11778	MXN $	1
+11792	Reichsmark	1
+9786	Rentenmark	1
+6654	Zimbabwean dollar	1
+11241	cents	1
+1127	euros	1
+7366	dinar	1
+7841	British Borneo dollar	1
+16419	Icelandic króna	1
+20456	French francs	1
+4788	pound	1
+11027	C $	1
+4055	Canadian dollar	1
+11800	rupee	1
+12580	British pound	1
+988	US dollar	1
+14570	Chinese yuan	1
+18867	peso	1
+18903	Argentine peso	1
+10752	RMB	1
+7864	dollar	1
+16487	MYR	1
+19010	Guilders	1
+7355	Turkish lira	1
+6348	Singapore dollar	1
+12508	EUR	1
+13607	New shilling	1
+12279	Sardinian lira	1
+3660	20 Mark	1
+18598	Honduran real	1
+270	20 billion Vietnamese đồng	1
+15557	Polish zloty	1
+12825	sukuk	1
+11932	Baden Gulden	1
+20609	Linden Dollar	1
+20007	$ 200	1
+19326	$ 22,700	1
+19392	two-cent	1
+1274	NOK 9.5 million	1
+18156	Rentenmarks	1
+11501	pesetas	1
+14014	New Zealand Dollars	1
+5990	$ 20.37	1
+11433	centavos	1
+10567	4¢	1
+11326	$ 50	1
+15953	Riksdaler Riksmynt	1
+10553	the Netherlands Antillean guilder	1
+13273	$ $	1
+15340	NZ $ 245m	1
+563	ƒ	1
+14137	Deutsche mark	1
+10733	1 drachma	1
+16033	Centime	1
+16818	100 francs	1
+12688	Serbian dinar	1
+10255	rand	1
+18308	gold ducats	1
+7165	Nicaraguan peso	1
+18708	złoty ( PLN )	1
+2000	Danish coins	1
+9681	Württemberg Gulden	1
+13753	Russian currency	1
+13968	columnarios	1
+9848	pence sterling	1
+3671	A $ 3,2 million	1
+15330	$ 37,500	1
+6521	CFA francs	1
+1104	`` ZWD ''	1
+16548	the Mexican peso	1
+15822	lats	1
+7276	Rwandan franc	1
+11158	$ US 40 million	1
+11242	Brazilian real coins	1
+6872	U.S. banknote	1
+4707	100,000 Japanese Yen	1
+5558	strong pesos	1
+15132	Penny Sterling	1
+4983	Coins of the Canadian dollar	1
+17091	5 Mils	1
+11012	kreuzer	1
+14980	ƒl	1
+13209	240 pence	1
+3502	New York pound	1
+3148	Ottoman lira	1
+14578	Silver Certificates	1
+1878	daler silvermint	1
+7153	British pounds sterling	1
+236	£0.35	1
+7024	Pieces of eight	1
+6	mils	1
+10478	Australian Dollar	1
+15044	British half penny	1
+11703	M $	1
+20674	NZ $ 69.2 million	1
+16922	bipkwele	1
+1390	silver pennies	1
+634	Portuguese Indian rupia	1
+6177	LRY	1
+163	Maria Theresa thaler	1
+19294	troy pound	1
+19583	Ghana cedi	1
+13333	piece of eight	1
+13927	5 lepta	1
+13628	SEK	1
+13836	Kitchener Millionaires	1
+11165	Parman lira	1
+5555	gold or silver Mexican coins	1
+8993	$ 2,500,000	1
+3348	Prussian Thaler	1
+6810	Kreuzer Landmünze	1
+1665	INR	1
+20070	1 dollar	1
+11745	CSD	1
+9862	South African Cent	1
+18314	DM 0.8507	1
+5552	halier	1
+11245	שקל	1
+4130	20 oboli	1
+6121	£5,000	1
+19223	£1.2 billion	1
+16811	¤	1
+7303	1 million kroner	1
+4851	2,400 Guilders	1
+16102	L $	1
+1436	wiss francs	1
+14308	Swedish riksdaler	1
+13583	Stickney Point Bridge	1
+14827	fils	1
+15128	réis	1
+18727	Proclamation shillings	1
+17994	€0.024789	1
+16448	$ 100	1
+8589	Burundi franc	1
+8602	dog dollars	1
+6163	million	1
+8155	Caribbean guilder	1
+1024	5 million €	1
+4632	Rhenish guilder	1
+17975	Fijian pound	1
+18422	$ US 250M	1
+9306	F $	1
+16304	MNOK	1
+346	NZ $ 73 million	1
+20324	pillar dollars	1
+18967	Chilean peso	1
+6064	$ USD	1
+14495	$ US 37M	1
+5009	Maltese lira	1
+11853	Finnish language commemorative coin	1
+5794	French Equatorial African franc	1
+17193	triple shekel coins	1
+18636	drachma banknotes	1
+6549	Drachma	1
+904	Australian dollars	1
+10795	Surinamese dollar	1
+5941	coin	1
+16510	American Liberty Currency	1
+3614	BZD	1
+8562	I£	1
+4573	U.S. dollars	1
+4003	sixpence	1
+19205	NZ $ 1.1 billion	1
+9632	`` hal .	1
+5960	Brunei dollar banknotes	1
+17723	oz	1
+3152	Prisoners of War silver dollar	1
+10684	$ US 1.2 - 1.3 billion	1
+14770	1.9 million lats	1
+17853	the French franc	1
+17390	Dutch euro coins	1
+1991	Indian Rupees Two	1
+1190	lac crore	1
+18994	£337,670	1
+13827	Malian francs	1
+17847	$ 1,000,000	1

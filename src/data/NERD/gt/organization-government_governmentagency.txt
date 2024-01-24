@@ -1,0 +1,200 @@
+2493	Senate Committee	1
+17190	NCDCC	1
+2037	U.S. Court of Appeals	1
+4157	Puerto Rico Department of the Treasury	1
+12787	Yamato court	1
+13642	Government of Barbados	1
+3726	Palestinian Authority	1
+20549	Parliament of England	1
+5441	Council of State	1
+15037	Portuguese Navy	1
+19339	Department of Canadian Heritage	1
+11644	Canadian Immigration Service	1
+190	Federal Reserve Banks	1
+2681	U.S. District Court	1
+13056	Béla Kun government	1
+9340	GAO	1
+14862	Parliament of the United Kingdom	1
+11848	US Defense Department	1
+15831	New York State Assembly	1
+4521	CFPB	1
+12308	USFS	1
+14971	WSDOT	1
+15823	The California State Police	1
+11298	Metropolitan Water Board	1
+5770	NPCC	1
+1984	China International Transplantation Assistant Centre	1
+10020	New York State Senate	1
+7729	U.S. Congress	1
+207	British Government	1
+3526	NSA	1
+4295	Federal Government	1
+14853	State Aviation Department	1
+8865	United States Census Bureau	1
+5001	Waverley Committee	1
+18825	Scottish Government	1
+9083	U.S. government	1
+12524	Government of India	1
+14555	U.S. Department of the Treasury	1
+7178	Ontario Provincial Police	1
+10488	United States Circuit Judge for the Second Circuit	1
+20063	Court	1
+20657	Justice Department	1
+1493	European Court of Human Rights	1
+10483	Senate	1
+3936	US Department of Justice	1
+18152	U.S. Supreme Court	1
+4550	Port Authority	1
+6228	Commons Health Committee	1
+6452	Government of Canada	1
+17767	State Department	1
+12796	Alberta Political Alliance	1
+637	Bangladesh Election commission	1
+7008	Cabinet of Ministers of Ukraine	1
+4759	Flemish Government	1
+5334	Sturgeon government	1
+12192	criminal justice legislative committees	1
+2804	Broken Hill City Council	1
+10620	Board of Human Resources	1
+13651	Las Vegas City Council	1
+9846	Civil Service of Pakistan	1
+15325	Taiwan Representative Council	1
+11194	United States Court of Federal Claims	1
+7517	Rapid Action Battalion	1
+6080	Indian Department	1
+19525	Ministry of State Secretariat of Indonesia	1
+9261	Weimar German	1
+14714	Privy Council of State	1
+452	Ministry of Interiors	1
+14389	Massachusetts General Court	1
+17663	Minister for the Arts	1
+5006	Republican Guard	1
+10436	Massachusetts Convention Center Authority	1
+4432	Regional Government of Sardinia	1
+19492	Political Honours Review Committee	1
+17134	Brian Cowen	1
+7931	Ponce municipal government	1
+2117	Central Committee ( CC ) of the PPSh	1
+9813	TESDA	1
+7777	Foreign Affairs of Ukraine	1
+7960	Roman Senate	1
+6000	Barguna-1	1
+1435	US Patent Office	1
+8183	National Accreditation Board	1
+9209	House of Representatives in the Diet of Japan	1
+13374	Transcaspian Government	1
+3069	Bihar Government	1
+7742	Sabena Flight Academy	1
+58	Legislature of United States	1
+4522	Member of the Legislative Assembly of Tamil Nadu	1
+7255	New York 's Federal Reserve	1
+5938	Niagara Parks Commission	1
+16509	Government of Republika Srpska	1
+10210	Nebraska Department of Transportation	1
+3712	People 's Liberation Army Ground Force	1
+2509	US Agency for International Development	1
+19285	Criminal Investigation Department for Murder	1
+18492	EU-Chile Joint Parliamentary Committee	1
+6942	European Land Information Service EULIS	1
+19950	Istanbul Metropolitan Municipality	1
+5756	Mid and East Antrim Borough Council	1
+9696	German Federal Chancellery	1
+13484	Commons	1
+7488	Qing government	1
+14846	National Refugee Agency	1
+13303	Labour Students	1
+7268	Senegalese government	1
+3098	municipality of Milan	1
+7020	Politburo of the party	1
+7906	Committee on the Present Danger	1
+556	Manchester audit department	1
+6713	Czech government	1
+16912	Pennsylvania State System of Higher Education	1
+9397	District of Maine	1
+11863	Belgian National Congress	1
+11884	Hunt Armory	1
+5903	Virginia Department of Historic Resources	1
+45	House of Representatives of the Philippines	1
+18759	Maine State House of Representatives	1
+10280	Legislature XVIII of Italy	1
+20613	United States Maritime Administration of the Department of Transportation	1
+16931	Parliament of Malaysia	1
+9898	California Legislature	1
+10523	Aulic council	1
+5869	Taliban government	1
+14758	National Retail Federation	1
+14286	Motorway & amp ; Highway Police	1
+10108	South African Department of Water Affairs	1
+2540	Democratic National Conventions	1
+18299	Malawi Postal Service	1
+14202	Punjab government	1
+11744	Cairns Customs House	1
+19901	Scottish Executive	1
+15926	XIII National Congress	1
+10085	Regional Government	1
+5167	1943 Cairo Conference	1
+3514	secret British intelligence	1
+10534	Qajar dynasty	1
+12249	US 3rd Infantry Division	1
+18431	Naval Consulting Board	1
+6408	Courts of the State of Connecticut	1
+12070	Bulgarian National Assembly	1
+18187	Massachusetts Senate	1
+1652	3rd Foreign Infantry Regiment ( 3e REI )	1
+14767	Conservative Party conference	1
+18333	Texas Department of State Health Services	1
+1168	Department of Family and Community Services	1
+20040	Victorian Legislative Assembly for Dundas	1
+12634	10th Mountain Division	1
+20546	United States District Judge of the United States District Court for the Western District of Missouri	1
+4256	American Psychiatric Association DSM-IV Subcommittee on Gender Identity Disorders	1
+17476	Uttar Pradesh Education Board	1
+14617	Lefkowitz , J	1
+3267	Oregon Senate	1
+11911	Irish Trades Union Congress	1
+6315	Albanian Provisional Committee	1
+6614	government coalition in the German Weimar Republic	1
+8073	Kholodny Yar Republic	1
+12761	Institute for Policy Studies	1
+1962	United States Defense Department Public Affairs office	1
+1226	British House of Commons constituency of Oxford	1
+3386	U.S. Census	1
+1647	the federal Department of National Defence	1
+11385	Central Archive of the Berlin State Museums	1
+5920	Office of Insular Affairs	1
+4082	BUMAR	1
+14727	Administration Commission of the State Council	1
+4409	Denbighshire County Council	1
+20536	California State Senate	1
+17539	Secretary of State for Scotland	1
+15941	Seunas of Devagiri	1
+13483	Pakistanis	1
+7298	Scottish Justice Department	1
+10200	Spanish courts	1
+16892	Northern Beaches Council	1
+16152	Indian Embassies and Consulates	1
+5329	US XII Air Force	1
+1755	Intelligence Services Tribunal	1
+1992	Parliament of Ireland	1
+17014	Sith Empire	1
+12597	constituent republic of Yugoslavia	1
+17130	Confederate authorities	1
+5550	High Court of Justiciary	1
+14081	Hindu Mataram Kingdom	1
+12191	Yatsuka Observatory	1
+13235	North West Circuit	1
+12242	Ethiopian Reconciliation Commission	1
+19237	Brazilian Chamber of Deputies	1
+5655	Brazilian republic	1
+5351	Arbuthnott Commission	1
+12534	Lakshadweep Police	1
+7249	Common Court of Justice of Aruba , Curaçao , St. Maarten and Bonaire , St. Eustatius , and Saba	1
+7186	POLITICO	1
+9904	Tasmanian Legislative Council of Australia	1
+5510	Legislative Assembly of Montserrat	1
+19617	Department of Atomic Energy of the Government of India	1
+19445	the Ministry of Industry and Commerce	1
+297	U.S. Intelligence	1
+9463	Alaskan Defense Command	1
+4793	Bremen Soviet Republic 's head of the People 's Commissariat for Education	1
+14222	Council of Dvin	1

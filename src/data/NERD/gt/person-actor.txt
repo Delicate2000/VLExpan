@@ -1,0 +1,200 @@
+6896	Peter Haddon	1
+13118	Frank Caliendo	1
+16018	Eva Pope	1
+19273	Nina Diva	1
+2398	Nina Roth	1
+5748	Brando	1
+10149	Ann-Margret	1
+16413	Idris Elba	1
+4715	Akira Sasanuma	1
+12681	Ralph Waite	1
+3269	Merrells	1
+4627	Divyaa	1
+11773	Mammootty	1
+18828	Prasanna	1
+7054	Woody Harrelson	1
+15410	Jerry Spector	1
+12922	Fassbender	1
+5076	Will Geer	1
+4190	Rajinikanth	1
+678	Riccardo Muti	1
+18712	Norina	1
+13069	Jeff Bridges	1
+4285	Frank Caeti	1
+15205	Fujiko Takimoto	1
+10525	Sachi Matsumoto	1
+18553	Yūki Kodaira	1
+10877	Kathryn Leigh Scott	1
+3733	Tim Allen	1
+1424	Doug McClure	1
+3089	Ghanizada	1
+3440	Charlie Chaplin	1
+20715	Jackie Chan	1
+797	Harry Ritz	1
+10394	Catherine Zeta Jones	1
+15403	Dijak	1
+8354	William Shatner	1
+9119	Weld	1
+18017	James Arness	1
+17093	Benedict	1
+10952	Ansanelli	1
+15656	Pak	1
+781	ames Whitmore	1
+12593	Richard Jaeckel	1
+7974	Buck Taylor	1
+14706	Nicholas Hammond	1
+16849	Arden Myrin	1
+12574	Louise Latham	1
+8371	David Cassidy	1
+13754	Marilyn Monroe	1
+15302	James Farentino	1
+10405	Valerie Bader	1
+13756	Elisabeth Shue	1
+10673	Charlie Condou	1
+7961	Eleanor Bron	1
+1735	Don Moye	1
+13769	Tomas Laustiola	1
+16434	Hans Moser	1
+8124	Víctor Junco	1
+3544	Leon Rippy	1
+3920	Shia LaBeouf	1
+11999	Michael Hordern	1
+4524	Lainie Kazan	1
+2595	Ruth Cracknell	1
+1571	David Duchovny	1
+16142	Jill Wagner	1
+10028	Sandy Dennis	1
+12377	Evelyn Brent	1
+2499	Jamie Chung	1
+1147	Arthur Burghardt	1
+15321	Anil Dhawan	1
+14860	D.L	1
+9617	Adele Astaire	1
+132	Jody Foster	1
+2648	Joel McCrea	1
+19906	Paul Boehmer	1
+8456	Isabelle Adjani	1
+51	Andrew Collins	1
+16947	Raavanan	1
+20276	Gordon Mullen	1
+5131	Mari Blanchard	1
+6482	Leslie T. Chang	1
+19320	Walter Miller	1
+19947	Fernando Poe Jr	1
+18671	Bobby Davro	1
+8846	Teresa Mo	1
+13664	Gary Merrill	1
+17557	Cordelia MacDonald	1
+1926	Somapala Rathnayake	1
+5002	Lyle Waggoner	1
+11901	Paula Marshall	1
+19009	Kenny Omega	1
+14560	James Parks	1
+15317	Julia Roberts	1
+2308	Devon Sawa	1
+8387	Lindsey Haun	1
+11314	Chattarika Sittiprom	1
+3900	Drica Moraes	1
+12383	Alaap Mazgaonkar	1
+16175	Colleen Moore	1
+7003	Kanwar Dhillon	1
+11533	Marlon Wayans	1
+5917	Jean Marsh	1
+15876	actress	1
+10653	Mark Rendall	1
+5339	Lauren Gilbert	1
+185	Leo Ciceri	1
+6930	Alex Lagemann	1
+1681	John William `` Christopher '' Ford	1
+7846	Crain	1
+15913	Monnet	1
+9639	Wendy Cameron	1
+2978	Abdel Waress Assar	1
+16285	Reet Talwar	1
+1894	Ralph Arthur Roberts	1
+17246	Tanushree Dutta	1
+13158	Clem Bevans	1
+15615	Kristine Byers	1
+5474	Rachael Beck	1
+14531	John Bowe	1
+12664	Clifton Powell	1
+16905	Patrick Wilson	1
+15341	Carl Belz	1
+6687	Marilyn Nash	1
+19942	Sobha	1
+4238	Irene Hunt	1
+9541	T. V. Gurumurthy	1
+6275	Tom Hankason	1
+1120	Velia Black	1
+2683	Gerald O'Loughlin	1
+6207	Martha Wainwright	1
+3999	Ricardo Montalbán	1
+15811	Rosemary Scott	1
+11111	Serena Varghese	1
+19001	Warner Oland	1
+3050	Neil Sandilands	1
+7675	Coleen Gray	1
+9673	Millen Baird	1
+14773	Peter Clume	1
+6195	Rizky Erzet Teo	1
+16559	George Nader	1
+2915	Cesare Gravina	1
+4138	Shazahn Padamsee	1
+14454	Henry Bender	1
+9938	Jennifer Garner	1
+2891	Marco Garcia	1
+9260	Jack Dougherty	1
+11878	Paul Cazeneuve	1
+14021	William Bryant	1
+19865	Lela Bliss	1
+12549	Peter Lorre	1
+7078	Bruce Ly	1
+3012	Margherita Grandi	1
+3333	Mudigonda Linga Murthy	1
+1682	Matt McCoy	1
+9277	Gerald Ames	1
+5651	Joyce Carey	1
+1337	William Mervyn	1
+3285	Thomas Hallam	1
+8840	Alan Halsall	1
+5663	Cicely Tyson	1
+12640	Dinah Shore	1
+17754	Carol Mayo Jenkins	1
+1449	Hemant Das	1
+14948	Paul Fix	1
+20498	Lau Kar-leung	1
+5004	Keke Palmer	1
+1669	Carlos Velazquez	1
+16907	Adrian Hoven	1
+7262	Paula Devicq	1
+3276	Merry Anders	1
+15851	Indiana Evans	1
+11542	Carole MacSween	1
+5732	Macaco	1
+11302	David Bradley	1
+2586	Hiroshi Fujioka	1
+990	Buck Adams	1
+12697	Kim Ok-bin	1
+14689	Faith Bennett	1
+19736	Ralph Bellamy	1
+19897	Burt Young	1
+15187	Paul Sand	1
+4985	K. T. Muhammed	1
+12365	Jagathy Sreekumar	1
+18052	Jean Parker	1
+16945	Jaggayya	1
+12679	Klaus Kinski	1
+15318	Salvo Randone	1
+7700	Madlib	1
+12736	Ida Galli	1
+320	Stanley Townsend	1
+12435	Ash Santos	1
+14942	Edward Norton	1
+3331	Kimberly Emmanuel	1
+13581	Mestro Antonio Chainho	1
+4455	Abbi Jacobson	1
+2023	Armand Dranem	1
+20670	Earle Hyman	1
+20608	Kyōko Kagawa	1
+8599	Lon Chaney	1
+879	Lina Lossen	1

@@ -1,0 +1,200 @@
+16458	Jupiter IX	1
+13467	Westerlund 1	1
+7014	Barnard 's Star	1
+1415	BY Draconis	1
+810	Comet Shoemaker-Levy 9	1
+93	Hygiea	1
+9372	Serpens Caput	1
+17744	7 Iris	1
+19436	Asteroid Belt	1
+1185	Alnitak	1
+1196	Milky Way Galaxy	1
+19253	61 Cygni	1
+2127	55 Cancri e	1
+20552	55 Cancri	1
+1993	Triangulum Galaxy	1
+2351	9 Metis	1
+7759	Corona Australis	1
+19829	Circinus	1
+12260	HD 209458 b	1
+7551	Fomalhaut b	1
+1707	Fomalhaut	1
+7784	Suhail star	1
+2431	Halley 's Comet	1
+15997	Proxima Centauri b	1
+10720	Andromeda Galaxy	1
+9056	Virgo Supercluster	1
+11201	Eta Carinae	1
+12408	Rigel	1
+757	HW Virginis	1
+18478	Milky Way	1
+9317	Comet 207P/NEAT	1
+9956	Theia	1
+3459	433 Eros	1
+1806	Betelgeuse	1
+12953	55 Cancri f	1
+4378	Gliese 876 b	1
+18389	Upsilon Andromedae c	1
+9811	55 Cancri d	1
+3590	Alpha Centauri	1
+2554	HD 40307	1
+9319	Proxima Centauri	1
+9251	11 Parthenope	1
+18877	10 Hygiea	1
+3622	HIP 13044	1
+5826	Delta Cancri	1
+9513	Zubenelgenubi	1
+1635	Alpha Librae	1
+11687	Centaurus	1
+8604	Thuban	1
+3183	8 Flora	1
+20561	starburst galaxy	1
+20604	Messier 84	1
+6876	1221 Amor	1
+8455	SN 2010ev	1
+18348	Apocrypha	1
+16949	Luhman 16	1
+2414	47 Tucanae	1
+2126	zodiac	1
+2634	3C 48	1
+19449	Palio	1
+960	UPGS 0722−05	1
+9014	Dactyl	1
+4561	G9 V	1
+13819	HD 41004 Ab	1
+14654	Jupiter trojans	1
+11500	475 Ocllo	1
+3644	Messier 12	1
+17462	asteroid 1252 Celestia	1
+4926	LMC195-1	1
+20160	New Avengers	1
+1408	HAT-P-11	1
+9914	B5V	1
+7101	Craigleith sandstone	1
+11267	Epsilon Eridani	1
+16141	Omega Nebula	1
+8959	Gliese 581 system	1
+16619	Gliese 581 b	1
+18341	Arp 42	1
+9643	double stars	1
+4103	constellation Hercules	1
+12409	Ring Nebula	1
+20178	NGC 4258	1
+16562	β Cassiopeiae	1
+9160	Herschel 400 Catalogue	1
+19390	black hole	1
+17188	Gl 9079	1
+10263	HR 3522	1
+9668	Omicron Persei	1
+12655	Orion II	1
+13129	EI-02	1
+595	Y202	1
+10390	solar spectrum	1
+9227	AI Comae Berenices	1
+14228	Pleistocene dacite	1
+11295	β Canis Minoris	1
+7400	Serpens galaxy cluster	1
+11099	Wolf–Rayet star HD 192163	1
+19061	MacLaurin ellipsoid	1
+8343	Vermilion Bird	1
+11069	Pluteum Pictoris	1
+4414	constellation Ara	1
+12758	HD 65216	1
+3454	HD 10180 g	1
+13105	61 Cygni A	1
+12686	HD 84810	1
+3649	NGC 147	1
+17452	A0III type	1
+19811	sungrazer	1
+5414	Quinque Dromedarii	1
+9968	HD 74156	1
+16834	Harlan 's World	1
+12545	CoRoT-7 b	1
+8956	UV Ceti	1
+7830	g Aquilae	1
+13663	Theta Pegasi	1
+15529	Lacerta	1
+1222	Yarkovsky effect	1
+6880	Asellus Australis	1
+9345	RSGC2	1
+4240	`` the Spectre 's Head ''	1
+952	Eta Geminorum	1
+16278	exoplanet 51 Pegasi b	1
+464	Whiting 1	1
+5178	the Large Magellanic Cloud	1
+1640	Y166	1
+1631	IRC–20385	1
+20224	Coma Berenices constellation	1
+11967	Sh2-263	1
+4882	Abell 3266	1
+13417	Gamma Ophiuchi	1
+15521	extrasolar planets	1
+19420	Scorpius–Centaurus Association	1
+4913	Leo Minor System	1
+16271	HD 47186	1
+18779	Orion Molecular Cloud Complex	1
+1075	Pavo-Indus Supercluster	1
+5103	26 Aurigae	1
+19927	population I stars	1
+7248	Phoenix constellation	1
+4050	ν2 Draconis	1
+374	HD 205739 b	1
+11913	Roburis Carolii	1
+15919	SN1987A supernova	1
+12801	Kappa Draconis	1
+20334	the Antlia Dwarf Galaxy	1
+12462	Giuricin et al	1
+4347	Nu Pictoris	1
+15692	star Vega	1
+6471	southern constellation Pictor	1
+3636	Serpens-Aquila Rift	1
+3079	Hydra-Centaurus Supercluster	1
+13051	red dwarf star	1
+20315	AU CVn	1
+20592	AFGL 5142	1
+5335	BR Piscium	1
+7125	galaxies	1
+20430	55 Cancri B	1
+18318	the stony asteroids	1
+18844	constellation of Triangulum	1
+19587	Beta Centauri stars	1
+19650	Rho Boötis	1
+574	Triangulum	1
+17806	constellation Fornax	1
+8081	WASP-94 B	1
+15769	Sagittarius Dwarf Irregular Galaxy	1
+13319	Great Square of Pegasus	1
+16430	IC 4526	1
+1111	Saptarishi	1
+14307	Antlia 2	1
+3367	constellation Puppus	1
+19838	IC 5273	1
+15695	red dwarf Gliese 876	1
+17963	K0 V spectral standard star	1
+18542	Mars Odyssey orbiter	1
+16988	HD 70642 b	1
+17902	Cygnus Loop	1
+1709	1856 Růžena	1
+10814	IC 434	1
+20012	constellation of Phoenix	1
+17219	Mars Odyssey spacecraft	1
+10576	Alpha Arae	1
+8444	Musca Australis	1
+18507	Beta Centauri B	1
+18114	PGC 12230	1
+7852	Comet Tempel 1	1
+5062	1943 MKK Atlas	1
+15954	Delta Octantis	1
+10750	RW Cygni	1
+1214	the Acrux multiple system	1
+3416	Large and Small Magellanic Clouds	1
+8613	Solar system	1
+11009	Great Attractor	1
+10616	Iota Herculis	1
+16970	Canes Venatici	1
+9569	NGC 2395	1
+15942	AGN	1
+14374	the nebula	1
+16163	extreme helium star	1
+5645	constellation of Aquarius	1
+14551	RV Caeli	1

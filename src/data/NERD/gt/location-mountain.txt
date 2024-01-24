@@ -1,0 +1,200 @@
+15984	Bald Knob on Back Allegheny Mountain	1
+8855	Mount Yengo	1
+5475	Black Hills	1
+2400	St George 's Hill	1
+9695	Mount Nemrut	1
+5622	Watchung Mountains	1
+59	Metacomet Ridge	1
+15387	Trout Creek Mountains	1
+18209	Auld Mound	1
+1741	Jetisý Alataýy	1
+16754	Mount Erebus	1
+317	Owl Mountains	1
+9308	Dzungarian Alatau	1
+20251	Leslie Gap	1
+17675	Saedinenie Snowfield	1
+8515	Black Mountain	1
+3104	Mauna Kea	1
+4241	Sněžka Śnieżka	1
+9350	Melnik Ridge	1
+106	Rudawy Janowickie	1
+20169	Skalnik	1
+13120	Mount Ruapehu	1
+19511	Aguilera	1
+1151	Thorny Flat on Cheat Mountain	1
+212	Gleaner Heights	1
+11712	Mount Mazama	1
+20006	Filchner Mountains	1
+19924	Mount Lofty Ranges	1
+115	Blue Knob	1
+14974	Mount St. Helens	1
+2521	Central Shivalik Ranges	1
+7546	Kaiserstuhl	1
+1833	Santa Ynez Mountains	1
+422	Vidin Heights	1
+19786	Santa Monica Mountains	1
+7011	Hoodoo Mountain	1
+16351	Alps	1
+10487	Chiricahua Mountains	1
+15548	Pyrenees	1
+1633	Galtymore	1
+15517	Smrk	1
+9401	Cuyahoga Valley	1
+9629	Wysoka Kopa	1
+3500	Jizera Mountains	1
+11114	Sudetes	1
+14774	Jade Mountain	1
+16514	Tangra Mountains	1
+12479	Bowles Ridge	1
+15492	Rocky Mountains	1
+1947	Karkonosze Krkonoše	1
+17732	Western Carpathians	1
+4779	Mount Nelson	1
+4557	USARP Mountains	1
+9549	Cook Mountains	1
+5242	Pleasant Dale	1
+15376	Mount Dawson	1
+19070	Mount Fries	1
+17098	the Intermountain West	1
+19105	Monte Arci	1
+8992	Guanaco Peak	1
+10288	Leaotă Mountains	1
+15958	Yakutia	1
+17549	Apuseni Mountains	1
+6551	Asgard Range	1
+6956	Black Hills of South Dakota	1
+18704	Phu Lang Ka	1
+1553	Esquiline	1
+4311	Chopok Mountain	1
+9108	Julian Alps	1
+5751	Gambacorta Peak	1
+5358	Diamond Hill	1
+15553	Kunlun Pass	1
+8167	Beskidy	1
+12327	Cotopaxi	1
+3566	Queen Maud Mountains of Antarctica	1
+14254	Southern Andes	1
+9402	Beacon Valley	1
+7100	Piz Bernina	1
+17959	Blacks Hills	1
+13257	Rhinogs	1
+18453	Ullock Pike	1
+2233	Eggenipa	1
+1680	Low Tatras	1
+10013	Rif Mountains	1
+8663	Lyaskovets Peak	1
+20219	Balsam Mountains	1
+12863	Brown Pike	1
+10769	Olympic mountains	1
+18737	Taufers	1
+1031	Mount Alto	1
+11771	Mount Davidson	1
+11723	Mont Saint-Michel	1
+17938	Grand Teton	1
+4041	Western Rhodopes Mountains	1
+13638	Singleshot Mountain	1
+50	La Luette	1
+6574	Long Glacier	1
+9495	Mount Brunner	1
+8003	Eastern Fells	1
+10699	Grand Mesa	1
+6934	Mount Sippy	1
+15453	Klamath Range	1
+15495	Burying Hill	1
+15083	Austin Village	1
+4412	Coast Mountains	1
+20683	Berry Peaks	1
+12609	Grande Motte	1
+9637	aurus Mountains	1
+19113	Stone Ridge	1
+5894	Maingol Sar	1
+19654	Clark Mountain	1
+5163	St Michael 's Mount	1
+3446	Smokies	1
+5192	Mount Johnson	1
+8914	Glasgwm	1
+5284	Anton Dohrn Seamount	1
+15939	West Albany Hill	1
+3750	Basin Creek	1
+1431	Mount Boman	1
+5669	Rica Canyon	1
+1323	Wasatch Mountains	1
+10859	Foel Hafod-fynydd	1
+17269	Kelso Mountains	1
+2947	Lhotse	1
+16917	Rhine Valley	1
+1499	Vanikoro	1
+8729	Cheyenne Mountain	1
+13038	Adams Mountains	1
+5069	Ptarmigan Peak	1
+10412	Sentinel Peak	1
+17793	Mount Boennighausen	1
+11479	Bitter Creek valley	1
+9658	Puu Ōō	1
+6118	Priest	1
+17505	Big Hill	1
+16788	Little Rocky Mountains	1
+15610	Brogger Glacier	1
+5153	Cyrniau Nod	1
+14458	Monument Canyon	1
+17617	Hlangwane hill	1
+15873	Mawson Peak	1
+17055	Klamath Mountains System	1
+6602	Pelican Narrows	1
+5667	Mount Kulasi	1
+11471	Tule Springs Hills	1
+16980	West Sugarloaf	1
+20249	Willamette Summit	1
+15729	Watervliet Arsenal	1
+6669	Palomar Mountains	1
+10381	Slocan Valley	1
+20541	Pink Mountain	1
+445	Mount Holt	1
+11184	Uncompahgre Valley	1
+16241	Gabbro Hills	1
+8446	Oldhorn Mountain	1
+20566	Cadwallader Ranges	1
+7446	Mount Waialeale	1
+17085	Patkai mountains	1
+17605	Mount Pobeda	1
+4051	Mount Roots	1
+17945	Mount Athos	1
+16553	Antarctic mountains	1
+18930	Peruvian Andes	1
+19789	Llyn Crafnant	1
+3694	Podbanské	1
+16483	Great St. Bernard Pass	1
+16063	Palo Pinto Mountains	1
+15067	Antelope Hills	1
+18307	Mount Hood	1
+16399	Coquihalla Pass	1
+1661	Wunaamin Miliwundi Ranges	1
+237	OJI	1
+10930	Mount Hermon	1
+14149	Nevlya Peak	1
+14499	Beinn Eunaich	1
+6884	Mount Rainier	1
+11437	Sulphur Mountain	1
+1389	Saw of Crystal mountain ranges	1
+594	Zubački kabao	1
+7687	Braeriach corries	1
+316	Alborz mountains	1
+19411	Yaya Guda	1
+19604	Mount Nebo	1
+459	Parnon Mountain	1
+5040	Causey Pike	1
+19868	Sugarloaves	1
+8902	Pennsylvania 's Allegheny Mountains	1
+13684	Hunters Hill	1
+5476	Remington Hill	1
+20233	Ou Mountains	1
+8988	Shackleton Range	1
+16253	Flint Ridge	1
+7979	Date Creek Mountains	1
+5450	South Downs ridgeway	1
+14350	Stansstad	1
+7465	Mount Kenya	1
+3654	Mount Saint Elias	1
+7266	Rocky Mountains of North America	1
+8196	Rano Kau	1
+9222	Nanda Ghunti	1

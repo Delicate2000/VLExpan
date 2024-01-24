@@ -1,0 +1,200 @@
+13036	A-20s	1
+2746	D.XII	1
+14690	Britten-Norman Islander BN2B-21	1
+15842	MiG-23	1
+20046	Antonov An-32	1
+3127	Boeing 737-400	1
+16352	Yak-7	1
+10655	P-3C Orion	1
+7875	P-51	1
+3889	U-2	1
+151	Cessna F150J	1
+13096	Pan Am Flight 103	1
+6966	American Airlines Flight 77	1
+14207	Tu-95V	1
+10851	Aero Commander 690	1
+3826	Beech 95-A55 Baron	1
+16795	North American F-86 Sabre	1
+11395	Messerschmitt Bf 109	1
+3391	United Airlines Flight 93	1
+2935	American Airlines Flight 11	1
+11368	Boeing 737-800	1
+13670	F-14	1
+5665	Boeing 757-200	1
+16638	Grumman TS-2A Trackers	1
+743	A-10	1
+19809	Bo 108	1
+4101	Avro 748	1
+15053	Mitsubishi A6M Zero	1
+1730	MiG-19	1
+17481	CRJ	1
+9337	Mitsubishi J2M `` Jack ''	1
+9144	L-1011	1
+12832	Iran Air Flight 655	1
+1136	RA-26222	1
+16319	Bell 212	1
+20515	FLRAA	1
+250	Boeing 727-100	1
+19	DC-3	1
+5357	F-35	1
+14489	KAL 007	1
+11000	KC-135	1
+15819	van der Stok	1
+9127	Airbus A320	1
+17145	Boeing 737-300	1
+715	Boeing 707	1
+12700	Boeing 737-200s	1
+19081	Bf 110	1
+1877	Boeing 737-200	1
+14112	A-1 Skyraider	1
+3208	Tupolev Tu-154	1
+10083	RQ-4 Global Hawk UAV	1
+12294	A340-300s	1
+6031	Lockheed T-33 Shooting Star jet	1
+18896	C-5A Galaxy	1
+1861	Bell UH-1 Iroquois helicopters	1
+9346	Bombardier CRJ-200	1
+17608	Latécoère 19	1
+360	VT-10	1
+6108	HS-TID	1
+5484	Fairchild C-119 Flying Boxcars	1
+13656	Spitfire Mk.XVIs	1
+11944	Yermolayev Yer-2 bombers	1
+1564	ANT-4	1
+18	Do 228	1
+14101	MiG-15 aircraft	1
+17677	Soviet-modified Hawker Hurricane aircraft	1
+17025	AH-64 Apaches	1
+3642	195	1
+16621	Lockheed F-104 J Starfighters	1
+14046	Boeing 737 airliners	1
+6066	Blue Angel	1
+15664	De Havilland Chipmunk	1
+18309	C-17 Globemaster III	1
+9984	Dornier Do 228 aircraft	1
+8222	Carrier Air Group 14	1
+3709	Cessna 310-R	1
+2367	Wright J65	1
+19888	Douglas DC-3 Dakota aeroplanes	1
+6861	Flight 655	1
+7335	Hawker Hunter F.6	1
+2098	Stardust Spacecraft	1
+19461	Spey-equipped FGR.2s	1
+7023	Avro Ashton	1
+18944	F-8Ds	1
+5373	Malaysia Airlines Flight 370	1
+20426	North American F-86D Sabres	1
+13894	Fiat CR.42	1
+14801	A320 aircraft	1
+16703	Handley Page Victor B.1	1
+4667	FFA 23	1
+16606	Super Cub	1
+3465	14 Bis airplane	1
+8271	McDonnell Douglas Phantom FGR.2s	1
+16975	Type 103	1
+19316	Re.2000	1
+17932	XA-GAL	1
+6621	S-70B-2 Seahawk	1
+5896	F6F	1
+10660	Swedish-built Saab Gripen	1
+18608	VP-5	1
+11931	Dewoitine D.338	1
+10927	Avia BH-1	1
+7028	North American AT-6C armed- and six T-6G advanced trainers	1
+2375	Fokker 100s	1
+4204	Piper Cheyenne	1
+2651	F-4B Phantom	1
+17318	Electras	1
+18824	Avro 626	1
+5995	Messerschmitt Bf 110 testbed airframe	1
+16839	Twin Otter	1
+5411	Polikarpov I-16 fighters	1
+16353	Sopwith Snipe fighters	1
+12741	Bombardier Dash 8 aircraft	1
+14645	F/A-18A/C Hornet	1
+18214	RAFO Typhoon	1
+730	T40s	1
+13578	Ickler 121-150	1
+10176	FE.2d	1
+15021	B-2 Spirit bomber	1
+4215	North American A-36 Invader dive bomber	1
+20248	NC 270	1
+12165	Britten-Norman BN-2 Islander	1
+10318	Vickers product	1
+5849	Antonov An-70	1
+428	Marine One helicopter	1
+15020	DC-10s	1
+4133	American B17 bomber	1
+2045	Boeing B-47 Stratojets	1
+1143	Messerschmitt Me 163 Komet	1
+3668	F-101 Voodoo fighter	1
+13603	SEPECAT Jaguar aircraft	1
+7140	ICAP II	1
+1241	Saab 90 Scandia	1
+8117	Canadair regional jet aircraft	1
+18402	Mitsubishi A5M `` Claude '' monoplane fighters	1
+18083	Sopwith 1½ Strutter two-seater	1
+3759	Tupolev Tu-154s	1
+9283	Garuda Indonesia Airbus A300 aircraft	1
+15935	DC-130s	1
+13180	Beauforts	1
+5955	BE-90B	1
+4923	Convair 340s	1
+6634	Embraer EMB-120 Brasilias	1
+5332	F-4 Phantom	1
+4932	American Champion Super Decathlons	1
+15583	Colgan Air Saab 340s	1
+15713	P75	1
+4825	Liberator heavy bombers	1
+14914	Cessna Citation Sovereign 680A aircraft	1
+8015	Stratojet	1
+17147	Curtiss C-46 Commando aircraft	1
+3392	TBF Avengers	1
+10758	Avro 504	1
+13383	Fairchild Swearingen Metroliner turboprops	1
+8486	SR22s	1
+939	P-51D Mustang	1
+15065	HH-53 `` Super Jolly Green Giant '' helicopter	1
+20264	Douglas DC-6A	1
+19782	Junkers Ju 88 medium bombers	1
+15417	Gloster Gauntlets	1
+2205	Avro RJ	1
+11671	Bombardier Q400 NextGen aircraft	1
+2406	A-6 Intruder aircraft	1
+6150	Kawasaki Ki-5	1
+1613	MD-80s	1
+10895	Lockheed C-130K Hercules	1
+11223	-500s	1
+17339	Pfalz D.IIIs	1
+253	Sikorsky S-52 helicopter	1
+1054	North American B-25 Mitchell bombers	1
+13874	A5M4 fighters	1
+15282	Fairchild Dornier 328	1
+605	Kulbit	1
+15848	Fiat Br.20 “ Stork '' ( `` Cicogna '' ) twin-engined bomber	1
+14539	Messerschmitt Bf 109s	1
+18087	Beachcraft Barons	1
+15927	Mitsubishi Ki-46 `` Dinah '' reconnaissance aircraft	1
+19090	RFA Diligence	1
+17498	Boeing 757-200 aircraft	1
+12523	Harrier Jump Jet family	1
+526	BŻ-4 Żuk	1
+332	United Express Embraer ERJ-145 fleet	1
+15920	German Focke-Wulf Fw 189 fighters	1
+845	MD-520MG Defender helicopters	1
+3417	TRAWING SIX	1
+3872	C-FGWD	1
+16743	Israeli F-15 fighter jets	1
+242	Convair 880 and 990 airliners	1
+7962	jet-powered Lockheed P-80 Shooting Stars	1
+2996	F-14s	1
+3860	B-1B Lancer bombers	1
+2814	Stearman PT-13/17s	1
+8574	Embraer 190 aircraft	1
+10078	Mistel composite `` piggyback '' aircraft	1
+20682	Pratt & amp ; Whitney Canada PW100	1
+6301	McDonnell Douglas DC-10-10 aircraft	1
+6929	Airco DH.10 bomber	1
+8569	Vought OS2U Kingfisher	1
+10973	G-OJMC	1
+11939	North Pacific Seaplanes	1

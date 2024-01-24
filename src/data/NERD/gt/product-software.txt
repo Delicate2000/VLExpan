@@ -1,0 +1,200 @@
+7701	OpenWrt	1
+2852	iMUSE system	1
+19171	GarageBand	1
+10175	JVM	1
+16363	Synclavier	1
+12305	BIDS	1
+15703	iSCSI	1
+14062	WinCE	1
+10354	P2P	1
+13422	embedded Linux	1
+2361	Windows Live Messenger	1
+2551	FASTA	1
+747	SEQUEL	1
+17517	OpenEmbedded	1
+6680	Yocto Project	1
+19340	Virtual Console	1
+2752	Gagme	1
+20483	SQL	1
+9142	ArcSDE	1
+19184	LimeWire	1
+10168	MINIX	1
+14650	Windows Server 2003	1
+16724	Audio tour GPS	1
+13391	LiteStep	1
+7983	SIS	1
+14061	Symbian	1
+3192	MSBuild	1
+4598	Threadx	1
+12148	Multics	1
+17693	kp6	1
+10342	CP/M	1
+12194	Free Spirit	1
+15353	NetBSD	1
+17669	Lubuntu	1
+1215	Windows Live	1
+9223	VxWorks	1
+13224	LPFM	1
+6206	Wii Shop Channel	1
+16673	Haiku	1
+19696	Smaart	1
+4789	OpenBSD	1
+9593	Flash Player	1
+10848	Win32/64	1
+1426	Windows 9x	1
+10382	X window	1
+12326	Direct3D 10	1
+11365	WordPress	1
+10185	Mac OS 9	1
+7748	mp6	1
+2049	Windows Server 2008	1
+19076	SHOUTcast Streaming Technology .	1
+9735	Windows 2000	1
+11554	AN/GSA-51 computer system	1
+5992	Hyper-V	1
+6531	UDF 2.50/2.60	1
+6217	Trove digitised newspaper website	1
+3150	Zones	1
+7318	Apple Store	1
+12547	USENIX 2007	1
+824	Podcast Producer	1
+3523	Miracle Systems	1
+9253	Tablet OS	1
+10932	foxsports.com	1
+18071	Mac OS Sierra	1
+10455	ITunes	1
+13206	R600	1
+3184	Devs : Datatypes	1
+9211	S60	1
+17162	icrosoft Lili	1
+5193	SugarCRM	1
+12069	Microsoft Store	1
+11594	Digikam	1
+3941	Fedora 8	1
+9901	B-Live Share	1
+12672	Weather Channel app	1
+17974	Xbox One X	1
+7066	Mesa 3D	1
+14983	Conduit App Marketplace	1
+19498	NVIDIA 3D Vision technology	1
+15904	5.7	1
+6156	OpenBSD 3.4	1
+6413	Kaspersky Anti-Virus in Windows	1
+20579	Misra	1
+15224	4G LTE silicon and software	1
+7493	Microsoft Windows 10	1
+20298	HyperCard 's XCMDs	1
+18080	XenApp	1
+1469	ITunes Store	1
+5188	FaceTime bug	1
+7399	UnixWare 7.1.2	1
+5274	Hidive	1
+11893	VocalTec Internet Phone	1
+5341	Puffin Secure Browser for Windows	1
+6995	0/1-SimWare	1
+1718	MS-DOS version 6.0	1
+20434	MegaSquirt	1
+6472	iGasm	1
+11057	Microsoft Encarta	1
+9018	Macintosh System 5	1
+20462	the WebCorp Linguist 's Search Engine	1
+20465	Linux operating systems	1
+7873	AWS AI algorithms	1
+6151	Elastic Utility Computing Architecture for Linking Your Programs To Useful Systems	1
+10482	App Store	1
+2867	Microsoft Azure	1
+14900	Java SE 11	1
+12543	JavaScript version 1.5	1
+17393	AFL Live app	1
+1296	Wii Message Board	1
+13297	KOffice 1.5	1
+4510	Linux GUIs	1
+5046	WWIV-based BBSes	1
+13101	Amiga home computers	1
+3647	AUTODOS7.BAT	1
+10157	Trove	1
+19681	Microsoft Visual Studio 2010	1
+4683	Microsoft Access 1.1	1
+6180	Calligra	1
+4491	Office 2001 CD	1
+9945	REAL/32	1
+292	NTP timecounters code	1
+9175	EPA waters geoviewer site	1
+517	Java EE 6 JSR 316	1
+9271	ProCoder	1
+2386	Mail 3.0	1
+15498	JVM breakpoints	1
+4503	MacTeX	1
+12116	MS BASIC	1
+20603	GNOME Classic	1
+7083	GNU Package	1
+5444	Windows Terminal Server	1
+2870	Reuters Electronic Contributor System	1
+11915	NOVI	1
+3511	Intel processor	1
+5290	8-bit Ataris	1
+15254	Mac OS X 10.2	1
+4011	IceS	1
+1892	C64 Direct-to-TV	1
+5775	FrontPage Express 2.0	1
+13155	LLVM clang compiler	1
+20306	Amazon Elastic Beanstalk	1
+16146	Android 4.0 Ice Cream Sandwich	1
+9452	SAML 2.0 Web Browser SSO Profile	1
+8322	iD	1
+5302	OS X 10.9 'Mavericks '	1
+20134	Windows RT 8.1	1
+11747	Mac OS operating system	1
+16254	PureLS	1
+10026	Calf Studio Gear	1
+8273	Red Hat Enterprise Linux distributions	1
+19123	Apache License 2.0	1
+7393	MP3 encoder LAME	1
+11718	Publisher 2000	1
+55	Windows Embedded Compact 2013	1
+16445	Windows Search	1
+8302	Blackboard Transaction System	1
+6165	Mac OS X 10.4 Tiger 10.4x	1
+5557	CP/NET	1
+3789	TMS34010	1
+16103	Federico Di Gergorio	1
+5465	WebDiscover	1
+13831	Bricolage API	1
+15979	iLife '08	1
+3683	Ubuntu 10.10	1
+11424	Perl 5	1
+6871	Java Platform Debugger Architecture	1
+4420	Unix pack format	1
+4832	Ethernet frames	1
+8473	Chrome Extension	1
+20084	Sranan Tongo Wikipedia	1
+12261	FB	1
+16144	Security Essentials 2010	1
+9455	Samsung Galaxy Tab 4 7.0	1
+11342	KOffice 2.2	1
+384	GNU Savannah	1
+11117	World Chess Live	1
+4479	Google Play	1
+18315	Adobe InDesign CS3	1
+18769	GPON	1
+6637	NetInfo	1
+155	Answers Anywhere	1
+12357	Windows Imaging Component	1
+1907	Amazon Elastic Compute Cloud ( EC2 )	1
+5698	Solaris on SPARC	1
+16749	Perl 5 interpreter	1
+2615	AT & amp ; T Bell Telephone system	1
+4674	The CW app	1
+4917	Quark	1
+14702	JPL Small-Body Database	1
+18675	Aria2	1
+700	CrossOver Mac	1
+11044	xine	1
+2360	Windows Live Contacts	1
+19879	National Contribution Points '' ( NCP )	1
+7015	PikeOS	1
+2749	IBM PC DOS 3.30	1
+7328	DVDADecoder	1
+11076	32-bit x86 applications	1
+16604	MS Windows 7	1
+17624	Internet Explorer 4.0	1

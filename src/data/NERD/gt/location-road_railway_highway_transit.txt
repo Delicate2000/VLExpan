@@ -1,0 +1,200 @@
+10871	Richview Expressway	1
+13435	Altrincham Railway	1
+5804	Five avenues	1
+17682	Bury Line	1
+18357	Staten Island Railway	1
+2176	SR 110	1
+20295	Appalachian National Scenic Trail	1
+10672	Stirling Highway	1
+3550	MTA Maryland	1
+15149	H & amp ; FS	1
+4612	Dougall Avenue	1
+974	Capitol Heights station	1
+18180	Epcot Center Drive	1
+18958	I-110	1
+16600	A12	1
+15749	SR 208	1
+4152	TEXRail	1
+17716	46th Street	1
+5781	I-270	1
+12754	42nd Street	1
+7519	MD 611	1
+10819	Goswell Road	1
+18096	Second Avenue	1
+3119	US 20	1
+9359	Edgware Road	1
+14204	Klondike Highway	1
+4384	Haines Highway	1
+1373	I-40	1
+965	Eastern Parkway	1
+12087	Pennsylvania Turnpike	1
+12273	George Washington Memorial Parkway	1
+4394	Alaska Highway	1
+19053	U.S. Route 50	1
+13862	US 101	1
+8161	US 40	1
+17443	I-495	1
+7080	I-90	1
+10465	I-94	1
+17464	Hollywood Freeway	1
+5615	Fifth Avenue	1
+6084	Broad Street	1
+4651	North London Line	1
+8560	I-78	1
+20141	Federal Highway	1
+15001	Wanneroo Road	1
+18695	Old Street	1
+14713	Park Avenue	1
+7912	Chicago Skyway	1
+17072	Delaware Route 1	1
+13425	Shah Alam Expressway	1
+13739	Rachini Road	1
+692	Sudbrook Lane	1
+1870	New Jersey Route 440	1
+6140	River Raisin Greenway	1
+20379	Kootenay River Road	1
+7111	Gainsborough Lea Road	1
+15436	RC-48	1
+4007	Hospital Road	1
+16029	the Thuringian Railway	1
+1927	Route 36 south of New Cambria	1
+14658	State Railway of Thailand	1
+19203	D315	1
+17632	Clifton station	1
+16435	North King Street	1
+125	South Coast Railway line	1
+3624	Simplon Pass road	1
+8611	Richards Bay Coal Terminal	1
+20578	B313	1
+286	Lancaster and Carlisle Railway	1
+1722	Oystermouth Road	1
+18035	Vienna U-Bahn	1
+12762	Brighton Main Line railway 2020	1
+13558	4-Hour Hiking Courses	1
+16272	Yonge-University-Spadina Line	1
+15263	St. Margarets stations	1
+15982	Frobisher Lane	1
+4628	Irish Rail	1
+11168	Rodeo Drive	1
+180	Nankai Electric Railway	1
+1243	Texas State Highways 114 and 183	1
+16819	West Virginia Route 527	1
+9078	372 Saint Catherine Street West	1
+17556	A631	1
+555	Tōkaidō Main Line	1
+9818	Watford Road	1
+841	Taunton line	1
+10591	Airport Line	1
+152	`` Bundesstraße '' 41	1
+950	Bushwick Avenue Line	1
+17035	Lahore Highway	1
+2959	Birseckbahn Basel-Arlesheim-Dornach tram line	1
+12466	FM 1231	1
+6265	Stafford station	1
+18334	Red lines	1
+13728	Wairarapa Line	1
+4643	Filbert Street Steps	1
+9879	TCDD DH7000	1
+1066	7405 Stella Link Road	1
+8286	M9 Motorway	1
+12245	Sufouh Road	1
+13282	East London Line of London Overground	1
+9748	the N80 national secondary road	1
+10929	LACMTA line 602	1
+4934	Junction 23A of the M1 motorway	1
+6241	Treasure and Trinket Drive	1
+18733	Willamette Valley Railroad	1
+19952	Krasnopresnenskaya Line	1
+713	Maine State Route 3	1
+865	Ullswater–Ambleside road	1
+15950	West End Avenue	1
+19099	30	1
+15404	Icefields Parkway	1
+4294	Padworth Lane	1
+7722	Somerset and Dorset Railway	1
+16558	Bolshaya Koltsevaya line	1
+6797	CN 's Saskatoon Chappell Yard	1
+3296	Liverpool South Parkway	1
+436	Lexington Street	1
+20023	West Coast Main Line railway	1
+3598	Kim Seng Road	1
+2508	East 59th Avenue	1
+10023	Tseung Kwan O Tunnel	1
+1912	West 43rd Street	1
+5316	Netaji Subash Chandra Bose Road	1
+16196	300 S. Hull Street	1
+4440	Mount Lowe Railway	1
+8695	Bryant Streets	1
+15742	Ohio State Route 676	1
+4349	Portola Drive	1
+12431	5218 Santa Ana Street	1
+14682	Buckingham Palace Road	1
+8949	Airport Cycle Route	1
+12522	Hans Strijdom Drive ( R512 )	1
+5498	Baylis Road	1
+15227	Nankai Main Line	1
+10572	Pilgram bridge	1
+3434	Hazlet Avenue	1
+19582	Potter Road	1
+17662	Yonge and Dundas	1
+12371	98	1
+10997	23 Avenue	1
+1659	Leicester Railway	1
+16776	Stockholm Central Station	1
+14105	Annapolis Trail	1
+16	S. 5th Street	1
+17813	Swearingen Metros	1
+16333	Route 73	1
+19805	Bingham Sts	1
+15985	U3	1
+8232	Middlesex County Route 615	1
+3096	Simsahmuls	1
+902	A5145 Barlow Moor Road	1
+1052	Bermondsey Street	1
+943	Sretenka	1
+16830	Bedok Road	1
+18684	Whittier Blvd .	1
+16675	Slate Lane	1
+9835	Taiwan Railway Administration ( TRA ) Western Line	1
+8321	St. Francis Street	1
+18025	Happowal Road	1
+16275	Bemus Street	1
+18502	the Hörsching railway station	1
+14412	Jablunkov Pass	1
+12174	Link Valley Drive	1
+19860	Church Lane	1
+9481	Reno via Donner Pass	1
+3157	Moffat Road	1
+2593	Calle Luis Galvani	1
+16973	Toluca - Mexico highway	1
+4269	Rivonia Road	1
+16443	Exhibition Street	1
+15448	SR 169	1
+796	7th Street	1
+13203	Fieldgate Drive	1
+3346	PA 434	1
+14950	Ojai Valley Railroad	1
+13503	Wicksteed Park Railway	1
+18523	Highways 5 and/or 210	1
+20489	64th in Railways	1
+18103	Sørlandet Line	1
+8283	St. Urbain Streets	1
+12714	Russian Ridge 's Ridge Trail	1
+14283	610 Loop	1
+17224	Connecticut Avenues	1
+610	Great Eastern Highway	1
+886	Missouri Route 116	1
+13847	South East Freeway	1
+1040	Mount Hebron Road	1
+18984	Old Santa Susana Stage Road	1
+10679	Rapenburg 25	1
+9490	National Highway M1	1
+14975	SD 377	1
+18764	Jamestown Ferry	1
+6319	Chillicothe Street	1
+18613	Dade Boulevard	1
+18208	Morgantown Street	1
+5269	Sandgate Road	1
+2430	NH 125	1
+1996	Welsh Highland Railways	1
+7893	Vanier Parkway	1

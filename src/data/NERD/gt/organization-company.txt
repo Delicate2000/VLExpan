@@ -1,0 +1,200 @@
+4870	XCOR	1
+11905	Mission Foods	1
+13655	Air Florida	1
+15155	Nissan	1
+15445	inXile	1
+20026	KLM	1
+14548	Church 's Chicken	1
+20461	Autodesk	1
+14937	DAC	1
+8827	Malaysia Airlines	1
+11700	WWA	1
+2433	Flybe	1
+13850	Impressions	1
+84	Air France	1
+11686	General Electric	1
+12190	American Airlines	1
+14879	Walt Disney Company	1
+6467	Electronic Arts	1
+19535	AT & amp ; T	1
+15767	Paramount Pictures	1
+2455	Springer Science	1
+18529	British East India Company	1
+6517	Ubisoft	1
+11680	Epyx	1
+14580	Borders	1
+19510	Lockheed Martin	1
+1852	Minolta	1
+15414	ÖBB	1
+5408	RKO	1
+5928	Arriva	1
+6485	Qubo	1
+13988	Epic Records	1
+11502	SEGA	1
+3693	United Express	1
+1950	Warner Bros .	1
+5464	Viacom	1
+5587	xHamster	1
+17870	Macy 's	1
+6883	United Airlines	1
+17304	HP	1
+2875	Intel	1
+9779	Columbia Pictures	1
+12459	Horizon Air	1
+8000	Braathens SAFE	1
+7408	BYD	1
+7994	PepsiCo	1
+20586	Alitalia	1
+11978	SDG & amp ; E	1
+877	Aeroflot	1
+19768	Wigle	1
+4585	Sorefame	1
+12161	Morgan James Publishing	1
+17146	Surface Transportation Board	1
+20095	New World Pasta	1
+13871	Integrated Systems Solution Corporation	1
+11630	Music Film GmbH	1
+7480	Index Group	1
+17563	Arista Nashville	1
+18925	Business Talk Radio Network	1
+18633	BradyGames	1
+14608	Infinity Inc	1
+11234	KLM Recruitment Services	1
+17983	Bane NOR	1
+14111	airlines	1
+18194	Vic Lee Racing	1
+5752	Aviation Service Group	1
+2144	Quanhua	1
+16908	Learning Company	1
+5936	Sony Pictures Worldwide	1
+357	Eucalyptus Systems	1
+5232	Reebok International Ltd	1
+6432	the National Power Corporation	1
+12666	Natsume	1
+16136	Altamont Corridor Express	1
+2101	Bonsound Records	1
+15563	HSBC Holdings	1
+7290	Mark Shuttleworth	1
+13837	Gannett Co	1
+16901	New Zealand Lion Nathan beverages company	1
+18866	AirUK	1
+2365	Lundqvistrederierna	1
+1433	Mersea Island Brewery	1
+15390	Associated British Ports	1
+5730	Banana Culture	1
+143	Apollo Education	1
+15663	Macy 's Northeast	1
+5828	TheMarket	1
+8487	Beverly Crossing	1
+9425	Mother Energy Drinks	1
+2389	SELEX Sistemi Integrati	1
+9268	Hawker Beechcraft	1
+12908	Nord Bay Capital	1
+18569	Torp	1
+15452	Sportsystems	1
+105	Craveable Brands	1
+1904	Electric Calm	1
+2354	DotComedy	1
+20227	Domino ’ s Pizza Enterprises	1
+2528	Cox Media Group	1
+11208	138 Pyramids	1
+18385	Delaware River Port Authority	1
+12531	Western Pacific Airlines	1
+20137	Mark Levinson Audio Systems	1
+17579	B.R.M .	1
+8635	New Renaissance Pictures	1
+19856	Circle Ks	1
+17810	Due South Brewing	1
+2349	Wenger SA	1
+6709	Blue Note label	1
+3756	Johnny Rockets Express	1
+4189	Majesty Cruise Line	1
+1237	r MedAmerica	1
+12890	Nhulunbuy Corporation	1
+3546	Sony Computer Entertainment Europe	1
+441	Universal Music Spain	1
+3422	Neenah Paper	1
+19278	MicroCenter	1
+19470	NIOT.org	1
+14123	Mesaba Holdings , Inc	1
+16997	North Flying	1
+12795	Cabo Wabo Tequila	1
+9678	FTC Entertainment Group	1
+12424	Cut Fitness	1
+19425	Eventis Sports Marketing Ltd	1
+6566	Liquid Entertainment	1
+16424	Mort & amp ; Co	1
+9115	Pennsylvania steel mill	1
+20018	Adriadne Capital	1
+14091	Queen Elizabeth 's Men	1
+548	Irish Ferries	1
+2517	East Sussex Railway	1
+8864	Nikko Hotels	1
+12197	Kværner Eureka	1
+16121	RIMI	1
+7337	MCA ( Music Corporation of America ) Recreation Services Group	1
+17434	Metroline	1
+18951	Beyond Green Travel	1
+12938	Coffee Stain group	1
+14273	Canucks Sports & amp ; Entertainment	1
+14434	CGEA Transport Sydney	1
+2024	Locomotive Services Limited	1
+7265	National Casket Company	1
+4257	ACME Communications	1
+15792	Rooftop Theatre Company	1
+19593	English Electric for British Rail	1
+8758	Abellio Greater Anglia	1
+3533	Terra-Gen , LLC	1
+3507	Education Management Corporation	1
+2725	Chūōkōron-shinsha	1
+13313	Tamsoft	1
+15883	Adobe Creative Cloud	1
+2097	Studio 3	1
+6796	P.A.C	1
+17409	Wrexham & amp ; Shropshire	1
+11954	Weyerhaeuser	1
+14070	Bovis Construction	1
+15601	South Eastern franchise	1
+438	Banca Intesa Sanpaolo	1
+6641	Hosted Exchange	1
+6916	Cecilia Samartin	1
+2222	Gordon Grant Limited	1
+1929	Singapore Health Services or SingHealth	1
+4000	Prozac Pop Machine	1
+12883	Arista	1
+18924	Jeans West	1
+19741	mmmuffins	1
+3571	Continuum Health Partners	1
+15708	Acoustic Soul Records	1
+114	Brush Traction of Loughborough	1
+6512	Kadokawa	1
+17536	Lynqx	1
+17037	HSBC New York Life	1
+14478	LG CNS	1
+15580	Immortal labels	1
+16655	Chitale Dairy	1
+13149	Bud Light	1
+16239	Lavalin Group	1
+7839	Veolia Cargo France	1
+20065	English Electric Company	1
+8817	Mexican Summer	1
+9494	CoorsTek	1
+16828	Synapse Software	1
+279	Gültan Kışanak	1
+19454	Sakae Holdings Ltd	1
+20652	Miller High Life	1
+17684	Albert Bonniers Förlag	1
+11213	Frisco Lines	1
+3792	Ryanair Europe	1
+1961	Channel Four Television Corporation	1
+12067	Funbag and Helix studios	1
+16051	Jo-Ann Fabrics	1
+15017	Henson Associates	1
+6067	German Volkswagen Group	1
+14576	INQ	1
+5180	Novaturas Travel Company	1
+14023	Century Strategies	1
+15818	MariaDB Corporation	1
+4188	Claggett 's Brewery	1
+7219	First Star Software	1
+10294	Ningbo Shenzhou Knitting Co. , Ltd	1

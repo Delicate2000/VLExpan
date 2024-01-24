@@ -1,0 +1,200 @@
+12123	Spanish ACB League	1
+19851	Central League	1
+12966	Serie A	1
+1071	International Hockey League	1
+10110	European Champion	1
+40	World Rugby	1
+11563	Bermuda Lacrosse Association	1
+2879	NSWRL	1
+5271	California League	1
+3291	World League of American Football	1
+9982	Pacific Coast Hockey League	1
+12569	American Soccer League	1
+16188	USL Pro	1
+12236	Scottish Premier League	1
+19993	New South Wales Rugby League	1
+20521	Victorian Football League	1
+11045	Scottish Football League	1
+1527	Frontier League	1
+18066	IHL	1
+20443	National Lacrosse League	1
+11746	Babe Ruth League	1
+14132	Patriot League	1
+17529	Japan Basketball League	1
+5923	Turkish Ice Hockey Super League	1
+938	PIAA	1
+488	ABL	1
+12142	LEN Euroleague	1
+11739	NHLs	1
+13777	International Professional Hockey League	1
+10546	Northern Premier League	1
+9967	USBL	1
+14173	Players ' League	1
+17077	National Basketball League	1
+11029	East Coast Hockey League	1
+13011	John Player League	1
+14494	National Rugby League	1
+16883	UAAP	1
+1913	Southern League	1
+3556	Maine State League	1
+17228	Canadian Football League	1
+2251	K-League	1
+16920	Super League	1
+14510	French Cup	1
+7916	Eastern League	1
+6784	CIFL	1
+20083	Major League	1
+1771	Hockey East	1
+8137	Arena Football League	1
+18117	Australian Rugby League	1
+6007	Indian Cricket League	1
+698	Highland League	1
+8362	RPI Engineers men 's and women 's ice hockey teams	1
+14361	Cornwall Senior League	1
+4013	National Challenge South West South 2 league	1
+6143	Maritime Major Hockey League	1
+11561	DFL	1
+10509	Michigan Warriors of the North American Hockey League	1
+17532	Eastern Canadian Championship	1
+18885	North American Hockey League 's South Division	1
+20310	Australian Provincial Championship	1
+4480	English F.A	1
+14189	North West Hockey League	1
+11058	Slovak ice hockey	1
+3473	Omaha Storm Chasers	1
+19728	Long Eaton Sunday League	1
+20318	Gloucestershire Western League	1
+11526	the Bolivian Primera División	1
+19085	Nigerian Premier League	1
+17977	Class AA Texas League	1
+982	Danmarks Badminton Forbund	1
+12628	Casablanca Women 's Run	1
+13190	the Major Series Lacrosse league	1
+13157	League1 Ontario	1
+11766	the Monte Carlo Rally	1
+12303	A-League Draft	1
+13426	Horizon League Tournament	1
+3191	Saudi Second Division League	1
+7500	Bank Asya	1
+5072	Toronto Argonauts of the Canadian Football League	1
+15793	Mexican League	1
+18942	Combined Counties League Division 1	1
+13327	ritish Columbia Hockey League	1
+13909	Tasmanian Football League	1
+6721	eSports Overwatch League	1
+12856	Greater Metro Junior ' A ' Hockey League	1
+10707	2005 ATP Tour	1
+19086	Lightweight Men 's Coxless Fours	1
+12590	Russian Professional Football League	1
+5902	British American Football League	1
+12670	Malaysian League	1
+16303	Welsh Rugby Union leagues	1
+15005	UEFA European Under-17 Football Championship Elite Round	1
+8476	Santa Clara Leopardos	1
+20002	Pakistan Tennis Federation	1
+12982	Spartan South Mildlands League	1
+8700	LEB Silver league	1
+1837	English premiership	1
+10081	Welsh National League	1
+14453	Senegal Premier League	1
+493	Colleges Sport League	1
+13478	ew South Wales Youth Premier League	1
+6081	Australian Rugby League competition	1
+15972	Springfield Babes of the American Soccer League	1
+20133	Division Four of the Hampshire League	1
+10563	Cape Verdean Football Federation	1
+85	Serie D	1
+9573	NFL Scouting Combine	1
+6647	LCFL	1
+5255	second United Kingdom Championship Tournament in 2018	1
+3161	Japan Sumo Association	1
+4826	Singapore Premier League	1
+12410	NFF	1
+3304	Segunda División club Real Murcia	1
+1456	Indonesian Super League	1
+4755	Eastern Counties League	1
+10954	AFC Asian Cup qualifiers	1
+11224	Capital Region Junior Hockey League	1
+10683	third version of the MISL	1
+6465	Elite 2 of the Cameroon Association Football	1
+17092	AF2 League	1
+18383	Fox Sports Netherlands	1
+15968	Suffolk County FA	1
+13039	Panathinaikos FC	1
+11764	Democratic Party of Kosovo ( PDK )	1
+10832	r LASK Linz	1
+4098	Australian W-League	1
+4792	Slovak Extraliga	1
+16410	Nippon Professional Baseball	1
+19409	professional tennis	1
+2992	Women 's Japan Basketball League	1
+6248	Major League Baseball franchise	1
+13853	Seaboard Football League	1
+15586	T.League	1
+17052	2011 World University Games	1
+5345	Continental Basketball Association	1
+10304	American Professional Soccer League ( APSL )	1
+8854	UCI Continental Circuits races	1
+19493	Sioux City Bandits of Champions Indoor Football	1
+7688	French Football Federation	1
+17574	Cincinnati Public Schools Athletic Hall of Fame	1
+1020	Quebec Senior Lacrosse League	1
+2334	tier Greek Football League	1
+10274	KFC Twenty20 Big Bash	1
+11741	V-League	1
+8071	NL Division Series	1
+1906	Belgian Third Division	1
+16020	Brian Bell Bulldogs	1
+3772	Fédération Calédonienne de Football	1
+1240	Eastern Professional Basketball League	1
+6624	Eastern Football League	1
+16531	Montreal Canadiens of the National Hockey League	1
+10677	the Spanish Paralympic Committee	1
+12237	Asian champions league	1
+17861	Gujarat Cricket Association	1
+10618	the National Basketball Association	1
+5452	hockey 's first professional league	1
+1134	1989 Australian Open	1
+18678	Montreal City Senior Hockey League	1
+11886	Curacao League	1
+19988	FIFA World Cup against Iceland ( 5-0 )	1
+12083	South Wales Alliance League	1
+14114	Carolina League All Star	1
+7559	Essendon District Football League	1
+11404	1925 Memorial Cup	1
+8368	Philippine Sports Commission	1
+19367	MLB draft	1
+9039	Football Federation League	1
+16030	City Ground	1
+7943	18 team league	1
+17995	MISL II All-Star Games	1
+8748	Port Moresby Domestic Competition	1
+11952	Castlereagh Cup	1
+3641	American Southwest Indoor Soccer League	1
+9019	Midlands Rugby League	1
+17714	Austrian National League	1
+12187	Veikkausliiga	1
+7057	Slovenian First League side FC Koper	1
+10879	Netball South Australia	1
+9065	Primera B Nacional	1
+16041	Botswana Premier League	1
+9496	Clwyd League	1
+2395	BLNO	1
+18600	Bulgarian Cup	1
+7019	Vicarage	1
+4464	Gauliga Südhannover-Braunschweig	1
+14621	AFC President 's Cup	1
+11396	YJA	1
+11091	Match IQ	1
+17547	Barbados FA Cup	1
+16246	friendly against Yugoslavia ( 2-0 )	1
+14217	Indonesia Super League	1
+7257	Capital Premier League	1
+3989	T20 Global League	1
+18797	Mid Sussex football	1
+11439	Waza Flo of the Major Arena Soccer League	1
+16829	Leinster Senior League	1
+1044	Deportivo Árabe Unido	1
+5114	World Championship Tennis	1
+11047	Olympic Games Qualifiers	1
+3017	Dublin Grand Prix	1

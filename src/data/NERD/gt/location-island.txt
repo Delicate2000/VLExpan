@@ -1,0 +1,200 @@
+10694	جزيرة_تليغراف	1
+2318	Musandam Peninsula	1
+5120	Utøya	1
+18168	Ile-Saint-Louis	1
+14528	Kusu Island	1
+10251	Assateague Island	1
+16350	Paros	1
+7554	Iwo Jima	1
+4291	Marquesas	1
+5503	Penang Island	1
+20270	Solovetsky Islands	1
+8329	North Island	1
+19559	Bruny Island	1
+11949	Manhattan Island	1
+13846	Peter I Island	1
+6324	Isla de la Juventud	1
+18983	Óbuda Island	1
+3628	Jarvis Island	1
+17273	Telegraph Island	1
+20109	Benbecula	1
+315	Livingston Island	1
+8608	Vancouver Island	1
+19277	Surtsey	1
+9408	Nagu	1
+3076	Giglio	1
+3109	Isla de Pinos	1
+5412	Keats Island	1
+5140	Tiber Island	1
+16730	Les Saintes	1
+7586	Big Island	1
+15123	South Shetland Islands	1
+15124	Phoenix Islands	1
+2190	Merritt Island	1
+10273	Osea Island	1
+2130	Peel Island	1
+14482	Ellis Island	1
+16676	Canary Islands	1
+19346	Jazīrat al Maqlab	1
+7686	Oki Islands	1
+1138	Thursday Island	1
+10090	Santorini	1
+9781	Pigeon Key	1
+14282	Philippine Islands	1
+11004	Maltese Islands	1
+16226	Kamaran	1
+2243	Galveston Island	1
+3935	Ionian Islands	1
+6571	Baranof Island	1
+17774	Buzzard 's Island Site	1
+17940	Channel Islands	1
+19679	Matilija Canyon	1
+12251	Big Diomede Island	1
+19680	Ktuts	1
+9957	Ascension island	1
+17591	Germania Land	1
+2987	Skimmer Island	1
+15419	South Georgia Island	1
+1860	Tristan da Cunha group of islands	1
+8512	Berlin and Beverly islands	1
+4193	São Nicolau	1
+675	Stoltenhoff Island	1
+18445	Isla Contoy	1
+5560	Windward Islands	1
+14338	Samarai Islands of the Louisiade Archipelago	1
+15791	Murray Islands	1
+508	Pulau Krakatoa	1
+9720	Wood Islands	1
+10328	Fastnet Rock	1
+14768	Blount Island	1
+16668	island of Newfoundland	1
+12931	the United States Virgin Islands	1
+11816	Rømø	1
+10445	Manitou Islands	1
+7610	Uvea and Futuna	1
+11463	Olympic Peninsula	1
+1662	Ufenau island	1
+11727	Barra Isles archipelago	1
+16289	Grand Bahama	1
+11065	Kharg island	1
+4239	Raja Ampat Islands	1
+6060	Grinnell Peninsula	1
+1517	Príncipe Island	1
+3231	Pico de Piedra	1
+18753	Gulf Islands	1
+8043	Northwest Hawaiian Islands	1
+12270	Biscoe Islands	1
+19886	Arutua	1
+7327	Belle Isle	1
+10461	San Clemente Island	1
+11728	Haddummati	1
+14887	Quarry Bay	1
+5042	Gower Peninsula	1
+20042	Elbow Reef	1
+10069	Isla Montuosa	1
+14715	the Netherlands Antilles	1
+3728	Pemba Island	1
+16893	Battle of Staten Island	1
+13677	Negros	1
+14299	Tachen Islands	1
+17365	Russky Island	1
+6592	Buru Island	1
+153	Vorderrhein	1
+10385	Peloponnese peninsula	1
+8483	Loos Islands	1
+8813	Santa Cruz Islands	1
+10386	Skålvær	1
+8647	Snake Island	1
+11417	Crescent Island	1
+17643	Palmer Archipelago of Antarctica	1
+12914	Greek Isles	1
+12742	Anticosti Island	1
+17364	Beverly islands	1
+14753	Pacific islands	1
+12198	Izu Peninsula	1
+20098	Ellesmere Island 's Raanes Peninsula	1
+6636	San Juan Islands of Washington state	1
+5836	Eyebroughy	1
+12344	South Pagai ( or Pagai Selatan ) Island	1
+630	Potter County	1
+737	Tutuila	1
+16493	Paraśurāma kṣetra	1
+17571	Cape Bird	1
+8714	Pelješac Peninsula	1
+7360	Yeongjong Island	1
+18900	Okakara	1
+7103	Taymyr Island	1
+8772	Mallard Island	1
+8554	Conch Key	1
+16943	Kolguyev Island	1
+3516	Spratly Island	1
+9582	Isle of Bute in Scotland	1
+2933	Southern Atolls	1
+3536	Edward Island	1
+15863	Boston peninsula	1
+15069	Chincoteague Island	1
+2628	Greater Sark	1
+7821	Sunda Arc	1
+14446	Negros Island	1
+19064	Andaman Nicobar Islands	1
+13687	Aspronisi	1
+12468	Als Island	1
+4085	Spjotöy	1
+18310	Milingimbi Island	1
+16097	Island of Newfoundland	1
+9133	Pulau Senang	1
+1005	Ma Wan	1
+2255	Nokonoshima Island	1
+18524	Stockholm archipelago	1
+7940	Italian peninsula	1
+6501	Isles	1
+149	West Ship Island	1
+3966	Hong Kong Lantau Island	1
+5081	Chico Island	1
+11011	Trinidad Island	1
+20481	Eigg	1
+10099	Schoodic Peninsula	1
+18032	Canarreos Archipelago	1
+15147	South Neptune Islands	1
+10428	Chongming	1
+3688	Aoba Island Bali-ha ' i	1
+10780	Jeju Island	1
+14675	Mathraki	1
+9725	Guadacanal	1
+19739	Anegada and Guana	1
+5177	Steven 's Eyot	1
+12507	Garvellachs	1
+18897	Aegean islands	1
+5113	Nag 's Head Island	1
+4094	St Croix	1
+20507	Outer Islands	1
+12755	D'Entrecasteaux Islands	1
+11035	Marcus Islands	1
+20704	island of Vis	1
+1235	Kvitøya	1
+6349	islands in the Scheldt	1
+11366	Mediterranean islands	1
+9396	Beigan Island	1
+1397	Kurili islands	1
+15921	Okinawa Islands of Japan	1
+423	Ford Island	1
+8737	Brissago Islands	1
+15191	Cayo Paredon Grande	1
+3217	Paşalimanı Island	1
+37	Süderoogsand	1
+14443	Georgia Sea Islands	1
+11540	Daufuskie Island	1
+16165	Formigas Islets	1
+4685	Ebeye Kwajalein	1
+13640	Marvel Super Hero Island	1
+4493	Nggela Islands	1
+14959	Attu	1
+12129	Bomberai Peninsula	1
+15903	Gianuti	1
+5764	North and South Manitou islands	1
+4092	Trindad	1
+4823	Palm Island	1
+10408	Comino	1
+4156	Guajira Peninsula	1
+4297	Nassau Island	1
+5713	Outer Banks	1

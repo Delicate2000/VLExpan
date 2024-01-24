@@ -1,0 +1,200 @@
+836	Spanish Influenza outbreak	1
+12173	Wilma	1
+11055	Loma Prieta	1
+16206	Kashmir earthquake	1
+20353	Hurricane Charley	1
+20505	Hurricane Camille	1
+9376	Heysel disaster	1
+6679	Great Kantō earthquake	1
+4424	2004 Indian Ocean earthquake	1
+12979	Northridge earthquake	1
+10912	1964 Hurricane Cleo	1
+5605	1950 Hurricane King	1
+410	1948 Miami Hurricane	1
+8190	1941 Florida hurricane	1
+15240	1935 Yankee hurricane	1
+1544	1906 Florida Keys hurricane	1
+3368	flood	1
+519	Cyclone Gene	1
+473	Witch Creek Fire	1
+8467	Solidaridad	1
+19863	Long Beach earthquake	1
+4114	North Sea Flood	1
+18006	Hurricane Iniki	1
+8162	Great Fire	1
+609	Typhoon Tip	1
+11962	Santiago Canyon Fire	1
+2756	Hurricane Fran	1
+10012	Hurricane Kyle	1
+8931	Hurricane Harvey	1
+4517	Munich air disaster	1
+2748	Bhopal disaster	1
+6229	the Space Shuttle Columbia disaster	1
+10309	Nesat	1
+12290	1926 Miami hurricane	1
+13204	Deepwater Horizon Oil Spill	1
+4413	Hurricane Diane	1
+14432	Hurricane Florence	1
+3143	Red River flood	1
+4725	Darby	1
+10139	Asian tsunami	1
+5455	Hurricane Vince	1
+18000	Great Kanto Earthquake	1
+17830	Tri-State Tornado	1
+2339	Great Seattle Fire	1
+19388	Hurricane Hugo	1
+8300	Hurricane Mitch	1
+8641	Hurricane Ava	1
+1033	Hurricane Kenna	1
+17121	Zane	1
+20676	Plague of Justinian	1
+9193	EF4 tornado	1
+6283	Kursha-2 Fire	1
+7565	Hurricanes Katrina	1
+20285	the February 2011 Christchurch earthquake	1
+12587	Hurricane Pauline	1
+7463	Mount Vision fire	1
+15790	Whittier Earthquake	1
+1971	The Knox Mine Disaster	1
+11579	the Peshtigo fire	1
+16076	September 1999 M7.6 earthquake	1
+15566	R101 airship disaster	1
+5433	the Lockerbie bombing	1
+6593	Great Baltimore Fire of 1904	1
+8987	Black Tom explosion in 1916	1
+17222	2014 floods in Kashmir	1
+3101	Thumb Fire	1
+15373	Hartley Colliery Disaster	1
+1644	Fair Oaks Velodrome	1
+2646	Hurricane Iris	1
+5689	Great Plague of Vienna	1
+4360	Donora smog	1
+16597	7/11 bombings	1
+15066	Bonneville Flood	1
+10714	Woolsey Fire	1
+7503	Hurricane Isaias	1
+6227	Hurricane Edna	1
+15732	White Ship Disaster	1
+11334	2005 hurricanes	1
+211	Island of the Sailors	1
+19258	Red River Flood	1
+15907	Air India Flight 182 bombing	1
+15593	1968 Thule Air Base B-52 crash	1
+20520	Jewish Holocaust	1
+1432	1945 bombing of Tokyo	1
+16721	Black Saturday killings	1
+6758	2004 Boxing Day tsunami	1
+9577	New Madrid earthquake	1
+3924	the Great Kantō earthquake	1
+3319	Nibiru	1
+11034	Wahine	1
+18231	the White Ship disaster	1
+16073	the Blizzard of 1978	1
+17123	1975 Banqiao Dam disaster	1
+15026	2008 Universal fire	1
+8997	Great New England Hurricane	1
+4230	Boxing Day Tsunami	1
+20121	The Great Plague	1
+8952	Bar Harbor Airlines Flight	1
+8523	Fokker Scourge	1
+5838	the Great Fire of Smyrna	1
+19073	Irpinia earthquake	1
+2632	Ecuador earthquakes	1
+4703	drought	1
+5735	Hurricane Marilyn	1
+7242	Columbus Day Storm	1
+14221	the Munich air disaster	1
+1670	Second Great Kanto earthquake	1
+17992	Ladbroke Grove rail crash	1
+12416	Halifax explosion	1
+14491	Hurricane Janet	1
+12568	Justinianic plague	1
+19228	1970 Bhola cyclone	1
+535	influenza pandemic	1
+5570	Peru earthquake	1
+18826	2010 Canterbury earthquake	1
+17751	Srebrenica Genocide	1
+17150	Rwandan genocide	1
+10840	1996 Khobar Towers bombin	1
+18104	Great Thessaloniki Fire of 1917	1
+19391	1900 Galveston Hurricane	1
+7942	Tangiwai disaster	1
+13518	the COVID-19 pandemic	1
+14633	Fukushima I nuclear accidents	1
+8925	Hurricane Matthew	1
+7372	Bihar floods	1
+11046	Chernobyl disaster	1
+11705	Llŷn Peninsula earthquake	1
+1361	Luzon earthquake	1
+18539	Great Spokane Fire	1
+9418	Golbaf earthquake	1
+11434	Great Ellensburg Fire	1
+17016	Pacific hurricane	1
+15633	floods	1
+13084	Air France Flight 007 plane crash	1
+9760	Spanish influenza	1
+15507	Beltway sniper attacks	1
+15107	Hurricane Luis	1
+686	Los Angeles Flood	1
+12493	Final Solution	1
+18699	2009 Victorian Bushfires	1
+19248	Typhoon Marge	1
+20529	The Great Hunger	1
+8906	2004 Madrid train bombings	1
+2514	2001 Gujarat earthquake	1
+5811	Hayward earthquake	1
+13818	Ionian earthquake	1
+20280	1996 Air Africa crash	1
+15850	Japanese Fukushima Daiichi nuclear disaster ,	1
+2921	2005 Pakistan earthquake	1
+4441	Hurricane Gladys	1
+17739	Hanshin earthquake	1
+4053	Ethiopian famine	1
+2998	Windscale fire	1
+5676	Cerro Grande Fire	1
+8999	Munich Air Disaster	1
+10472	Hurricane Katrina ( 2005 )	1
+6681	Heysel disas	1
+8100	September 11	1
+10800	Chernobyl disaster in 1986	1
+16381	Haiti earthquake	1
+6259	Mapiripán Massacre	1
+16609	Southern Airways Flight 932 aviation disaster	1
+17066	2005 London transit attacks	1
+4680	Alaska earthquake	1
+11514	Aivu	1
+16817	Tropical Disturbance 12F	1
+4989	Mount Pinatubo eruption	1
+4770	2010 Yushu earthquake	1
+1550	the Sanyi Air Disaster	1
+12819	Oso mudslide ( 2014 )	1
+5970	San Juan earthquake	1
+17888	Nalgae	1
+3357	Hurricane Lane	1
+15707	Coronavirus pandemic	1
+12448	11 September 2001 terrorist attacks	1
+7404	Blizzard of 1888	1
+17416	Ecuador earthquake	1
+1058	Great Fire of Turku in 1827	1
+4352	Snow and Ice spell of 2010	1
+5961	San Francisco 's 1906 earthquake and fire	1
+4938	Planet X	1
+11181	Chernobyl Nuclear Power Plant disaster	1
+8308	Turnip Winter	1
+16652	2010 Haiti earthquake	1
+6553	Asia Minor Disaster	1
+15310	Hurricane Emily	1
+13958	Stockholm Bloodbath	1
+9333	the Minoan eruption	1
+9033	Great Seattle Fire of 1889	1
+4448	Samoa earthquake and tsunami	1
+7734	Hurricane Hortense	1
+8179	Cyclone Phet	1
+1516	the Mann Gulch fire of 1949	1
+16359	Johnstown Flood of 1977	1
+15354	cyclones	1
+8517	Gnadenhutten and Pontiac 's Rebellion school massacre	1
+19849	Hurricane John	1
+607	Fukushima disaster	1
+18474	Very Severe Cyclonic Storm Gonu	1
+367	1693 Sicily earthquake	1

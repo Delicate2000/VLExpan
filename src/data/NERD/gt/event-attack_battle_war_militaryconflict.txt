@@ -1,0 +1,200 @@
+7676	Battle of Gallipoli	1
+16965	Revolutionary War	1
+13540	massacres of La Glacière	1
+20237	Battle of Midway	1
+20043	Battle of Fuentes de Onoro	1
+13214	Oklahoma City bombing	1
+13615	War in Afghanistan	1
+15437	Kieft 's War	1
+18030	the Second World War	1
+6545	Battle of Heartbreak Ridge	1
+16118	Russo-Turkish War	1
+1646	Spanish Civil War	1
+4586	Siege of Maastricht	1
+7132	Falklands War	1
+10897	Pacific war	1
+5132	Napoleonic Wars	1
+16780	Reapers ' War	1
+20243	Yom Kippur War	1
+6145	WWII	1
+17900	Peninsular War	1
+3149	Battle of Mansfield	1
+5160	World War 2	1
+18418	French and Indian War	1
+3734	Battle of Old Baldy	1
+13403	Battle of Waterloo	1
+4694	Hundred Years War	1
+10036	Battle of France	1
+4208	English Civil War	1
+2076	Russian Civil War	1
+6365	Gulf War	1
+1246	Kosovo War	1
+19572	Paris attacks	1
+5825	Ardennes offensive	1
+11864	Battle of Alexandria	1
+12911	Gallipoli Campaign	1
+12562	Battle of the Punchbowl	1
+17376	Battle of the Somme	1
+13703	Swedish War of Liberation	1
+14341	First Opium War	1
+12502	Second Sino-Japanese War	1
+2505	Battle of Bloody Ridge	1
+20200	Indo-Pakistani War	1
+3633	Winter War	1
+14031	Seven Years ' War	1
+20383	Iraq War	1
+9031	Crimean War	1
+8908	American Civil War	1
+14203	Korean War	1
+18894	American Revolutionary War	1
+13634	Vietnam War	1
+14007	Polish-Soviet war	1
+2377	Napoleonic Invasions	1
+5299	Second Battle of Fallujah	1
+663	Appomattox Campaign	1
+9441	Tuareg Rebellions	1
+10688	Battle of Bagdoura	1
+9825	Wuchang Uprising	1
+8894	Battle of Noemfoor	1
+11797	Marmiton River	1
+7752	Nepali Maoist Conflict	1
+16032	Battle of Stoney Creek National Historic Site	1
+4567	Franco-Thai War	1
+9309	Battle of the Yellow Sea	1
+4594	Battle of Little Big Horn	1
+7510	Mobile Campaign	1
+3201	the Irish War of Independence	1
+4943	British invasion	1
+18049	Irish independence	1
+9937	inner-Georgian conflicts	1
+13693	Jamalpur	1
+2610	Battle of Moore 's Creek Bridge	1
+14404	American Indian Wars of New Mexico	1
+7911	Bombardment of Yeonpyeong	1
+13413	Battle of Belleau Wood	1
+19579	Thousand Day War	1
+19625	Operation Compass	1
+5208	Battle of Wimpfen	1
+17836	Second World Wars	1
+13724	Mojave War	1
+16681	Siege of Namur	1
+16216	Second Indochina War	1
+6987	Yamasee War of 1715	1
+8119	Waco assault	1
+11758	Petersburg Campaign	1
+17342	Second Battle of Rellano	1
+16804	Battle of Shiloh	1
+8672	Battle of Dujaila Redoubt	1
+4947	German Operation Blue	1
+13103	the UN counter-offensive	1
+5314	Lower Silesian Offensive Operation	1
+11530	Liberation of Bangladesh	1
+12989	Wars of Independence	1
+13094	Castilian Civil War	1
+8778	Norwegian campaign	1
+7670	Poland Salient	1
+14433	War of the Pacific	1
+19144	Battle of Kapyong	1
+16207	Operation Bagration offensive	1
+2149	the Battle of the Saintes	1
+13355	Battle of Cerro Gordo	1
+4139	Council House Fight	1
+2	Battle of Guadalajara	1
+1988	the First Schleswig War	1
+10245	Burma campaign	1
+10048	Battle of El Alamein	1
+12031	Despenser War	1
+8418	Battle of Tolentino	1
+12600	El Callao rebellion of 1824	1
+12088	War of the Grand Alliance	1
+18651	the War in Donbass	1
+19504	Scottish independence	1
+13892	U.S.-Mexican War	1
+16588	Ottoman–Portuguese wars	1
+8973	Battle of Tardenois	1
+9356	US Civil War	1
+9199	Battle of Nations	1
+17831	Second Anglo-Sikh War	1
+20087	Battle of St Albans	1
+2123	Battle of Poznań	1
+15297	Polish October	1
+2337	Battle of Chappar Chiri	1
+11431	battle of Bosworth Field	1
+3545	Third Crusade	1
+3139	Battle of Adrianople in 1205	1
+16611	Second Battle of Bull Run	1
+13406	Operation Python	1
+12963	recapture of Geumseong	1
+3857	Operation Uranus	1
+1195	Battle of the Atlantic and the Mediterranean Sea	1
+6431	World War 3	1
+2096	British invasion of Afghanistan	1
+7648	Indian rebellion of 1857	1
+20166	Hackney Empire New Act of the Year	1
+14171	2/28 Incident	1
+16574	Battle of Arnhem	1
+15546	civil wars	1
+3626	invasion of Iraq	1
+19152	Battle of Fangtou	1
+5360	Second Libyan Civil War	1
+15780	Battle of Philippine Sea	1
+7558	War of Spanish Independence	1
+14820	Polish–Soviet War	1
+12983	the War of the Grand Alliance	1
+19396	Battle of the Paracel Islands	1
+6604	Battle of La Hogue	1
+16109	Sand Creek Massacre	1
+18676	St Nazaire Raid	1
+6673	III war of independence	1
+12150	Battle of Smolensk	1
+13381	Arab-Islamic Conquest	1
+15257	Apache Wars	1
+19948	Mesopotamia Campaign	1
+8986	2011 Alexandria bombing	1
+5091	conflict in Kosovo	1
+7187	Warsaw pact in Czechoslovakia	1
+20094	the Battle of Fredericksburg	1
+16720	Fifth Crusade	1
+11409	1998 campaign for U.S. Senate	1
+17326	2011 Operation Odyssey Dawn	1
+3480	Operation Lumberjack	1
+15455	the American Civil War	1
+504	Islamic Revolution of Iran	1
+12114	Battle of Buna-Gona	1
+11036	Civil War of 83-81 BC	1
+15284	Battle of Spotsylvania Court House	1
+13616	siege of Masada	1
+13726	Operation Freedom Deal	1
+19283	Liquiçá Church Massacre of April 1999	1
+13629	Highland Clearances	1
+12994	Scramble for Africa	1
+6234	Rann-Thanagar War	1
+6722	Jallianwala Bagh massacre	1
+9812	Battle of Dussindale	1
+3056	Relief of Khartoum	1
+210	Battle of the Ebro	1
+10987	crash of a Lockheed Electra	1
+14003	Siege of Antiochia	1
+9216	battle of Acre	1
+13794	Boer Wars	1
+4964	defense of Little Rock	1
+5530	Battle of the Chelsea Estuary	1
+941	Siege of Kut	1
+5026	Operation Restoring Hope	1
+4224	Battle of Blenheim	1
+14293	Torstenson War	1
+6986	Battle of Murfreesboro	1
+13567	Trojan War	1
+1050	Battle of Guling	1
+18777	Battle for Smolensk	1
+9587	Congo Crisis	1
+17631	war of Polish succession	1
+1395	Second World War Europe	1
+11697	Spanish Conquest of Mexico	1
+3373	Battle of Königgrätz	1
+14965	Hong Kong protests	1
+4419	Carolinas Campaign	1
+16822	Perryville	1
+4720	war against Gran Colombia	1
+2571	Battle of Chancellorsville	1
+19848	Battle of Shumshu	1

@@ -1,0 +1,200 @@
+825	Jaime Camino	1
+6053	Gautham Menon	1
+11455	Åsa Faringer	1
+6040	Henning Carlsen	1
+8314	Kheng	1
+7928	Brad Bird	1
+6103	Glenville	1
+6351	Alan Clarke	1
+5549	Rossini '	1
+4218	Barry Letts	1
+13931	David Cronenberg	1
+6224	John Woo	1
+13073	Juan Pablo Rebella	1
+1625	Julie Taymor	1
+16513	Felipe Cazals	1
+2458	Jue	1
+16150	Pilar Miró	1
+17300	Wang Xiaoshuai	1
+4754	Maurice Pialat	1
+19351	Pablo Stoll	1
+5363	Uwe Boll	1
+4172	Bob Giraldi	1
+17510	Brady Corbet	1
+2898	Luigi Comencini	1
+11200	Sebastián	1
+5219	Ridley Scott	1
+5602	Jason Moore	1
+16952	R.Bainazishvili	1
+10193	Alex Walker	1
+5156	Daniel Schwartz	1
+453	Suzanne Osten	1
+4856	Wesley Ruggles	1
+17759	Peter Zadek	1
+9572	Garson Kanin	1
+3230	Charteris	1
+17071	Yuen-Ting Cheung	1
+860	Jean-Jacques Annaud	1
+705	Mabel Cheung	1
+9074	Rufus Norris	1
+13630	Ernie Ball	1
+7518	Kathryn Bigelow	1
+2052	Fogel	1
+10066	Mohsen Makhmalbaf	1
+6825	Hilmar Örn Hilmarsson	1
+19198	E.Tavartkiladze	1
+18210	Angus MacLane	1
+2694	Phil Nibbelink	1
+6919	Hideo Sekigawa	1
+14393	Newling	1
+20540	David Lindsay Abaire	1
+14771	Philippe Lioret	1
+11269	Jamie Brown	1
+16156	Lindsay Shonteff	1
+1228	ohn Cassavetes	1
+17746	Haydn Keenan	1
+5378	Stanley Tucci	1
+13890	Robbe De Hert	1
+13544	Pashupati Chatterjee	1
+1898	Donald Runnicles	1
+10221	Jeon Yun-su	1
+2803	Alan Parker	1
+16762	Anees Bazmee	1
+5054	Alan J. Pakula	1
+10348	Lo Duen	1
+13299	Simon Lindley	1
+15603	Roland Emmerich	1
+4921	Leon M. Lion	1
+4386	Edgar Wright	1
+13952	Paul Leni	1
+197	Douglas Rintoul	1
+140	Lee Isaac Chung	1
+6950	George Sidney	1
+17173	David Saint	1
+9459	Charles Marowitz	1
+3888	Thangar Bachchan	1
+199	Ján Roháč	1
+8588	Mario Azzopardi	1
+16075	Rorry Daniels	1
+13041	Julien Duvivier	1
+18615	R. R. Chandiran	1
+6179	Tex Avery	1
+6463	Paul Greengrass	1
+20158	Franco Prosperi	1
+8885	Jean-Pierre Haeck	1
+1524	Ray Nazarro	1
+3113	Malcolm Le Grice	1
+18482	Francis Megahy	1
+6496	Cheryl Wagner	1
+11511	Alexandre Trauner	1
+95	Mike Stephens	1
+6448	Baņuta Rubess	1
+16070	Ruth Escudero	1
+13953	Brothers Lynch	1
+1617	Peter Davison	1
+15781	Michael Chandler	1
+4267	Mark Wahlberg	1
+900	Michale Boganim	1
+14382	Garin Nugroho	1
+12717	Bhanu Pratap Singh	1
+18765	Mostafa Shayesteh	1
+1319	Zhang Zhiliang	1
+3937	Todd Phillips	1
+18762	Franco Brusati	1
+5962	Charles Barton	1
+16342	Yoon Seok-ho	1
+5405	James Lapine	1
+15004	Sanjay Khanduri	1
+3151	Richard Balcombe	1
+11415	Bo Zenga	1
+17293	John Slebodnik	1
+6300	Jerome Chodorov	1
+8122	David Barron	1
+16173	Dan Povenmire	1
+9758	Mario Soldati	1
+16899	Patricio Valladares	1
+20284	Anil Devgan	1
+9057	Robert Freeman	1
+255	Neil Jordan	1
+7737	Rick Wallace	1
+18610	Karen Kwak	1
+2932	Gareth Gwenlan	1
+1229	June Wyndham Davies	1
+10290	Justin Roiland	1
+10507	Penelope Skinner	1
+19531	Fabio Luisi	1
+19179	David Abbott	1
+16775	Isaac Ezban	1
+19684	John Sherratt	1
+20501	Takashi Watanabe	1
+15868	Michael Hayes	1
+1082	James Burrows	1
+9266	Fatin Abdel Wahab	1
+7998	Dylan Meyer	1
+17955	He Ping	1
+16159	Kirk Jones	1
+1326	Nacho Vigalondo	1
+4900	Nick Phillips	1
+2873	Dr. Beth Summers	1
+8341	Allen Baron	1
+8272	Dennis Lofgren	1
+8810	Bobita	1
+20229	Kevin Simmons	1
+4579	Joe Berlinger	1
+15877	Alejandro Jodorowsky	1
+2510	Chuck Williams	1
+8619	Suresh Krissna	1
+17875	Duccio Tessari	1
+16105	JBH Wadia	1
+14159	Shiva Nageswara Rao	1
+4778	Douglas Camfield	1
+4813	Richard W. Munchkin	1
+10597	Anne-Louise Sarks	1
+9030	Michael Leckebusch	1
+11304	Rajinder Singh Bedi	1
+9435	Gore Verbinski	1
+6373	Alain Lombard	1
+13184	Roger Corman	1
+6473	Carlo Rim	1
+5422	Luciano Ricci	1
+19231	Julien Nitzberg	1
+4251	Jeffrey Finn	1
+15778	Jeff F. King	1
+19004	Pamela Rudge	1
+10818	Marcel L'Herbier	1
+20502	Dórdio Guimarães	1
+14199	Saul Landau	1
+205	Guy Sprung	1
+20522	Terrence Malick	1
+12406	Alan Gilbert	1
+17504	Uli Edel	1
+17578	Aribam Syam Sharma	1
+5056	Raymond Martino	1
+18734	Philip J. Purcell	1
+6964	Tatsuyuki Nagai	1
+19500	Elizabeth Swados	1
+18442	Norman Abbott	1
+7909	Manuel Huerga	1
+5157	Stuart Connelly	1
+1328	Harald Hamrell	1
+2821	Toshitaka Matsuda	1
+16036	Memo Remigi	1
+294	Seyed Ali Ghaemmaghami	1
+14838	Jay Rosenblatt	1
+12024	Ian Emes	1
+16402	Paavo Jarvi	1
+2526	Daniel Tyler	1
+9694	Adam Dubin	1
+9404	Blerta Zeqiri	1
+19189	Patrick Hamilton	1
+2436	Rupert Sanders	1
+1545	Max Skladanowsky	1
+1826	Antonio Margheriti	1
+17201	Dustin Guy Defa	1
+16494	Chika Matsumura	1
+3577	Matthew Bourne	1
+10566	Saran	1
+7354	Diane Martel	1
+18091	Roger Redfern	1
+2179	Gordon Parks Jr	1
+14725	François Girard	1

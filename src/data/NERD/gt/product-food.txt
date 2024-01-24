@@ -1,0 +1,200 @@
+18606	cinnamon	1
+10965	Betel nut	1
+15716	California-style pizza	1
+1883	Doritos tortilla chips	1
+10284	Bündner barley soup	1
+9336	Gouais blanc	1
+13485	Arinto	1
+11576	Cariñena	1
+19742	Cadbury Dairy Milk	1
+18111	Dornfelder	1
+3232	Ceylon cinnamon	1
+2909	potatoes	1
+19595	Grossvernatsch	1
+10456	Negrara	1
+11996	grape	1
+12845	Tannat	1
+10862	Côtes du Roussillon	1
+16827	Fritos corn chips	1
+13317	Schiava Grigia	1
+11690	Ouzo	1
+8736	buckwheat noodles	1
+4026	Makhana	1
+5381	Lou-Mal	1
+18135	Kaiserschmarrn	1
+13661	recipe	1
+19534	Cinsault	1
+10249	Coburger Bratwurst	1
+2649	Sobrasada	1
+10796	Gamle Ole	1
+13775	kielbasa sausage	1
+3316	Macabeu	1
+209	cheese	1
+20558	Jujubes	1
+2174	bacon	1
+11772	coconut oil	1
+14915	Pizzoccheri	1
+3819	Schiava Grossa	1
+894	Mourvèdre	1
+412	Ruffles potato chips	1
+11748	ginger beer	1
+3321	maple syrup	1
+10510	sugar	1
+18988	doughnut	1
+568	Samsó	1
+16185	Nutella	1
+13632	whiskey	1
+959	Furmint	1
+14839	semolina	1
+2835	Beaujolais Nouveau	1
+7135	milk	1
+16890	Mosler	1
+3229	Šipon	1
+18597	crookneck squash	1
+15023	Botrytis	1
+18841	Torobayo Ale	1
+15849	Italian DOC	1
+17468	apricot	1
+19936	Cannonau grapes	1
+7538	vegetable Bolognese rigatoni	1
+13301	Heinz Premium Vegetarian Beans	1
+3006	sundubu-jjigae	1
+4514	Triticum turgidum	1
+3851	hazelnut	1
+1784	kid	1
+19150	Bacardi Rum	1
+18302	Big Mac sandwiches	1
+19767	Cretan wild palm P. theophrasti	1
+1890	Merlot gris	1
+7952	Tender-sweet Fried Clams	1
+12674	taco	1
+4200	Crumbled Cheese	1
+15324	Sunga Saul	1
+17363	dried fruit	1
+8422	Carl 's Jr. Big Carl	1
+3917	apple cake	1
+8867	white	1
+12107	labdanum	1
+17886	Ribolla Gialla	1
+10962	Zrmitazh	1
+11708	Seafood Pot-au-feu	1
+1796	AOC Ossau-Iraty cheese	1
+17200	buckwheat flour	1
+20120	Courvoisier	1
+19655	Curd	1
+11724	LandShark Lager	1
+16127	sambuca	1
+5506	shirokuma	1
+14554	Fanta Strawberry Sherbet	1
+14537	800 malt liquor	1
+10701	White Grenache	1
+10524	slippery jack	1
+4278	moles	1
+381	kulfi faluda	1
+20350	Galeguinho	1
+5964	celeriac purée	1
+18771	Maréchel Foch	1
+16158	ketchup dipping sauce	1
+11549	Brandy de Jerez	1
+9044	X-ray telescopes	1
+11429	meringues	1
+12650	walnut topped goat cheese	1
+17564	Casamigos Tequila	1
+1465	Sopa Wantán	1
+17348	cowslip	1
+17265	Sambuca Zabut	1
+4810	chocolate fondant	1
+6295	Hunnic grape Gouais blanc	1
+17665	Narzo 10	1
+11052	marinara sauce	1
+7951	Mentos Gum	1
+4198	eucalyptus oil	1
+1363	gnocchi	1
+6090	caramelized walnut	1
+6018	stouts	1
+1439	Swiss roll cake	1
+20459	buttermilk-based breaded breast filet	1
+11919	Ganjel Rel	1
+2801	Riebel	1
+2373	Sauvignon Blanc	1
+11292	Albanello	1
+14587	Sp .	1
+4721	raisins	1
+1092	Champion Beer of Sheffield	1
+14002	Schioppettino	1
+5933	Seafood Kitchen	1
+16498	chocolate cherry liqueur	1
+511	Carmenere wines	1
+2032	salted Chinese chives flower	1
+13489	Victoria sponge	1
+17408	white Niagara grape juice	1
+19221	Puy lentils	1
+10983	peaches	1
+1309	Delmonico steak	1
+12255	bangers and mash	1
+5139	Sailor Jerry	1
+14604	Dry Blackthorn	1
+4350	Golden Delicious	1
+19291	frozen grape daiquiri	1
+3534	That White	1
+15980	Tennessee bourbon	1
+3486	no-bake cream pies	1
+20504	Budweiser	1
+10192	honey mustard	1
+14296	Whopper	1
+4764	Quarter Pounder with Cheese	1
+345	vermicelli	1
+2212	Angostura bitters	1
+41	Jamaican Jerk Chicken pizzas	1
+11279	Neapolitan ice cream	1
+5130	banana daiquiri ( non-alcoholic ) fruit drinks	1
+3509	Portlandia Pils pilsner	1
+19770	Super Ropes	1
+1273	barley sugar	1
+1908	plovs	1
+8293	focaccia food	1
+8785	desserts	1
+18010	baking powder	1
+13364	Milanesa	1
+14935	cloudberry liqueur	1
+4345	grilling bacon	1
+16390	Guang Chen Pi	1
+11898	mung bean sprout	1
+7142	Granny Smith varietal cider	1
+10435	Schiava Piccola	1
+19646	Moravian cookies	1
+5053	ramen noodle soup dishes	1
+1181	Black Muscat	1
+5531	paratha bread	1
+6717	Sambuca Romana	1
+1372	Liquorice Allsorts	1
+17073	morcilla	1
+2661	Ruffles	1
+19845	cornmeal	1
+14068	Turkey Burgers	1
+20308	Bombay Sapphire Gin	1
+10606	Pétrus wines	1
+16012	entomatada	1
+6858	Mallo Cups	1
+19673	strawberry vinaigrette	1
+19529	Cinnabon Delights	1
+11627	Şalgam	1
+538	white bread	1
+2312	French grape Abouriou	1
+2800	vegetable sandwiches	1
+8106	mushrooms	1
+18468	Alarije	1
+15070	Mirinda	1
+13358	Reggae Reggae sauce	1
+14791	preñao bread	1
+2268	Ulanov potatoes	1
+17155	Obsello Absinthe	1
+18046	omelette	1
+15429	liqueur	1
+5937	Biryani	1
+17696	cole slaw	1
+4492	Miller Lite Brewers Collection	1
+7861	pie	1
+16657	Eroica Riesling	1
+8266	homemade pie	1
+1629	Cashew shortbread cookies	1

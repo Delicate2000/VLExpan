@@ -1,0 +1,200 @@
+14102	landmark Napa Valley restaurant	1
+19810	Cold Stone Creamery	1
+12834	Caesars Pizza	1
+6086	Sign of the Dove	1
+2234	California Pizza Kitchen	1
+12347	Old Bull and Bush	1
+8979	Fairwood	1
+7098	Beef O'Brady 's	1
+19711	Tony Roma	1
+229	terrace restaurant	1
+16771	Sbarro	1
+19419	Gino 's Hamburgers	1
+10593	RPM Italian	1
+6316	Jollibee Foods , Inc	1
+7489	Zizzi	1
+14448	Pei Wei Asian Diner	1
+3949	Father 's Office	1
+14759	Paradise Cafe	1
+18647	Maxwell 's Plum	1
+19380	Ben 's Chili Bowl	1
+8474	Boudin Bakery	1
+13765	GIADA	1
+14769	Busboys and Poets	1
+17531	Standard Grill	1
+9492	Pagliacci Pizza	1
+19544	Lido Restaurant	1
+7653	Tavern on the Green	1
+17573	Bayside Grill	1
+10791	Bianyifang	1
+12662	O'Charley 's	1
+6354	Ruby Tuesday	1
+11568	Waterside Inn	1
+18056	California Tortilla	1
+20352	Cask ' n Cleaver	1
+12710	Kelsey 's	1
+19301	Bob 's	1
+16007	Bicol Express	1
+12945	Mellow Mushroom	1
+9071	Quanjude	1
+5731	Pizza Planet	1
+19110	Captain D 's	1
+1474	Johnny Rockets	1
+8309	Burger Baron	1
+17817	Chili 's	1
+8248	Moe 's Southwest Grill	1
+13493	Hog 's Breath	1
+10145	Le Gavroche	1
+9291	Fera	1
+18814	Nathan 's Famous	1
+4930	Mel 's Drive-In	1
+9987	Tom 's Urban	1
+17384	Auberge restaurant	1
+9576	Famous Dave 's restaurant	1
+17030	Tex-Mex	1
+11454	Katana Robata & amp ; Sushi Bar	1
+2079	Jack in the Box and Denny	1
+2787	Black Tap Craft Burgers & amp	1
+18023	Tom Tom ballroom	1
+4372	RPM On the Water	1
+10825	Burger King restaurant	1
+12127	Tai Hing Restaurant	1
+5022	Mr. Beefy 's	1
+17544	Damon 's Grill and Donatos Pizza	1
+5907	Gourmet Burger Kitchen	1
+10753	Capital Grille	1
+13829	Rittenhouse Hotel	1
+13994	Dining Hall	1
+13510	Siegel 's 1941	1
+12342	Brigg 's Oyster Company	1
+16355	Sketch	1
+15125	Fung	1
+3971	Ace Cafe Lahti restaurant	1
+12426	Babcock	1
+9851	Nathan 's	1
+12991	Marathon Grill	1
+12721	House of Beef	1
+17199	Outtakes	1
+15245	Le Petit Robert	1
+1021	Koffmann 's at The Berkeley	1
+3200	Michael 's Waterside	1
+19846	Pizza Hut restaurant	1
+7044	Which Wich	1
+6678	DANIEL	1
+12230	Cabaret de la Mort	1
+7434	Green restaurant	1
+13173	Dog n Suds	1
+8168	Pachamama Roasting Co .	1
+11785	Chinese Combo King	1
+19666	Hillside	1
+17045	Commander 's Palace restaurant	1
+11039	Shakes	1
+5661	Palo	1
+16972	Pizza Hut Express	1
+5400	Subway restaurant	1
+10448	Hog 's Breath Cafe	1
+1803	GBK	1
+19174	Polpo	1
+10592	Semsom	1
+16860	Le Théâtre	1
+7444	Beachcomber restaurant	1
+8948	Golden Corral restaurant chain	1
+16629	Andrea ’ s Restaurant	1
+8578	Chez Panisse Cafe	1
+1427	Parisian café	1
+20039	the Naugles	1
+19932	Steak Escape	1
+6070	Las Iguanas	1
+10494	Ham Cafe	1
+16339	TCBY	1
+20135	Tender Loving Chicken	1
+5217	Babington 's tea room	1
+4949	Peet 's Coffee & amp ; Tea	1
+11918	Pasand Madras Indian Cuisine	1
+12156	Papi Chulo 's	1
+259	Robert 's	1
+19997	Delmonico 's Restaurant	1
+17778	Le Pain Quotidien	1
+13885	Pop & amp ; Suki Diner	1
+16985	Larry A 's	1
+14271	Wilson 's Sandwich Shop	1
+8351	Epoch Restaurant	1
+9055	Philz Coffee	1
+15328	Eveleigh	1
+4192	Perkins Restaurant	1
+19385	Sci-Fi Dine-In Theater	1
+15751	Cafe Express	1
+7320	Rocky Star Cocktail Bar	1
+14985	Chop House	1
+5331	Tex Bites	1
+12986	Hardee 's and Carl 's Jr .	1
+1983	Pacific Dining Car	1
+7498	Buca di Beppo	1
+14000	Coi	1
+16572	Kirazu	1
+2263	Kanadya	1
+13088	Per Se restaurants	1
+1943	Urth Caffé	1
+6184	Café de Coral restaurant	1
+15949	Tyrol Restaurant	1
+6164	Fera at Claridge 's	1
+9721	Burgers	1
+7707	Tsui Wah Restaurant	1
+2219	Buffalo Wild Wings restaurant	1
+13959	Pyongyang Restaurant	1
+14699	Cheshire Cheese Pub	1
+9981	PBJ 's Grilled	1
+5480	Four Loco	1
+13813	Seabourn Quest	1
+13722	Identity Coffees	1
+5084	Taco Bell Restaurant	1
+18968	Asuka Buffet	1
+5761	Little Chefs	1
+5065	Les Moines de St. Bernardin	1
+3103	Islands Dining Room	1
+17782	Happy Eater 's	1
+1900	Le Périgord	1
+19455	El Amaneser	1
+7089	Sirio	1
+4613	Chipotle Mexican Gril	1
+10875	Secret Recipe	1
+9087	Wendy 's Restaurants	1
+11573	Falcon Greens Restaurant & amp ; Bar	1
+4695	Church 's Chicken restaurant	1
+16507	Cozzolis	1
+19814	Oran Mor bars	1
+17747	Bill Thomas ' Halo Burger	1
+19944	Table Table restaurant	1
+7501	Kurt Gutenbrunner	1
+3972	Five Guys Burgers and Fries	1
+13546	The Rather Sweet Cafe	1
+10341	the Colorado eatery	1
+15648	Pub Food	1
+18018	Chili Bowl	1
+3748	Roux	1
+311	The Ritz	1
+17319	Victory Kitchen	1
+18560	Quizno 's	1
+14999	Papaya Dog	1
+19429	Garden Grille & amp ; Bar	1
+12798	Aurelio 's Pizza	1
+341	Brewers Fayre Local	1
+18247	Schlotzsky 's Bread Alone Bakery	1
+7957	Primo 's Steakhouse	1
+3781	Villa Pizza	1
+10395	Green Falafel	1
+12887	Café Bateel	1
+17331	Burger King ,	1
+620	Clifton Hill Family Restaurant	1
+14660	Hamersley ’ s Bistro	1
+11143	Two Wrongs	1
+17241	Blvd	1
+10544	Circus McGurkus	1
+3907	Yankee Doodle House	1
+19451	Les Pres d'Eugenie	1
+12456	Paradise Restaurants	1
+11508	Joyce Chen Restaurant	1
+7271	Tower Oaks Lodge	1
+6128	The Mad Greek	1
+16295	EDR	1
+12968	Peter Piper Pizza restaurants	1

@@ -1,0 +1,200 @@
+4753	Angels	1
+7744	FK Mladost	1
+6759	Stars	1
+6345	Pittsburgh Pirates	1
+17002	Parramatta Eels	1
+12956	FK Lovćen	1
+16640	All Black	1
+16031	Devils	1
+4604	Chicago Cubs	1
+8325	Manly	1
+8331	Lions	1
+10600	Spurs	1
+6433	Pittsburgh Steelers	1
+10943	Oakland Raiders	1
+9465	Knicks	1
+8188	Capitals	1
+16050	Suns	1
+3177	Royals	1
+7491	Athletic	1
+12743	Giants	1
+8093	Steelers	1
+15844	Montreal Canadiens	1
+1701	All Blacks	1
+16505	Broncos	1
+3736	Miami Dolphins	1
+11048	Packers	1
+9847	Seattle Mariners	1
+6478	Flames	1
+19832	Kansas City Chiefs	1
+14564	Rams	1
+12093	Maple Leafs	1
+14653	Redskins	1
+11909	Kings	1
+19605	Nottingham Forest	1
+9096	Red Wings	1
+9979	Bears	1
+18584	Green Bay Packers	1
+14093	Dodger	1
+947	Bulls	1
+20548	Vancouver Canucks	1
+19539	Dallas Cowboys	1
+17299	Penguins	1
+18544	Colts	1
+6869	New York Yankees	1
+9627	Springboks	1
+20508	Juventus	1
+6411	Aston Villa	1
+6897	Chicago White Sox	1
+12164	Pistons	1
+3163	FK Sutjeska	1
+17580	India national cricket team	1
+285	Latics	1
+11145	Hinckley Town	1
+3769	Peoria Cats	1
+6261	Greek national basketball team	1
+4388	The Kangaroos	1
+8735	Premier League club	1
+2663	Zob Ahan Esfahan	1
+16579	Indios de Mayaguez FC	1
+20164	North Bay Breakers	1
+1375	Binghamton Whalers	1
+2156	Middle Tennessee State	1
+7725	Råslätts SK	1
+11614	Needham Market	1
+19693	Hapoel Kiryat Yam	1
+13907	Richmond Flying Squirrels	1
+15869	AS Cherbourg	1
+19243	Oshawa Flames	1
+9930	Ulster Karting Club	1
+13917	Bohemian F.C	1
+5087	Torpedo Moscow	1
+118	DH	1
+331	Mississauga Eagles P.S.C .	1
+13379	Villages Of Trinity Lakes	1
+17474	the San Diego Chargers	1
+14563	Canning City SC	1
+11419	Oxford University A.F.C .	1
+15038	Eastern Conference All-Star Team	1
+20364	North County Cobras	1
+3689	DBL	1
+7108	MVV Maastricht	1
+832	Greater Western Sydney Giants	1
+11541	Golden Gate Yacht Club	1
+648	Larkhall Thistle	1
+6991	Thionville	1
+6724	Naft Tehran	1
+659	Bethune-Cookman Wildcats	1
+10450	AS Monaco	1
+79	Aktiv SK	1
+15590	Terre Haute Hottentots	1
+19424	Bristol City F.C	1
+17001	FK Donji Srem	1
+13856	Sooner football	1
+7863	Kendal Town	1
+9190	OGz	1
+11015	Yahnundasis Golf Club	1
+18767	Hednesford Town FC	1
+1384	Golspie Sutherland F.C	1
+3477	Maine Mariners	1
+19289	Italy 's national team	1
+3456	Foranto Werkendam	1
+10948	Wingham Ironmen	1
+4679	CS Herediano	1
+2288	Boston United	1
+906	Pontioi Veria F.C	1
+10941	Castilla	1
+15668	Inverness Caledonian Thistle	1
+16844	St. Louis Hawks	1
+858	Winnipeg Blue Bombers	1
+298	Belle Vue Aces	1
+18458	FC Zenit Saint Petersburg	1
+3707	Gold Coast 600	1
+16395	Springfield Sliders	1
+7824	Harry Parks	1
+5260	SC Bastia	1
+15829	Western Pride	1
+14261	SK Arild	1
+12271	National Bank Cup teams	1
+4801	FK Radnički Prijedor	1
+19717	Lady Knights	1
+20534	Joe Gibbs Racing	1
+6743	Washington Football Team	1
+7368	club Lietava	1
+183	Lurgan Celtic	1
+3182	Brynäs IF	1
+5515	the PBA Mythical First Team	1
+2989	Jiangsu Guoxin-Sainty F.C	1
+11391	Budapest Honvéd FC	1
+20620	Nacional Futebol Clube	1
+5801	Giuseppe Campari	1
+17845	Venezuelan Primera División	1
+5300	Under Armour Senior Bowl	1
+2191	PEA FC	1
+15948	t Montrose	1
+18937	Ecuadorian Serie A club Orense	1
+17373	Enyimba	1
+14603	Orlando Nighthawks	1
+820	Rera Kamuy Hokkaido	1
+9128	Hartford Americans	1
+19854	Helsinki Jokerit hockey team	1
+19049	Cambridge Futsal Club	1
+11294	FC Utrecht	1
+10659	Thrasyvoulos F.C .	1
+8709	Real Salt Lake	1
+15360	Tilleur	1
+20480	Rovigo	1
+8485	Georgia Bulldogs of the Southeastern Conference	1
+18181	Detroit Falcons	1
+20358	Moreton Bay United	1
+20605	AS Trenčín	1
+10844	Drogheda United	1
+18148	Al Nasr	1
+19989	New Heroes	1
+18497	Rochester Lancers	1
+2697	Greek club Asteria Drapetsona	1
+6044	Pac-10 All-Freshmen team	1
+6740	Boston Patriots	1
+16504	Leotar Trebinje	1
+4907	Jersey Knights	1
+19864	Bangkok United	1
+18855	AFC Leopards	1
+12212	Walsall Town Swifts club	1
+19054	FC Wil 1900	1
+12556	Johnsonville Softball Club	1
+14216	Montreal Carabins	1
+6594	Petershill	1
+8558	the Gatineau Olympiques	1
+855	Dumfries Amateurs F.C	1
+11684	FC Dinamo-93 Minsk	1
+4321	Toulon rugby team	1
+251	Deeside Demons	1
+17483	Rad	1
+1620	Nicolas Bachand	1
+18128	Cheetahs	1
+10838	Lietuvos rytas	1
+7228	Persija Jakarta	1
+6940	Harrison Soccer Club ( S.C . )	1
+14546	Welsh Horse Yeomanry	1
+13519	Cambridgeshire Cats	1
+11413	Ratnam SC	1
+19514	Oleiros	1
+8349	North Shore Rugby Football Club	1
+6971	New York Rovers	1
+18412	Matanzas	1
+15487	Stonehouse Town	1
+2930	national under-21 football team	1
+16731	National Championship Team	1
+15649	Dexia Mons-Hainaut	1
+7660	Mississauga IceDogs	1
+18182	Clay Greenfield Motorsports	1
+17758	Beast of New Haven	1
+14590	Colombian Primera A	1
+8514	FC Akron Tolyatti	1
+913	Lethbridge Broncos	1
+9416	Newbridge	1
+18394	Raufoss I.L	1
+8942	Football Club Internazionale Milano	1
+56	Kitchener Flying Dutchmen	1
+5337	BC Lions of the Canadian Football League	1
+17244	FBK Kaunas	1

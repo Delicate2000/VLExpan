@@ -1,0 +1,200 @@
+12903	Boston Logan International Airport	1
+14544	Belgrade Nikola Tesla Airport	1
+8134	Weston Airport	1
+542	Tan Son Nhat International Airport	1
+8521	Saddam International Airport	1
+8666	Kaohsiung International Airport	1
+9349	Tulsa International Airport	1
+6650	Gatwick Airport	1
+2979	Amsterdam Airport Schiphol	1
+9659	Bristol Airport	1
+3460	John F. Kennedy International Airport	1
+12915	Taiwan Taoyuan International Airport	1
+7662	Lawrence Municipal Airport	1
+10092	Luis Muñoz Marín International Airport	1
+778	Cincinnati/Northern Kentucky International Airport	1
+3551	Denver International Airport	1
+1421	Lokpriya Gopinath Bordoloi International Airport	1
+15172	Moffett	1
+11608	College Park Airport	1
+12121	Port Stanley Airport	1
+15169	Linate Airport	1
+7927	Sidney H. Taylor Field	1
+11504	Zürich Airport	1
+7855	Shanghai Pudong International Airport	1
+16131	London Luton Airport	1
+8717	Pinal Airpark	1
+7524	Dublin Airport	1
+13490	Mysore Airport	1
+4135	Ørland Airport	1
+8526	Newark Liberty International Airport	1
+3635	Toussaint Louverture International Airport	1
+3512	DFW Airport	1
+5481	Manchester Airport	1
+2559	Chicago O'Hare Airport	1
+11125	LaGuardia Airport	1
+6273	Andover Airfield	1
+11249	Key West International Airport	1
+1259	KLIA	1
+3521	Scatsta	1
+12824	Kuala Lumpur International Airport	1
+20450	La Aurora International Airport	1
+10235	Cairo International Airport	1
+12610	Chicago O'Hare International Airport	1
+1632	San Francisco International Airport	1
+9320	Orlando International Airport	1
+14533	Zurich Airport	1
+8197	Los Angeles International Airport	1
+16436	Ben Gurion Airport	1
+19407	Kallang Airport	1
+20572	Hanscom AFB	1
+17444	Willow Grove Air Reserve Station	1
+8186	John A. Osborne Airport	1
+8065	Sydney Airport	1
+20127	Upernavik Airport	1
+16524	John Wayne Airport ( SNA )	1
+18044	Malmö Airport	1
+18062	Croydon Airport London	1
+18842	Bodø Airport	1
+6711	Aguadilla Airport	1
+12932	Terminal	1
+2471	Marathahalli	1
+16986	Batlimore-Washington International Airport	1
+7671	Skien Airport	1
+18833	Orly Airport	1
+17205	Karume Airport	1
+2665	Las Vegas Army Airfield	1
+11833	Crystal Airport	1
+16326	Gander International Airport	1
+3880	Narita International Airport	1
+11235	McClellan-Palomar Airport	1
+13939	Corfu International Airport	1
+14710	Gatow Air Field	1
+18467	Waterford Airport and Donegal Airport	1
+18752	Travis AFB	1
+2799	Nnamdi Azikiwe International Airport	1
+1178	John Glenn Columbus International Airport	1
+17317	Queenstown Airport	1
+3244	Ratmalana Airport	1
+1236	Paraparaumu Airport	1
+889	Mercedita	1
+1297	Adirondack Regional Airport	1
+18838	Victoria International Airport	1
+18211	Linz Airport	1
+12414	Innsbruck Airport	1
+14643	New Kitakyushu Airport	1
+704	Komaki Airport	1
+5521	Pergamino	1
+1041	Warsaw-Okęcie Airport	1
+6194	Tehran Imam Khomeini International Airport	1
+18906	Pease AFB	1
+13212	Birmingham International Airport	1
+4745	Leknes Airport	1
+2362	Teply Klyuch Airport	1
+18527	Brockville Regional Tackaberry Airport	1
+12335	Nandowra Aerodrome	1
+15516	Tenerife North Airport	1
+13095	Muscat International Airport	1
+7728	Šiauliai International Airport	1
+2765	Wilmington Manor	1
+20190	Bangkok International Airport	1
+12855	Bates Field Alabama	1
+7041	RDU	1
+17948	Lantana	1
+10269	Luton Airport Parkway	1
+3251	The DeLand Municipal Airport	1
+10761	Glasgow Prestwick Airport	1
+12618	Wichita Municipal Airport	1
+4692	Mae Hong Son Airport	1
+7692	Kaneohe Bay Naval Air Station	1
+19473	Southampton International Airport	1
+6855	Bullhead City Airport	1
+372	Ramón Villeda Morales International Airport	1
+20170	Bournemouth Airport	1
+13434	Las Vegas Army Air Field	1
+18802	Mojave Spaceport	1
+3787	Barcelona–El Prat Airport	1
+4029	Johannesburg International Airport	1
+4166	Ratmalana International Airport	1
+6038	Fresno Yosemite International Airport	1
+14037	Durango–La Plata County Airport	1
+9774	Brno–Tuřany Airport	1
+11635	HMS Gadwall	1
+17184	Cherepovets Airport	1
+12692	Liverpool Speke Airport	1
+3928	Dalian Zhoushuizi International Airport	1
+9635	Tiksi airport	1
+8307	Greater Pittsburgh Airport PA	1
+386	Twin Cities airport	1
+6254	John F. Kennedy International Airport 's Terminal 4	1
+13566	Kasese Airport	1
+8288	Palmietfontein Airport	1
+19516	Morondava Airport	1
+16581	Årø and Trondheim Airport	1
+20405	Amritsar airport	1
+18540	Il Caravaggio International Airport	1
+13662	Baghdad airport	1
+18186	Tinian International Airport	1
+12952	Zurich Main Station & amp ; Airport	1
+7652	Burlington Airport	1
+19638	Bennett Field	1
+10256	Varthur	1
+17688	Houari Boumedienne Airport	1
+11598	Thisted with Aalborg Airport	1
+11817	Oshawa airport	1
+531	Griffith Park Aerodrome	1
+18382	Airport Property Ventures	1
+6277	Sunshine Coast Airport	1
+17165	Elstree Aerodrome	1
+11367	the Reykjavík airfield	1
+15825	San Antonio International Airport	1
+16967	Sabiha Gökçen International Airport	1
+4664	Eagle Farm Airport	1
+6957	Wawi Airport	1
+6710	Bolton Field	1
+9705	Blackpool Airport	1
+10723	Amakusa Airport	1
+1954	Tennant Creek Airport	1
+11347	international jetport	1
+6008	Sidi Rezegh airfield	1
+16522	Kota Kinabalu International Airport	1
+18462	Blue Grass Airport	1
+8757	Dr. Babasaheb Ambedkar International Airport	1
+6511	Ronald Reagan National Airport	1
+5075	Doha International Airport	1
+3735	Orio al Serio Airport	1
+12668	Coimbatore Airport	1
+10951	London Southend Airport	1
+14868	Hobby Airport	1
+7920	Halim Perdanakusuma Airport	1
+5547	Zurich 's Dübendorf	1
+5404	New York La Guardia Airport	1
+640	Pai Airport	1
+11858	Sept-Îles/Lac Rapides Water Aerodrome	1
+779	Liberty International Airport	1
+19616	Pune International Airport	1
+6186	Beirut Airport	1
+5768	Willingale	1
+1712	Terminal 4 ( T4 )	1
+9700	Nice Côte d'Azur Airport	1
+14616	Airport Munich West	1
+13887	Pacific Missile Range Facility at Barking Sands	1
+9553	Toul-Rosieres Air Base France	1
+13185	Las Vegas airport	1
+14328	Resolute Bay Airport	1
+697	Beauvais-Tillé Airport	1
+17298	Turin Caselle Airport	1
+19623	Fulton Field	1
+8440	Connemara Regional Airport	1
+14483	Ypenburg Airport	1
+13559	e Maurice Bishop International Airport	1
+19079	McConnell Air Force Base ( KIAB )	1
+17993	Charles De Gaulle	1
+15019	Burbank/Pasadena/Glendale Airport	1
+16653	Pickering Airports	1
+1752	Kent International Airport	1
+15481	Balbasovo Air Base	1
+68	Stewart International Airport	1
+11973	Ivanpah Airport	1
+12321	Hangzhou Xiaoshan International Airport	1
+10611	Jacksonville International Airport	1

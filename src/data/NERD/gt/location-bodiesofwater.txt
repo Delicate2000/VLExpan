@@ -1,0 +1,200 @@
+18249	Struma Glacier	1
+15422	Zapata Swamp	1
+11377	Geikie River	1
+19394	Sacramento River	1
+7854	Shatt al-Arab	1
+19867	Kaliakra Glacier	1
+2103	Molonglo River	1
+1958	Tuolumne River	1
+10277	James River	1
+7143	Monongahela River	1
+19183	Bering sea	1
+6769	Susquehanna River	1
+2644	Lake Tahoe	1
+11935	Middle Island Creek	1
+6438	Abaco Sound	1
+13914	Lake Koocanusa	1
+5652	Baltic Sea	1
+12943	Ohio River	1
+6965	North Indian Ocean	1
+20328	River Severn	1
+7545	Crystal Springs Creek	1
+4880	Columbia Lake	1
+9475	Ipswich River	1
+8376	Euphrates River	1
+20212	Thomson River	1
+10399	Euphrates	1
+12157	Maipo River	1
+8002	Sea of Abaco	1
+15697	Upper Neretva	1
+11906	Drakes Bay	1
+12149	Arkansas River	1
+20584	River Seine	1
+17031	Fraser River	1
+7914	Indus River	1
+1322	Kennet	1
+18748	Lake Nasser	1
+3713	Feather River	1
+12752	Chattahoochee River	1
+10718	Fanno Creek	1
+19490	Potomac River	1
+7972	Colorado River	1
+8905	Columbia River	1
+2463	Lake Powell	1
+2372	Red Sea	1
+18205	Arabian Sea	1
+19038	Lake Mariout	1
+3979	Caribbean Sea	1
+1255	Lake Manapouri	1
+15040	Rideau Canal	1
+18265	Sarasvati River	1
+12128	Prince Regent Inlet	1
+18510	River Ryton	1
+11263	Kern River	1
+577	the Delaware Beaches	1
+18216	Lake Allatoona	1
+16855	Lake Saint-Louis	1
+7637	Juniper Beach Water District	1
+16736	Yamuna River	1
+16469	Mendums Pond	1
+20556	Humboldt Sink	1
+14220	Czarna Przemsza	1
+2741	Rubicon River	1
+4355	Mosquito Lagoon	1
+16160	Withlacoochee River	1
+219	Green River Basin	1
+9084	Bečva	1
+158	Petaluma River	1
+3396	Virginia Water Lake	1
+16114	North China Sea	1
+15047	Tethys Sea	1
+14104	Calawgan Creek	1
+6012	West Atlantic Ocean	1
+17456	Meramec	1
+8940	Roanoke River	1
+20368	Port of San Diego	1
+7181	George River	1
+13781	Whiting River	1
+18629	Northern Caribbean Sea	1
+13220	Thermaic Gulf	1
+19793	Kicking Horse River	1
+16868	Cooper Creek	1
+4261	Hussain Sagar lake	1
+3107	Blue Bay	1
+4014	Khanka Lake	1
+1941	Gulf of Arauco	1
+19758	Kanuti and Koyukuk rivers	1
+11427	Denmark Strait	1
+17616	Yellowstone Lake	1
+989	Marañón River	1
+14356	Gray Whale Cove	1
+6015	West Channel	1
+17112	Hadejia River	1
+8841	lower Aliso Creek	1
+17268	Yaquina River	1
+5359	El Matador	1
+4578	South Australian waters	1
+3992	Frankton Arm	1
+19165	River Camel estuary	1
+12080	Haradrim	1
+14644	Mazowe River	1
+4994	River Piave	1
+1590	Martins Bay	1
+18034	Spring Creek	1
+16054	Merced Lake	1
+19463	Loch Oich	1
+2289	Oamaru	1
+5725	Afon Mellte	1
+8499	Ausable River	1
+9464	the Indian Ocean	1
+11986	Liwagu Valley	1
+15088	Ramapo River	1
+19745	St. Mary River	1
+1394	Oulton Dyke	1
+9515	Hook of Holland	1
+9757	Heron Lake	1
+303	Cwm Eigiau	1
+5388	Marmara Sea	1
+4855	Clejani	1
+310	Kori Creek	1
+18750	Dernbach	1
+13241	Mahi	1
+8760	Blue Mountain Lake	1
+11183	River Meuse	1
+13861	Little Pigeon River	1
+7925	Cephissus river	1
+19325	Twelve Mile Creek	1
+13005	San Juan River	1
+2820	Namakkal District	1
+9888	North Pacific	1
+3260	Albert Embankment	1
+2504	Lake Okanagan	1
+6816	Nanay River	1
+11344	Kokai	1
+15142	the British Columbia Coast	1
+4713	Amiskwi River	1
+17296	China Seas	1
+18775	River Betwa	1
+6581	Volta River basin	1
+15616	Saint-Maurice River	1
+20180	Cà Mau Peninsula	1
+19866	Ōmura Bay	1
+5598	Dundrum Bay	1
+1738	Fraser Coast	1
+12599	South Platte River	1
+1471	North Maria Creek	1
+19929	Guldborgsund strait	1
+10638	Meadow Lake	1
+16752	Vorovskaya	1
+18626	South Fork Cottonwood Creek	1
+3939	Powell River	1
+6691	Earlswood Lakes	1
+3168	Aube River	1
+7691	Shenzhen River	1
+4508	Sand Bay	1
+1087	River Warren	1
+8718	Cooum river	1
+19495	Gawler River	1
+5043	Mekong Delta	1
+15977	East Greenland Current	1
+17308	Mulshi Lake	1
+2010	Straits of Hormuz	1
+6727	36 River St	1
+20336	Ashtamudi Lake	1
+1455	the River Parrett	1
+8069	Newtown Creek	1
+19960	the Moselle River	1
+12478	Sacramento rivers	1
+17064	Lake Tahoe Basin	1
+11810	Columbia River Basin	1
+11118	Port de Balès	1
+18763	Norwegian Sea	1
+16347	Duwamish River	1
+13338	Saucer Creek	1
+13451	Lake Pukaki	1
+13716	Port Phillip	1
+8086	Vängelälven	1
+18499	Lake Nephawin	1
+10541	Canje River	1
+10407	Tenmile Creek	1
+17966	Fligely Fjord	1
+10551	Pavana Lake	1
+5173	Godavari River	1
+6655	Sea of Marmara	1
+15265	Red River Valley	1
+366	Chalachigu River	1
+16859	Sierra Pacific	1
+6443	Belle Fourche River	1
+3903	Wood River	1
+18076	Linton Bay	1
+8008	Southeast and Middle Atlantic States	1
+382	Great Basin lakes	1
+13491	Shamokin Creek	1
+17436	Lake Monowai	1
+11352	San Simon River	1
+14040	Hingham Bay	1
+170	Cantrall Creek	1
+908	the Firth of Clyde	1
+4690	Overpeck Creek	1
+12362	Herring Creek	1
+4123	Atatürk Dam Lake	1

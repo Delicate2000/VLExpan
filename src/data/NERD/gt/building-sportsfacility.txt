@@ -1,0 +1,200 @@
+14044	Sunderland Stadium of Light	1
+11968	Glens Falls Civic Center	1
+14029	Chicago Coliseum	1
+2152	Oakland–Alameda County Coliseum	1
+14201	Fatorda Stadium	1
+10050	Stanford Stadium	1
+6627	Ralph Engelstad Arena	1
+16595	Oracle Arena	1
+5583	Bourda	1
+14947	Celtic Park	1
+12757	Cleveland Municipal Stadium	1
+17473	Estádio da Luz	1
+6692	Meadowlands Sports Complex	1
+1248	Gillette Stadium	1
+2094	Tulane Stadium	1
+14571	Tiger Arena	1
+20091	Chicago Stadium	1
+13147	Luzhniki Stadium	1
+6368	Gymnasium	1
+5684	Estádio do Morumbi	1
+1695	Galen Center	1
+11664	Parramatta Stadium	1
+16727	Docklands Stadium	1
+2448	Alamo Stadium	1
+1933	Family Arena	1
+7539	Mercedes-Benz Stadium	1
+10204	Partick 's Firhill Stadium	1
+5493	Cooper Stadium	1
+3637	Rickwood Field	1
+11375	Hindmarsh Stadium	1
+7050	Shea Stadium	1
+14450	Three Rivers Stadium	1
+15461	Michigan Stadium	1
+18607	Bennett Park	1
+9157	Water Cube	1
+9918	Shawfield Stadium	1
+15012	Sandusky Speedway	1
+7888	Headingley Rugby Stadium	1
+19756	Optus Stadium	1
+11203	Stade Parc Jarry	1
+17166	Cairns Convention Centre	1
+19743	Lessing Field	1
+12785	Audi Field	1
+19744	Rebekah Colberg sport complex	1
+3886	Raydale Park	1
+8017	Perth Oval	1
+18224	Palm Springs Stadium	1
+14380	Hughes Stadium	1
+18790	Sick 's Stadium	1
+19520	Bobcat Stadium	1
+126	Daejeon Baseball Stadium	1
+12216	Ullevaal Stadium	1
+5653	Singapore Indoor Stadium	1
+6353	Brookwood Country Club	1
+18107	Wolfson Park	1
+5606	Cool Insuring Arena	1
+9552	LJVM Coliseum	1
+9365	the Stadio Luigi Ferraris	1
+14405	Roanoke Stadium	1
+16696	Kay Yeager Coliseum	1
+5435	House that Jack Built	1
+4906	E. J. Whitmire Stadium	1
+6308	Estadio Metropolitano Ciudad de Itagüí	1
+377	Empire Stadium	1
+10526	Estadio Latinoamericano	1
+10084	Pink Taco Dome	1
+4499	Gran Stadium de La Habana	1
+17391	Mutual Street Arena	1
+5662	Allstate Arena	1
+4310	StubHub Center	1
+9540	Donnybrook Stadium	1
+16995	The Dunk	1
+14075	Centennial Park Stadium	1
+19922	The Shoe	1
+15231	the Paul Lawrie Golf Centre	1
+7580	la Cartuja	1
+8156	Griffith Stadium	1
+2858	Myrtle Avenue Ball Park	1
+19904	San Jose Arena	1
+134	CarShield Field	1
+7079	Les Murakami Baseball Stadium	1
+16778	Augusta National Golf Club	1
+16486	new Juventus Stadium	1
+944	Calgary Stampede	1
+562	Perry Barr	1
+5619	Arena México	1
+998	Hakuba Ski Jumping Stadium	1
+9479	Stadium Municipal de Toulouse	1
+8899	Ridgewood Country Club ( Composite )	1
+15011	HDI-Arena	1
+10734	Yeongjong Baegunsan MTB Course	1
+11891	Don Valley Stadium	1
+15444	Pyongyang Arena	1
+19462	YMCA indoor hall	1
+6091	National Stadium of Papua New Guinea	1
+5932	Martinsville Speedway	1
+8897	Lalit Hari Stadium	1
+15080	Dagenham Greyhound Stadium	1
+15779	Smart Araneta Coliseum	1
+8054	PNC Field	1
+18870	Santiago Bernabeu Stadium	1
+3421	Hanns Martin Schleyer Halle	1
+20472	Miami 's Orange Bowl	1
+7112	Landhof	1
+9747	Meadowside	1
+19545	Ewood Bridge	1
+20688	Fraser Field	1
+8960	Donostia Arena	1
+62	Monmore Green Stadium	1
+20705	Stadion de Goffert	1
+14733	Henry Turner Oval	1
+13812	Stade de Paris	1
+6518	Hamilton Crescent	1
+14165	Stade Wobi Bobo-Dioulasso	1
+1260	Ramna Race Course	1
+258	Taylor Field	1
+16414	Moti Bagh Stadium for ODIs	1
+13828	Del Monte Field	1
+10976	Canadian Arena	1
+2090	Alexian Field	1
+17004	Michigan International Speedway	1
+1986	Stade Ernest-Wallon	1
+12694	Bond County Fairgrounds	1
+10756	Central Stadium	1
+21	Coburg City Oval	1
+6160	Langston Golf Course	1
+13849	Oakland Coliseum Arena	1
+1453	Toyota Stadium	1
+6802	Surakul Stadium	1
+20665	Dunkin ' Donuts Center	1
+8201	Dixie Classic Fairgrounds	1
+9889	WVU Coliseum	1
+9102	Cow Palace arena	1
+3077	Von Braun Center	1
+17081	Highbury Stadium	1
+2271	Eisenhower Park ( Red Course )	1
+20292	Debes Stadium	1
+17770	ASB Stadium	1
+1460	Russian security services	1
+9970	Halle André Vacheresse	1
+2009	Civic Auditorium	1
+5159	Eislaufzentrum	1
+11582	Jack Gatecliff Arena	1
+19140	Walt Disney World Golf	1
+6504	Cotton Bowl Stadium	1
+14089	Palau dels Esports de Barcelona	1
+18846	Wanderers Cricket Ground	1
+1760	Oldham Coliseum	1
+5105	Chicagoland Speedway	1
+16643	Ascot Racecourse	1
+4782	Long Branch Railroad	1
+969	Jack Russell Stadium	1
+3081	Winnipeg Arena	1
+13260	Ullevål Stadion	1
+1667	Bridgeview Stadium	1
+11325	IZOD Center	1
+13400	Fremantle Oval	1
+2306	Terry Beirne Stadium Complex	1
+9909	Verdun Auditorium	1
+18621	Bloomfield Stadium	1
+18065	Allen County War Memorial Coliseum	1
+9980	Dolphin Stadium	1
+5687	Spruce Meadows	1
+12104	Dowdy-Ficklen stadium	1
+12917	William H. Greene Stadium	1
+6555	Dodger Stadium	1
+3834	Creasey Park Stadium	1
+6674	Liverpool Echo Arena	1
+12675	Trans Namib Ground	1
+369	Walthamstow Stadium	1
+18568	Spokane Coliseum	1
+3442	AWD-Arena	1
+13644	Štark Arena	1
+10030	Friar Development Center	1
+5737	Mariner Arena	1
+4364	Forsgate Country Club ( Banks Course )	1
+15200	Rosehill Gardens Racecourse	1
+498	Selayang Stadium	1
+18609	Ericsson Stadium	1
+15992	Beijing Olympic Stadium	1
+7478	Laguna Seca Raceway	1
+11401	Circus Maximus	1
+554	The Old Recreation Ground	1
+12433	Antonette Tubman Stadium	1
+6952	Trusts Arena	1
+13877	Hayward Field	1
+8020	Moda Center	1
+18996	Stadio Roberto Jannella	1
+13596	Pan Am Pool	1
+13140	John Wooden Center	1
+8461	Palladium Athletic Facility	1
+7747	Jeld-Wen Field	1
+8227	Portland Ice Arena	1
+2645	Albuquerque Sports Stadium	1
+19062	Las Américas Complex	1
+19444	Charlotte Motor Speedway	1
+5387	Leamington Road	1
+18258	Bismarck Municipal Ballpark	1
+19577	Sapporo Atsubetsu Stadium	1
+16532	Seoul Olympic Stadium	1
