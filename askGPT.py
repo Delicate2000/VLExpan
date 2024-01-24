@@ -65,7 +65,7 @@ class ASK_GPT(object):
         self.time_sleep = time_sleep 
         self.error_sleep = error_sleep 
 
-        if isinstance(keys, str): # keys:使用"\n"来分割key
+        if isinstance(keys, str):
             key_list = keys.split('\n')
             key_list = [i.split('--')[-1] for i in key_list]
         elif isinstance(keys, list):
