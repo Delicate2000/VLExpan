@@ -8,15 +8,9 @@ from openai.error import RateLimitError
 
 ############################################################
 DelKey_message = [
-    'You exceeded your current quota, please check your plan and billing details.', 
 ]
 
-ChangeKey_message = ['Limit: 3 / min.', 'Limit: 200 / day.', 'requests per min (RPM)', 'requests per day (RPD)']
-
-# 'Rate limit reached for default-gpt-3.5-turbo in organization org-eO6tQeu985woe2PGVPc6KvC2 on requests per min. Limit: 3 / min. Please try again in 20s. Contact us through our help center at help.openai.com if you continue to have issues. Please add a payment method to your account to increase your rate limit. Visit https://platform.openai.com/account/billing to add a payment method.'
-# 'Rate limit reached for default-gpt-3.5-turbo in organization org-gxbughMIHxzHPMOXL8Q54crk on requests per day. Limit: 200 / day. Please try again in 7m12s. Contact us through our help center at help.openai.com if you continue to have issues. Please add a payment method to your account to increase your rate limit. Visit https://platform.openai.com/account/billing to add a payment method.'
-
-
+ChangeKey_message = []
 
 class KEYQueue(object):
     def __init__(self, key_list):
