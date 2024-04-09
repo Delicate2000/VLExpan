@@ -131,7 +131,7 @@ for cls in class_names:
                 i_index = i_eid2index[cls][i][eid]
             except:
                 i_index = 999
-            if abs(m_index - i_index) >= win_size or abs(m_index - t_index) >= win_size: # 有一个大就要重排了
+            if abs(m_index - i_index) >= win_size or abs(m_index - t_index) >= win_size:
                 continue
             else:
                 no_rank[f"{cls}_{i}"].append((eid, m_index))
@@ -215,7 +215,7 @@ with open(f"./negative_cases_{dataset}_{resfile}.json","w") as f:
     json.dump(negative_cases,f)
 
 
-def get_predict(cls, index):  # 改这边
+def get_predict(cls, index): 
     q_index = index
     change_indexs = []
     changed_rank = []
@@ -227,7 +227,7 @@ def get_predict(cls, index):  # 改这边
         
     for case in become_second[f"{cls}_{index}"] :
         changed_rank.append(case[0])
-        try: # 可能是text新加的
+        try:
             origin_rank.remove(case[0]) 
         except:
             pass
