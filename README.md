@@ -1,7 +1,7 @@
 # VLExpan
 This is the official github repository for the paper "VLExpan: A Visual-Enhanced LLM Framework with Inductive and Deductive Policy for Entity Set Expansion".
 
-We present the source code release the NERD-Img dataset.
+We present the source code and release the NERD-Img dataset.
 
 ## Contents
 
