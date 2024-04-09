@@ -15,9 +15,9 @@ We present the source code and release the NERD-Img dataset.
   - [Entity deduction](#Entity-deduction)
 
 ## Overview
-<img src="VLExpan.jpg"/>
+<img src="VLExpan.png"/>
 
-Our proposed VLExpan consists of four key steps: (1) entity representation, (2) expanding and selecting (3) class name induction and (4) entity deduction.
+Our proposed VLExpan consists of four key steps: (1) candidate generation and (2) expansion refinement.
 
 ## Dataset
 The entity, courpus, query and ground truth of NERD-Img dataset can be found in "src/data/NERD/". 
