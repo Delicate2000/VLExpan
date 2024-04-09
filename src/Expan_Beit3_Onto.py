@@ -281,11 +281,11 @@ class Expan(object):
         self.dataset_name = args.dataset.split('/')[-1]
 
     def pretrain(self, save_path, list_dataset, lr=1e-5, epoch=5, batchsize=128, num_sen_per_entity=256, smoothing=0.1):
-        self.model = Model(self.len_vocab, self.mask_token_id, model_name="./beit3/beit3_base_patch16_480_vqa.pth") # mask_id控制<mask>还是"_"对应掩盖
+        self.model = Model(self.len_vocab, self.mask_token_id, model_name="./beit3/beit3_base_patch16_480_vqa.pth")
         if not os.path.exists(save_path):
             os.makedirs(save_path)
 
-        unfreeze_layers = ['encoder.layers.9', 'encoder.layers.10', 'encoder.layers.11', 'head', 'Project', 'projection_head'] # NERD
+        unfreeze_layers = ['encoder.layers.9', 'encoder.layers.10', 'encoder.layers.11', 'head', 'Project', 'projection_head']
         for name, param in self.model.named_parameters():
             param.requires_grad = False
             for ele in unfreeze_layers:
@@ -313,7 +313,7 @@ class Expan(object):
       
         for i in range(0, epoch):
             print('\n[Epoch %d]' % (i + 1))
-            model_pkl_name = "epoch_%d.pkl" % (i + 1)  # 这里需要5轮
+            model_pkl_name = "epoch_%d.pkl" % (i + 1) 
             path = os.path.join(save_path, model_pkl_name)
             run_epoch(self.model, data_loader, loss_compute, optimizer, path=path, log_step=100) 
             torch.save(self.model.state_dict(), path)
@@ -321,18 +321,18 @@ class Expan(object):
     def expand(self, query_sets, q_len, target_size=500, ranking=False, mu=9,
                init_win_size=1, win_grow_rate=3, win_grow_step=20, total_iter=1, mode='multi'):
         pre_expanded_sets = [None for _ in range(self.num_cls)]
-        expanded_sets = query_sets  # 60个query
+        expanded_sets = query_sets 
 
         cnt_iter = 0
         flag_stop = False
         pre_cursor = 13
 
         print('Start expanding:')
-        for i in range(self.num_cls):   # 一共60轮
+        for i in range(self.num_cls): 
             print(str([self.eid2name[eid] for eid in query_sets[i]]))
         print('')
 
-        while cnt_iter < total_iter and flag_stop is False: # 总迭代数
+        while cnt_iter < total_iter and flag_stop is False:
             print('[Iteration %d]' % (cnt_iter + 1))
             flag_stop = True
             seed_sets = []
@@ -343,10 +343,10 @@ class Expan(object):
             for i, expanded_set in enumerate(expanded_sets):
                 changed = False
                 if cnt_iter == 0:
-                    seed_set = expanded_set # 初始化
+                    seed_set = expanded_set 
                     changed = True
                 elif cnt_iter == 1:
-                    seed_set = expanded_set[:13] # 第一轮拿13个？可以训完排个序 然后挑出这个超参
+                    seed_set = expanded_set[:13] 
                     changed = True
                 else:
                     # seed set is updated as the longest common set between pre_expanded_set and expanded_set
@@ -442,34 +442,6 @@ class Expan(object):
         else:
             self.model.load_state_dict(torch.load(path, map_location=torch.device('cpu')))
 
-    def ensemble_eindex2dists(self, model_ids):
-        # 模型求平均
-        pkl_name = self.pkl_path_e2d
-        # for model_id in model_ids[:-1]:
-        #     pkl_name += str(model_id) + '-'
-        # pkl_name += str(model_ids[-1])
-        log_pkl_name = pkl_name + '_log'
-        print('Making %s and %s ...' % (pkl_name, log_pkl_name))
-        eindex2dist = pickle.load(open(self.pkl_path_e2d + str(model_ids[0]), 'rb'))
-        eindex2logdist = pickle.load(open(self.pkl_path_e2logd + str(model_ids[0]), 'rb'))
-        assert len(eindex2dist) == len(eindex2logdist)
-        print(model_ids[0])
-        for model_id in model_ids[1:]:
-            this_eindex2dist = pickle.load(open(self.pkl_path_e2d + str(model_id), 'rb'))
-            this_eindex2logdist = pickle.load(open(self.pkl_path_e2logd + str(model_id), 'rb'))
-            for i in range(len(eindex2dist)):
-                eindex2dist[i] = eindex2dist[i] + this_eindex2dist[i]
-                eindex2logdist[i] = eindex2logdist[i] + this_eindex2logdist[i]
-            print(model_id)
-        for i in range(len(eindex2dist)):
-            eindex2dist[i] *= (1 / len(model_ids))
-            eindex2logdist[i] *= (1 / len(model_ids))
-
-        pickle.dump(eindex2dist, open(pkl_name, 'wb'))
-        pickle.dump(eindex2logdist, open(log_pkl_name, 'wb'))
-        self.eindex2logdist = eindex2logdist
-        self.eindex2dist = eindex2dist
-
     def get_mean_log_dist_beit3(self, eid, mode):
         if mode == 'multi2':
             return self.eindex2multi_logdist2[self.eid2index[eid]]
@@ -483,7 +455,7 @@ class Expan(object):
         feature_dist = self.eindex2dist[self.eid2index[eid]]
         return feature_dist
 
-    def get_feature_dist2(self, eid, batchsize=128): # 拿 对比学习的嵌入表示
+    def get_feature_dist2(self, eid, batchsize=128): 
         dataset = Eid2Data(eid, self.eid2sents, [])
         data_loader = DataLoader(dataset, batch_size=batchsize, collate_fn=collate_fn)
         list_dists = []
@@ -497,18 +469,14 @@ class Expan(object):
         return dist
     
 
-    def make_eindex2dist_beit3(self, eid2dataset, batchsize=256, model_id=None): # Onto中 同一上下文会对应多个答案
+    def make_eindex2dist_beit3(self, eid2dataset, batchsize=256, model_id=None): 
         if torch.cuda.is_available():
             self.model.cuda()
         eindex2multi_logdist = []
         eindex2text_logdist = []
         eindex2visual_logdist = []
-        eindex2multi_logdist2 = [] # 768维度的
+        eindex2multi_logdist2 = [] 
 
-        # eindex2multi_dist = []
-        # eindex2text_dist = []
-        # eindex2visual_dist = []
-        # eindex2multi_dist2 = []
 
         pkl_path_e2d = self.pkl_path_e2d
         pkl_path_e2logd = self.pkl_path_e2logd
@@ -516,12 +484,11 @@ class Expan(object):
             pkl_path_e2d += str(model_id)
             pkl_path_e2logd += str(model_id)
         print('Total entities: %d' % len(self.eid2sents))
-        # pkl_path_e2d只是个名字
         print('Making %s and %s ...' % (pkl_path_e2d, pkl_path_e2logd))
 
         self.model.eval()
 
-        for i, eid in enumerate(tqdm(self.eid2sents)): # 每个实体单独做dataset
+        for i, eid in enumerate(tqdm(self.eid2sents)): 
             multi_list_dists = []
             multi_list_dists2 = []
             text_list_dists = []
@@ -548,7 +515,7 @@ class Expan(object):
                     multi_list_dists2.append(multi_output2)
                     text_list_dists.append(text_output)
 
-                    if j == 0: # 就一张图
+                    if j == 0:
                         visual_output = self.model.visual_features(batch[0][0].unsqueeze(0).cuda()).squeeze(0).cpu().numpy()
 
 
@@ -557,16 +524,15 @@ class Expan(object):
             text_log_dists = torch.cat(text_list_dists).cpu().numpy()
             multi_log_dists2 = torch.cat(multi_list_dists2).cpu().numpy()
 
-            eindex2multi_logdist.append(np.mean(multi_log_dists, axis=0)) # 所有表示eid 对应的[MASK]求平均
-            eindex2multi_logdist2.append(np.mean(multi_log_dists2, axis=0)) # 所有表示eid 对应的[MASK]求平均
-            eindex2text_logdist.append(np.mean(text_log_dists, axis=0)) # 所有表示eid 对应的[MASK]求平均
+            eindex2multi_logdist.append(np.mean(multi_log_dists, axis=0)) 
+            eindex2multi_logdist2.append(np.mean(multi_log_dists2, axis=0)) 
+            eindex2text_logdist.append(np.mean(text_log_dists, axis=0)) 
             eindex2visual_logdist.append(visual_output)
 
             toc = time.time()
             torch.cuda.empty_cache()
             if i % 2000 == 0:
                 print(i)
-            # break
 
         print('Writing to disk ...')
         pickle.dump(eindex2multi_logdist, open(pkl_path_e2logd+'_multi', 'wb'))
