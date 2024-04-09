@@ -75,7 +75,7 @@ if __name__ == '__main__':
     default_image = default_loader("ind.jpg")
     default_input_image = transform(default_image)
 
-    eid2name, _, _ = load_vocab(os.path.join(args.dataset, args.vocab)) # 这个卡
+    eid2name, _, _ = load_vocab(os.path.join(args.dataset, args.vocab))
     raw_eid2sents = pickle.load(open(os.path.join(args.dataset, args.pkl_e2s), 'rb'))
     eid2sents = dict()
     for eid in list(eid2name.keys()):
@@ -102,7 +102,7 @@ if __name__ == '__main__':
         os.mkdir(args.output)
     expan = Expan(args, class_names, eid2name=eid2name, list_eids=list_eids, eid2sents=eid2sents, eid2index=eid2index, len_vocab=len_vocab)
     
-    if not args.test: # 训练+扩展
+    if not args.test: 
         eid2dataset = dict()
 
         if args.only_first_img:
@@ -154,7 +154,7 @@ if __name__ == '__main__':
                         image = imgs[0]
                         try:
                             image = default_loader(path + "/" + image)
-                            input_image = transform(image) # 处理图片 
+                            input_image = transform(image)
                         except:
                             input_image = default_input_image
                         if args.pretrain:
@@ -199,14 +199,11 @@ if __name__ == '__main__':
         if args.pretrain:
             if not os.path.exists(args.save_path):
                 os.mkdir(args.save_path)
-            # print("文件:", len(os.listdir(args.save_path)))
-            # if len(os.listdir(args.save_path)) == 0: # 没有参数 再训练
+
             print("batch_size:", batch_size)
             print("epoch:", epoch)
             expan.pretrain(save_path = args.save_path, list_dataset=train_list_dataset, lr=learn_rate, epoch=epoch, batchsize=batch_size, num_sen_per_entity=8, smoothing=0.1)
-                    # exit(0) # 退出去了
         
-        # 整合模型, 边make边expan会吃大量内存
         if args.pretrained_model is not None and args.make_dist:
             print("make_dist")
             expan.load_model(os.path.join(args.save_path, args.pretrained_model))
@@ -215,7 +212,7 @@ if __name__ == '__main__':
     '''
     Expanding and Evalutation
     '''
-    if args.pretrained_model is not None and args.test: # 训练完才扩展
+    if args.pretrained_model is not None and args.test:
         mode = args.mode
         print(f"start expand {mode}")
         MAPs = [0, 0, 0, 0]
@@ -223,10 +220,8 @@ if __name__ == '__main__':
         target_size = 433
         query_set = []
 
-        # 这里应该加f.write? 文件也没创
         print("num_query_per_class:", num_query_per_class)
         with open(os.path.join(args.output, f'{mode}_summary.txt'), 'w') as file_summary:
-            # 60类扩展一轮，一共20轮
             for i in range(0, num_query_per_class):
                 print('\n[Test %d]' % (i+1))
                 query_set = [query_sets[cls_name][i] for cls_name in class_names]
