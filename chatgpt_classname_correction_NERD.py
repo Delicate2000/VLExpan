@@ -72,9 +72,6 @@ with open(f"results/become_first_{dataset}_{model_name}.json","r",encoding='utf-
 with open(f"results/negative_cases_{dataset}_{model_name}.json","r",encoding='utf-8') as f1:
     negative_cases = json.load(f1)
 
-# with open(f"results/m_eid2index_{dataset}_{model_name}.json","r",encoding='utf-8') as f1:
-#     cls2m_eid2index = json.load(f1)
-
 print("data has loaded")
 
 
@@ -95,7 +92,6 @@ def ask_chatgpt(q_index, cls, seed_list, added_prompt):
     seeds = ', '.join(seed_list)
     seeds = "'" + seeds + "'"
 
-    # 输入问题
     Question  = f'''Please conclude the class name of the given entities. {added_prompt}. Input: {seeds};
     Output: '''
 
@@ -109,7 +105,6 @@ def ask_chatgpt(q_index, cls, seed_list, added_prompt):
     return res.split('''"''')[1]
 
 
-# check添加prompt
 def check(seed_list, cls, q_index, origin_class, good_cases=None, negative_samples=None):
     Instruction = f"We will conduct 'entity set expansion' task. Given the class name and the entity, please judge whether the entity belong to the class"
 
@@ -139,7 +134,6 @@ def check(seed_list, cls, q_index, origin_class, good_cases=None, negative_sampl
     for index, entity in enumerate(entites):
         question_sent += f'''{index+1}. Does "{entity}" belong to the class "{origin_class}"?\n'''
 
-    # 输入问题
     Question  = f'''Given the class name and the entity, please judge whether the entity belong to the class. 
     Input: {entity_sent}. The class name is "{origin_class}" (concluded from '{seeds}');
     Question:\n{question_sent}
