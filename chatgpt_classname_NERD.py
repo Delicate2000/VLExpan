@@ -5,7 +5,6 @@ import openai
 from tqdm import tqdm
 import time
 from askGPT import ASK_GPT
-# 利用chatgpt的结果 调参
 
 keys = '''...''' # put your key here
 ask_GPT = ASK_GPT(keys)
@@ -68,8 +67,6 @@ print("data has loaded")
 
 
 def ask_chatgpt(seed_list, cls, q_index, good_case=None, bad_case=None):
-    # 给chatgpt设定角色或者任务 
-    # k = 50
     Instruction = f"We will conduct 'entity set expansion' task. Given three entities, you need to accurately conclude the class name of them."
 
     Demo = '''Here is a positive sample:
@@ -80,32 +77,11 @@ def ask_chatgpt(seed_list, cls, q_index, good_case=None, bad_case=None):
     seeds = ', '.join(seed_list)
     seeds = "'" + seeds + "'"
 
-    # 输入问题
     Question  = f'''Please conclude the class name of the given entities. Input: {seeds};
     Output: '''
-    
-    # 交集控制随机性
-    # with open(os.path.join(output_dir, f"prompt_{q_index}_{cls}.txt"), 'w', encoding='utf-8') as file:
-    #     file.write(Instruction + '\n' + Demo + '\n' + Question )
-
-    # while 1:
-    #         try:
-                # completion = openai.ChatCompletion.create(
-                #      model="gpt-3.5-turbo-16k-0613",
-                #     # model="gpt-4",
-                #     messages=[
-                #             # {"role": "system", "content": Instruction}, # 系统？
-                #             {"role": "user", "content": Instruction + '\n' + Demo + '\n' + Question }
-                #             # {"role": "user", "content": "Is the Los Angeles Dodgers won the World Series in 2020?"}
-                #             # {"role": "user", "content": "Where was it played?"}
-                #         ],
-                #         # ,top_p = 0.1
-                #     temperature=0,
-                #     seed=42
-                # )
 
     messages=[
-                # {"role": "system", "content": Instruction}, # 系统？
+                # {"role": "system", "content": Instruction}, 
                 {"role": "user", "content": Instruction + '\n' + Demo + '\n' + Question }
                 # {"role": "user", "content": "Is the Los Angeles Dodgers won the World Series in 2020?"},
             ]
@@ -119,31 +95,12 @@ def ask_chatgpt(seed_list, cls, q_index, good_case=None, bad_case=None):
         file.write(res)
         file.write("\n")
 
-                # print("ans:", completion.choices[0].message.content)
-
-                # # 结果写入文件
-                # with open(os.path.join(output_dir, f"{q_index}_{cls}.txt"), 'w', encoding='utf-8') as file:
-                #     # file.write(Instruction + '\n' + Demo + '\n' + Question )
-                #     file.write("##res##\n")
-                #     file.write(completion.choices[0].message.content)
-                #     file.write("\n")
-                # # print("ans:", completion.choices[0].message.content)
-            #     break
-            #     # return completion.choices[0].message.content
-            # except Exception as e:
-            #       time.sleep(10)
-            #       print(e)
-
 for cls in list(cls2query.keys()):
-    # cls = 'person-politician'
-    # print("cls:", cls)
     for index in tqdm(range(5)):
         # print(cls, index)
-        if os.path.exists(os.path.join(output_dir, f"{index}_{cls}.txt")): # 有就不算了
+        if os.path.exists(os.path.join(output_dir, f"{index}_{cls}.txt")):
             continue
         query = cls2query[cls][index]
         seed_list = [eid2name[int(i)] for i in query]
         print("seed_list:", seed_list)
         ask_chatgpt(seed_list, cls, index)
-    #     break
-    # break
