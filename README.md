@@ -17,7 +17,7 @@ We present the source code and release the NERD-Img dataset.
 ## Overview
 <img src="VLExpan.jpg"/>
 
-Our proposed VLExpan consists of four key steps: (1) candidate generation and (2) expansion refinement.
+Our proposed VLExpan mainly consists of two parts: (1) candidate generation and (2) expansion refinement.
 
 ## Dataset
 The entity, courpus, query and ground truth of NERD-Img dataset can be found in "src/data/NERD/". 
