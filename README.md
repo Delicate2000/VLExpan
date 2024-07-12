@@ -21,7 +21,7 @@ Our proposed VLExpan mainly consists of two parts: (1) candidate generation and 
 
 ## Dataset
 The entity, courpus, query and ground truth of NERD-Img dataset can be found in "src/data/NERD/". 
-Due to the anonymous policy, the all image resource will be released in Google Driver after anonymous restriction. We give some cases in "image-crawler". 
+Due to the size of image file is relatively large, the all image resource will be released in Google Driver after the review. We give some cases in "image-crawler". 
 
 ## Data procession
 Run the following instruction to tokenize the corpus, which returns 'entity2sents_beit3.pkl'.
