@@ -11908,7 +11908,7 @@ Drakes Bay	11906
 Congress of Paris	11907
 Desert Eagle pistol	11908
 Kings	11909
-Sakharov	11910
+Vladimir Vladimirovich Sakharov	11910
 Irish Trades Union Congress	11911
 Didrik Möllerum	11912
 Roburis Carolii	11913
